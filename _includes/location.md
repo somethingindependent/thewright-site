@@ -1,1 +1,3 @@
-[Understudy](http://understudydenver.com) is Denver’s first-of-its-kind arts and culture incubator and experimental space. Operated, curated and funded by the [Denver Theatre District](http://denvertheatredistrict.com), Understudy is a 700-square-foot space for the community to explore and experience new artistic and cultural endeavors. Understudy is a way to experiment both operationally and artistically, to determine the best way to provide artists, creative groups and the community with a free, central, immersive and innovative space for installation-based work.
+New for 2018, we're excited to be holding The Wright program in the heart of downtown Golden and on the campus of the Colorado School of Mines.
+
+Golden is the the city "where the west lives" - at the cross section of the Old West, with its frontier heritage and community values, and the New West, driven by outdoor recreation and new technology.

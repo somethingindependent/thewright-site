@@ -8,7 +8,7 @@ layout: default
       {%- include intro.md %}
     {% endcapture %}
     {{ intro | markdownify }}
-    {% include mailchimp-ts.html %}
+    {% include mailchimp-tw.html %}
   </section>
 </div>
 
@@ -22,6 +22,7 @@ layout: default
 {% comment %}   </div> {% endcomment %}
 {% comment %} </nav> {% endcomment %}
 
+{%- if site.talks.size > 0 -%}
 <div class="content-section-header">
   <a name="schedule">Schedule</a>
 </div>
@@ -33,14 +34,15 @@ layout: default
     {{ talks | markdownify }}
   </section>
 </div>
+{% endif %}
 
 <div class="content-section-header">
-  <a name="art">Artists</a>
+  <a name="contenders">The Contenders</a>
 </div>
 <div class="wrapper">
-  <section class="content-section">
+  <section class="content-section contenders">
 
-    {% include artists.html %}
+    {% include contenders.html %}
   </section>
 </div>
 

@@ -1,8 +1,5 @@
-Set against the backdrop of North America's largest gathering of outdoor industry leaders, **TRADE SCHOOL** is five days of **[art](#art)** & **[discussion](#schedule)** offering a window into the __real work__ of outdoor-inspired artists, entrepreneurs, athletes and advocates.
+Three days to recognize, connect, and celebrate all those pursuing a passion, finding a purpose, exploring collaboration, and doing good work.
 
-**Located @ Understudy  
-Denver’s experimental art & culture incubator**
+The Wright brings together a cross-section of leaders. More than an industry showcase, The Wright highlights a mindset. These companies and their founders, while staunchly self-reliant, represent a broader way of thinking. Their approach to leadership is bold, principled and collaborative.
 
-**Free and open to the public**
-
-**Come visit us at 890 14th Street, adjacent to the Colorado Convention Center B-Cycle Station**
+<iframe src="https://player.vimeo.com/video/183436168" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

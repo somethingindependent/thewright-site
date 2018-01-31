@@ -1,2 +1,2 @@
-# tradeschool
-Site for S:I Tradeschool
+# The Wright
+Site for S:I's The Wright

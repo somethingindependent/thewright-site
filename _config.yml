@@ -3,23 +3,23 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 future: true
-google_analytics: "UA-111929567-1"
+google_analytics: "UA-111929567-2"
 # SEO / Sitemap
-url: "http://trade-school.co"
+url: "http://thewright.co"
 baseurl: ""
-title: "TRADE SCHOOL @ UNDERSTUDY | January 24-28, 2018 | Denver, CO"
-description: "Five days of art and talks exploring the nature of work, set against the backdrop of North America’s largest gathering of outdoor industry leaders"
+title: "The Wright | May 1-3, 2018 | Golden, CO"
+description: "Three days to recognize, connect, and celebrate all those pursuing a passion, finding a purpose, exploring collaboration, and doing good work"
 twitter:
   username: somethingindpnt
 facebook:
   publisher: https://www.facebook.com/SomethingIndependent/
 social:
-  name: TRADE SCHOOL, a Something Independent project
+  name: The Wright, a Something Independent project
   links:
     - https://twitter.com/somethingindpnt
     - https://www.facebook.com/SomethingIndependent/
     - https://www.instagram.com/somethingindependent/
-logo: assets/trade-school-ig.png
+logo: assets/the-wright-ig.png
 # Collections
 collections:
   talks:
@@ -29,10 +29,11 @@ defaults:
   - scope:
       path: ""
     values:
-      image: assets/trade-school-ig.png
+      image: assets/the-wright-ig.png
       last_modified_at: now
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
+timezone: America/Denver

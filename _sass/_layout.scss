@@ -1,27 +1,27 @@
 .site-header {
-  background-color: $navy-color;
   position: relative;
   z-index: 1;
 }
 
-.site-header:before {
-  content : "";
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  opacity : 0.2;
+// .site-header:before {
+//   content : "";
+//   display: block;
+//   position: absolute;
+//   top: 0;
+//   left: 0;
+//   width: 100%;
+//   height: 100%;
+//   opacity : 0.2;
 
-  background-image: url('/assets/bark_topo_pattern_white.png');
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  z-index: 5;
-}
+//   background-image: url('/assets/bark_topo_pattern_white.png');
+//   background-position: center center;
+//   background-repeat: no-repeat;
+//   background-size: cover;
+//   z-index: 5;
+// }
 
 .site-title, .site-title:active, .site-title:hover, .site-title:visited  {
+
   display: block;
   position: relative;
   font-size: ms(9);
@@ -31,7 +31,7 @@
   padding: $spacing-unit * 2 0 $spacing-unit / 2 0;
   text-align: center;
   text-decoration: none;
-  color: $background-color;
+  color: $navy-color;
   z-index: 10;
 }
 
@@ -44,7 +44,7 @@
   // padding: $spacing-unit 0 $spacing-unit / 2 0;
   text-align: center;
   text-transform: uppercase;
-  color: $background-color;
+  color: $navy-color;
   z-index: 10;
 }
 
@@ -66,7 +66,8 @@
     font-family: $base-font-family;
     font-weight: 100;
     line-height: 1;
-    color: $background-color;
+    vertical-align: middle;
+    color: $navy-color;
     text-transform: uppercase;
     text-decoration: none;
 
@@ -75,10 +76,15 @@
     }
   }
 
-  img {
+  svg {
     display: inline;
+    vertical-align: middle;
     height: 2.5em;
     padding-left: 1em;
+    path {
+      fill: $navy-color;
+    }
+
   }
 }
 
@@ -96,7 +102,7 @@
 
   a {
     margin: 0 $spacing-unit 0 0;
-    color: $background-color;
+    color: $navy-color;
 
     @include media-query($on-palm) {
       margin: 0 $spacing-unit / 2;
@@ -106,7 +112,8 @@
 
 .site-tagline {
   text-align: center;
-  background-color: $aqua-color;
+  text-transform: uppercase;
+  background-color: $orange-color;
   color: $background-color;
   font-size: ms(3);
   font-family: $heading-font-family;
@@ -120,7 +127,7 @@
 
 .site-nav {
   padding: $spacing-unit / 3 0;
-  background-color: $aqua-color;
+  background-color: $orange-color;
 }
 
 .site-nav ul {
@@ -152,15 +159,19 @@
 .content-section {
   margin: $spacing-unit auto $spacing-unit * 2 auto;
 
-  &.intro p {
+  &.intro, &.contenders {
     text-align: center;
+
+    iframe {
+      margin: $spacing-unit auto;
+    }
   }
 }
 
 .content-section-header {
   width: 100%;
   color: $background-color;
-  background-color: $aqua-color;
+  background-color: $orange-color;
   text-align: center;
   padding: $spacing-unit / 2 0;
   font-size: ms(4);
@@ -229,7 +240,7 @@
   font-size: ms(1);
   padding: $spacing-unit / 2;
   margin: $spacing-unit / 2 0;
-  background-color: $aqua-color;
+  background-color: $orange-color;
   color: $background-color;
   text-decoration: none;
   -webkit-appearance: none;
@@ -377,7 +388,7 @@
   font-size: ms(1);
   padding: $spacing-unit / 2;
   margin: $spacing-unit auto;
-  background-color: $aqua-color;
+  background-color: $orange-color;
   color: $background-color;
   text-decoration: none;
   -webkit-appearance: none;
@@ -392,4 +403,14 @@
   i {
     margin-right: $spacing-unit / 2;
   }
+}
+
+.location-image {
+  width: 100%;
+  height: 60vh;
+  background-image: url('/assets/golden-arch-large.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: $spacing-unit * 2;
 }
