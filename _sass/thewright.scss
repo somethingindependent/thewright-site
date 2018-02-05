@@ -12,10 +12,11 @@ $modularscale: (
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
 
 // Custom color scheme
-$navy-color: #015477 !default;
+$navy-color: #1a435a !default;
 $orange-color: #d34c29 !default;
-$grey-color: #808080 !default;
+$grey-color: #8a8b8a !default;
 $teal-color: #10AFCC !default;
+$light-grey-color: #f5f5f5 !default;
 
 // Define defaults for each variable.
 $base-font-family: "Open Sans", Arial, sans-serif !default;
@@ -30,7 +31,7 @@ $heading-font-weight: 600 !default;
 $spacing-unit:     30px !default;
 
 $text-color:       $navy-color !default;
-$background-color: #f5f5f5 !default;
+$background-color: $light-grey-color !default;
 $brand-color:      $orange-color !default;
 
 /* $grey-color:       #828282 !default; */

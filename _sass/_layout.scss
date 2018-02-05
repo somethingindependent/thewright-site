@@ -35,74 +35,42 @@
   z-index: 10;
 }
 
-.site-subtitle {
-  position: relative;
-  font-size: ms(3);
-  font-family: $base-font-family;
-  font-weight: 100;
-  line-height: 1;
-  // padding: $spacing-unit 0 $spacing-unit / 2 0;
-  text-align: center;
-  text-transform: uppercase;
-  color: $navy-color;
-  z-index: 10;
-}
+.wordcloud {
+  margin: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: $grey-color;
 
-.site-attribution {
-  position: relative;
-  text-align: right;
-  z-index: 10;
-  width: 100%;
-  padding-bottom: $spacing-unit;
-
-  @include media-query($on-palm) {
-    text-align: center;
-    padding-bottom: $spacing-unit / 2;
-  }
-
-  a {
-    margin: 0 $spacing-unit 0 0;
-    font-size: ms(-1);
-    font-family: $base-font-family;
-    font-weight: 100;
+  li {
+    margin: 0;
+    padding: $spacing-unit / 2 $spacing-unit;
+    color: $background-color;
+    font-size: ms(2);
+    font-family: $heading-font-family;
+    font-weight: $heading-font-weight;
     line-height: 1;
-    vertical-align: middle;
-    color: $navy-color;
     text-transform: uppercase;
-    text-decoration: none;
-
-    @include media-query($on-palm) {
-      margin: 0;
-    }
-  }
-
-  svg {
-    display: inline;
-    vertical-align: middle;
-    height: 2.5em;
-    padding-left: 1em;
-    path {
-      fill: $navy-color;
-    }
-
   }
 }
 
 .site-social {
   position: relative;
+  float: right;
   text-align: right;
-  z-index: 10;
-  width: 100%;
-  padding-top: $spacing-unit;
+  padding-right: $spacing-unit;
 
   @include media-query($on-palm) {
+    float: none;
     text-align: center;
     padding-top: $spacing-unit / 2;
   }
 
   a {
+    font-size: ms(-3);
     margin: 0 $spacing-unit 0 0;
-    color: $navy-color;
+    color: $background-color;
 
     @include media-query($on-palm) {
       margin: 0 $spacing-unit / 2;
@@ -111,9 +79,12 @@
 }
 
 .site-tagline {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
   text-align: center;
   text-transform: uppercase;
-  background-color: $orange-color;
+  background-color: $navy-color;
   color: $background-color;
   font-size: ms(3);
   font-family: $heading-font-family;
@@ -171,7 +142,7 @@
 .content-section-header {
   width: 100%;
   color: $background-color;
-  background-color: $orange-color;
+  background-color: $navy-color;
   text-align: center;
   padding: $spacing-unit / 2 0;
   font-size: ms(4);
@@ -323,7 +294,7 @@
  */
 
 .partner-si-logo {
-  margin: auto auto $spacing-unit auto;
+  margin: $spacing-unit auto;
   width: 33%;
   text-align: center;
 
@@ -340,6 +311,7 @@
   }
 
   img {
+    filter: grayscale(100%);
     width: 70%;
   }
 
