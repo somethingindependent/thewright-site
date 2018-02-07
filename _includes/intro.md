@@ -1,5 +1,6 @@
-Three days to recognize, connect, and celebrate all those pursuing a passion, finding a purpose, exploring collaboration, and doing good work.
+THE WRIGHT is an outdoor-inspired industry summit and award program recognizing that unique breed of leader. The kind to bet on instinct and belief rather than conventional wisdom. They are the self-reliant type. Tough to corral. But for three days in May, we’ll gather and celebrate them - their companies, their creations and their communities. We sure hope you’ll join us.
 
-The Wright brings together a cross-section of leaders. More than an industry showcase, The Wright highlights a mindset. These companies and their founders, while staunchly self-reliant, represent a broader way of thinking. Their approach to leadership is bold, principled and collaborative.
+FOUNDERS  |  VIDEO SHORTS  |  MUSIC  |  INSIGHT  |  MEDIA  |  GEAR  |  AWARD NIGHT
+ROCKY MOUNTAIN MINDSET  
 
 <iframe src="https://player.vimeo.com/video/183436168" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
