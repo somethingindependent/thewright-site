@@ -1,7 +1,16 @@
-Five days of inspirational and educational talks that get you thinking about the nature of real work. 
+## Day 1
+- Keynote
+- Welcome party
+
+## Day 2
+- roundtable
+- panels
+
+## Day 3
+Insights + keynote & AWARD NITE
 
 ### Use Google Calendar, iCal, or Outlook?
-Subscribe to the full schedule and make it easy to look up all of the details on-the-go.
+Subscribe to the schedule and make it easy to look up all of the details on-the-go.
 {% assign webcal_url = "schedule.ics" | absolute_url | replace: "http", "webcal" %}
 
 <a class="calendar-button" href="{{ webcal_url }}">

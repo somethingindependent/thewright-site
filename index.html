@@ -22,28 +22,26 @@ layout: default
 {% comment %}   </div> {% endcomment %}
 {% comment %} </nav> {% endcomment %}
 
-{%- if site.talks.size > 0 -%}
 <div class="content-section-header">
   <a name="schedule">Schedule</a>
 </div>
 <div class="wrapper">
   <section class="content-section">
-    {% capture talks %}
-      {%- include talks.md %}
+    {% capture schedule %}
+      {%- include schedule.md %}
     {% endcapture %}
-    {{ talks | markdownify }}
+    {{ schedule | markdownify }}
   </section>
 </div>
-{% endif %}
 
-{% comment %} <div class="content-section-header"> {% endcomment %}
-{% comment %}   <a name="contenders">The Contenders</a> {% endcomment %}
-{% comment %} </div> {% endcomment %}
-{% comment %} <div class="wrapper"> {% endcomment %}
-{% comment %}   <section class="content-section contenders"> {% endcomment %}
+<div class="content-section-header">
+  <a name="contenders">The Contenders</a>
+</div>
+<div class="wrapper">
+  <section class="content-section contenders">
 
-{% comment %}     {% include contenders.html %} {% endcomment %}
-{% comment %}   </section> {% endcomment %}
-{% comment %} </div> {% endcomment %}
+    {% include contenders.html %}
+  </section>
+</div>
 
-{% comment %} {% include location.html description=true %} {% endcomment %}
+{% include location.html description=true %}
