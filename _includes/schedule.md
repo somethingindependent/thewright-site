@@ -1,13 +1,11 @@
 ## Day 1
-- Keynote
-- Welcome party
+A Wright Welcome. Kick-off Keynote. Afternoon panels and contender social.
 
 ## Day 2
-- roundtable
-- panels
+Dig In. Contender Roundtable. Keynote. Panel Sessions. Wright Rendezvous. Golden Night.
 
 ## Day 3
-Insights + keynote & AWARD NITE
+Wright Insights. Last Keynote. Contender Product Gallery. Award Night!
 
 ### Use Google Calendar, iCal, or Outlook?
 Subscribe to the schedule and make it easy to look up all of the details on-the-go.
