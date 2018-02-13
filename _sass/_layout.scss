@@ -297,11 +297,17 @@
     width: 70%;
   }
 
-  .logo-row-1up, .logo-row-2up, .logo-row-3up {
+  .logo-row-1up, .logo-row-2up, .logo-row-3up, .logo-row-4up {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .logo-row-4up a {
+    width: -webkit-calc(25% - (#{$spacing-unit}));
+    width:         calc(25% - (#{$spacing-unit}));
   }
 
   .logo-row-3up a {
@@ -317,6 +323,13 @@
   .logo-row-1up a {
     width: -webkit-calc(100% - (#{$spacing-unit}));
     width:         calc(100% - (#{$spacing-unit}));
+  }
+
+  @include media-query($on-palm) {
+    .logo-row-1up a, .logo-row-2up a, .logo-row-3up a, .logo-row-4up a {
+      width: -webkit-calc(60% - (#{$spacing-unit}));
+      width:         calc(60% - (#{$spacing-unit}));
+    }
   }
 }
 
