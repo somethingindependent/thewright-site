@@ -11,4 +11,13 @@ group :jekyll_plugins do
 end
 
 gem 'rake'
-gem 'html-proofer'
+gem 'gemoji'
+gem 'newrelic_rpm'
+
+gem 'rack'
+gem 'rack-jekyll'
+gem 'puma'
+
+group :development, :test do
+  gem 'html-proofer'
+end
