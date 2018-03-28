@@ -1,3 +1,16 @@
+%button {
+  display: block;
+  font-family: $heading-font-family;
+  font-size: ms(1);
+  padding: $spacing-unit / 2;
+  margin: $spacing-unit / 2 0;
+  background-color: $orange-color;
+  color: $background-color;
+  text-decoration: none;
+  -webkit-appearance: none;
+  border: none;
+}
+
 .site-header {
   position: relative;
   z-index: 1;
@@ -188,15 +201,7 @@
 }
 
 .email-form input[type="submit"] {
-  font-family: $heading-font-family;
-  font-size: ms(1);
-  padding: $spacing-unit / 2;
-  margin: $spacing-unit / 2 0;
-  background-color: $orange-color;
-  color: $background-color;
-  text-decoration: none;
-  -webkit-appearance: none;
-  border: none;
+  @extend %button;
   width: 100%;
 }
 
@@ -350,16 +355,7 @@
 }
 
 .calendar-button, .calendar-button:hover, .calendar-button:active, .calendar-button:visited {
-  display: block;
-  font-family: $heading-font-family;
-  font-size: ms(1);
-  padding: $spacing-unit / 2;
-  margin: $spacing-unit auto;
-  background-color: $orange-color;
-  color: $background-color;
-  text-decoration: none;
-  -webkit-appearance: none;
-  border: none;
+  @extend %button;
   width: 50%;
   text-align: center;
 
@@ -370,6 +366,11 @@
   i {
     margin-right: $spacing-unit / 2;
   }
+}
+
+.cta-button, .cta-button:hover, .cta-button:visited {
+  @extend %button;
+  margin: $spacing-unit;
 }
 
 .location-image {

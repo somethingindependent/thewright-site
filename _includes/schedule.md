@@ -1,6 +1,6 @@
 For 2018, The Wright expands into three days of keynote speakers, panel discussions, workshops and events intended to foster collaboration, provoke discussion and stoke the fires of outdoor-inspired entrepreneurship.
 
-These events will all be open to the public. Many are free, though some will require tickets. Stay tuned for more information on tickets and registration, coming soon!
+We’ve worked hard to bring high-level, inspirational talks and tactical workshops with hard-skill takeaways to you at no cost. All afternoon sessions ­ keynote speakers, panel discussions, workshops ­ are FREE and open-to-the-public (though we do ask that you register in advance). This unique opportunity is made possible through the generous support of our partners and, new this year, our patrons. 
 
 ## KEYNOTES
 Join us each day for an inspiring keynote speaker exploring the theme of bold, principled, collaborative leadership.
