@@ -1,4 +1,4 @@
-THE WRIGHT is an outdoor-inspired industry summit and award program recognizing that unique breed of leader. The kind to bet on instinct and belief rather than conventional wisdom. They are the self-reliant type. Tough to corral. But for three days in May, we’ll gather and celebrate them - their companies, their creations and their communities. We sure hope you’ll join us.
+The Wright celebrates a unique breed of leader. The kind to bet on instinct over conventional wisdom. Inspired by hard working, independent-minded men and women of the Rocky Mountain Region, The Wright brings 3 days of discussions, workshops, keynotes and events all culminating in the high-energy, much-anticipated Award Night program to Golden, Colorado – “Where the West Lives” - from May 1st-3rd.
 
-FOUNDERS | VIDEO SHORTS | MUSIC | INSIGHT | MEDIA | GEAR | AWARD NIGHT | ROCKY MOUNTAIN MINDSET  
+<a href="#tickets" class="cta-button">Tickets and Patron Passes Now Available</a>
 
