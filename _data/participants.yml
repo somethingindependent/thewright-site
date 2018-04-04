@@ -1,0 +1,49 @@
+- first_name: Cordell
+  last_name: Carter
+  company: Aspen Institute
+  headshot_path: /assets/headshots/cordell-carter.png
+- first_name: Ian
+  last_name: Fohrman
+  company: The Public Works
+  headshot_path: /assets/headshots/ian-fohrman.jpg
+- first_name: Marc
+  last_name: Gutman
+  company: Wildstory
+  headshot_path: /assets/headshots/marc-gutman.jpg
+- first_name: Karen
+  last_name: Capaldi
+  company: Starbucks
+  headshot_path: /assets/headshots/karen-capaldi.jpg
+- first_name: Delaney
+  last_name: Keating
+  company: ICELab @ Western
+  headshot_path: /assets/headshots/delaney-keating.jpg
+- first_name: Brendan
+  last_name: Leonard
+  company: Semi-Rad Media
+  headshot_path: /assets/headshots/brendan-leonard.jpg
+- first_name: Annelise
+  last_name: Loevlie
+  company: Icelantic
+  headshot_path: /assets/headshots/annelise-loevlie.jpg
+- first_name: Kelly
+  last_name: Watters
+  company: Western Rise
+  headshot_path: /assets/headshots/kelly-watters.jpg
+- first_name: Luis
+  last_name: Benitez
+  company: Colorado OREC
+  headshot_path: /assets/headshots/luis-benitez.jpg
+- first_name: Tom
+  last_name: Adams
+  company: Utah OREC
+  headshot_path: /assets/headshots/tom-adams.jpg
+- first_name: Amy
+  last_name: Kemp
+  company: ELEVATE coSPACE
+  headshot_path: /assets/headshots/amy-kemp.jpg
+- first_name: Jason
+  last_name: Blevins
+  company: Journalist
+  headshot_path: /assets/headshots/jason-blevins.jpg
+

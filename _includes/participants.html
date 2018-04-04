@@ -1,0 +1,10 @@
+{% assign participants_by_name = site.data.participants | sort: "last_name" %}
+
+<div class="participant-grid">
+{%- for participant in participants_by_name -%}
+  <div class="participant-headshot">
+    <img src="{{ participant.headshot_path }}" alt="{{ participant.first_name }} {{ participant.last_name }} | {{ participant.company }}" />
+    <div class="participant-name">{{ participant.first_name }} {{ participant.last_name }}</div>
+    <div class="participant-company">{{ participant.company }}</div>
+  </div>
+{%- endfor -%}
