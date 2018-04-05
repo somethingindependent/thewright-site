@@ -54,4 +54,53 @@
   last_name: Peyerl
   company: Alpine Media Technology
   headshot_path: /assets/headshots/freddie-peyerl.jpg
+- first_name: Johnny
+  last_name: Klein
+  company: Something Independent
+  headshot_path: /assets/headshots/johnny-klein.png
+- first_name: Deanne
+  last_name: Buck
+  company: Camber Outdoors
+  headshot_path: /assets/headshots/deanne-buck.jpg
+- first_name: Nathan
+  last_name: Decker
+  company: evo
+  headshot_path: /assets/headshots/nathan-decker.jpg
+- first_name: Cat
+  last_name: Alletto
+  company: Spark4
+  headshot_path: /assets/headshots/cat-alletto.jpg
+- first_name: Ashley
+  last_name: Miller
+  company: evoTrip
+  headshot_path: /assets/headshots/ashley-miller.jpg
+- first_name: Bryce
+  last_name: Phillips
+  company: evo
+  headshot_path: /assets/headshots/bryce-phillips.jpg
+- first_name: Ally
+  last_name: Seeley
+  company: Drumbeat
+  headshot_path: /assets/headshots/ally-seeley.png
+- first_name: Chuck
+  last_name: Sullivan
+  company: Something Independent
+  headshot_path: /assets/headshots/chuck-sullivan.png
+- first_name: Jennifer
+  last_name: Thoemke
+  company: Connects Workspace
+  headshot_path: /assets/headshots/jennifer-thoemke.jpg
+- first_name: Sam
+  last_name: Warren
+  company: The Pinecone Project
+  headshot_path: /assets/headshots/sam-warren.jpg
+- first_name: Jon
+  last_name: Woods
+  company: CenterTable
+  headshot_path: /assets/headshots/jon-woods.png
+- first_name: Jay
+  last_name: Zeschin
+  company: Denver Startup Week
+  headshot_path: /assets/headshots/jay-zeschin.jpg
+
 
