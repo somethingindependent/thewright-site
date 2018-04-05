@@ -275,8 +275,7 @@
 }
 
 /**
- * Sponsors
- * * This is not built responsively - it scales down but does not re-layout
+ * Partners
  */
 
 .partner-si-logo {
@@ -290,57 +289,32 @@
   }
 }
 
-.sponsor-logos {
+.partner-logos {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+
   a {
+    width: -webkit-calc(33% - (#{$spacing-unit}));
+    width:         calc(33% - (#{$spacing-unit}));
     margin: $spacing-unit / 2 $spacing-unit / 2;
     text-align: center;
     vertical-align: middle;
+  }
+
+  @include media-query($on-palm) {
+    a {
+      width: -webkit-calc(60% - (#{$spacing-unit}));
+      width:         calc(60% - (#{$spacing-unit}));
+    }
   }
 
   img {
     filter: grayscale(100%);
     width: 70%;
   }
-
-  .logo-row-1up, .logo-row-2up, .logo-row-3up, .logo-row-4up {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-
-  .logo-row-4up a {
-    width: -webkit-calc(25% - (#{$spacing-unit}));
-    width:         calc(25% - (#{$spacing-unit}));
-  }
-
-  .logo-row-3up a {
-    width: -webkit-calc(33% - (#{$spacing-unit}));
-    width:         calc(33% - (#{$spacing-unit}));
-  }
-
-  .logo-row-2up a {
-    width: -webkit-calc(50% - (#{$spacing-unit}));
-    width:         calc(50% - (#{$spacing-unit}));
-  }
-
-  .logo-row-1up a {
-    width: -webkit-calc(100% - (#{$spacing-unit}));
-    width:         calc(100% - (#{$spacing-unit}));
-  }
-
-  @include media-query($on-palm) {
-    .logo-row-1up a, .logo-row-2up a, .logo-row-3up a, .logo-row-4up a {
-      width: -webkit-calc(60% - (#{$spacing-unit}));
-      width:         calc(60% - (#{$spacing-unit}));
-    }
-  }
-}
-
-.sponsor-copy {
-  margin: $spacing-unit auto;
-  text-align: center;
 }
 
 /**

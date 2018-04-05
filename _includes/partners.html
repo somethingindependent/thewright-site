@@ -1,0 +1,19 @@
+<div class="content-section-header">
+  <a name="partners">Partners</a>
+</div>
+<div class="wrapper">
+  <div class="content-section">
+    <p class="centered-copy">
+      Special thanks to our community partners:
+    </p>
+
+    <div class="partner-logos">
+      {%- for partner in site.data.partners -%}
+        <a href="{{ partner.url }}" target="_blank">
+          <img src="{{ partner.logo_path }}" alt="{{ partner.name }}" />
+        </a>
+      {%- endfor -%}
+    </div>
+
+  </div>
+</div>
