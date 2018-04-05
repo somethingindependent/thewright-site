@@ -46,4 +46,8 @@
   last_name: Blevins
   company: Journalist
   headshot_path: /assets/headshots/jason-blevins.jpg
+- first_name: Sarah
+  last_name: Shrader
+  company: Bonsai Design
+  headshot_path: /assets/headshots/sarah-shrader.jpg
 
