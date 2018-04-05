@@ -343,6 +343,46 @@
   text-align: center;
 }
 
+/**
+ * Participants
+ */
+
+.participant-grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  .participant-headshot {
+    margin: $spacing-unit / 2 $spacing-unit / 2;
+    text-align: center;
+    vertical-align: middle;
+    width: calc(25% - (#{$spacing-unit} * 2));
+    width: -webkit-calc(25% - (#{$spacing-unit} * 2));
+    font-size: ms(-1);
+    font-style: italic;
+    line-height: 1;
+  }
+
+  @include media-query($on-palm) {
+    .participant-headshot {
+      width: calc(50% - (#{$spacing-unit} * 2));
+      width: -webkit-calc(50% - (#{$spacing-unit} * 2));
+    }
+  }
+
+  .participant-name {
+    margin-bottom: $spacing-unit / 6;
+  }
+
+  img {
+    filter: grayscale(100%);
+    border-radius: 50%;
+    width: 70%;
+    margin-bottom: $spacing-unit / 3;
+  }
+}
+
 .disclaimer {
   font-size: ms(-1);
   font-style: italic;
