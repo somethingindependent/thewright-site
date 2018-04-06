@@ -1,5 +1,5 @@
 - first_name: Cordell
-  last_name: Carter
+  last_name: Carter, II
   company: Aspen Institute
   headshot_path: /assets/headshots/cordell-carter.png
 - first_name: Ian
@@ -12,7 +12,7 @@
   headshot_path: /assets/headshots/marc-gutman.jpg
 - first_name: Karen
   last_name: Capaldi
-  company: Starbucks
+  company: DreamMaker Project / Starbucks 
   headshot_path: /assets/headshots/karen-capaldi.jpg
 - first_name: Delaney
   last_name: Keating
@@ -68,7 +68,7 @@
   headshot_path: /assets/headshots/nathan-decker.jpg
 - first_name: Cat
   last_name: Alletto
-  company: Spark4
+  company: Spark4team
   headshot_path: /assets/headshots/cat-alletto.jpg
 - first_name: Ashley
   last_name: Miller
@@ -102,5 +102,3 @@
   last_name: Zeschin
   company: Denver Startup Week
   headshot_path: /assets/headshots/jay-zeschin.jpg
-
-
