@@ -102,3 +102,7 @@
   last_name: Zeschin
   company: Denver Startup Week
   headshot_path: /assets/headshots/jay-zeschin.jpg
+- first_name: John
+  last_name: Hickenlooper
+  company: Governor of Colorado
+  headshot_path: /assets/headshots/john-hickenlooper.jpg
