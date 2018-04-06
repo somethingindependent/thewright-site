@@ -1,0 +1,36 @@
+- name: Alpacka Raft, Mancos, Colo.
+  url: https://www.alpackaraft.com/rafting/
+  logo_path: /assets/logos/contenders/alpacka-raft.png
+- name: Cotopaxi, Salt Lake City, Utah
+  url: https://www.cotopaxi.com/
+  logo_path: /assets/logos/contenders/cotopaxi.png
+- name: Green Guru Gear, Boulder, Colo.
+  url: https://www.greengurugear.com/
+  logo_path: /assets/logos/contenders/green-guru.jpg
+- name: Hot Tomato, Fruita, Colo.
+  url: https://www.hottomatopiza.com/
+  logo_path: /assets/logos/contenders/hot-tomato.jpg
+- name: Mountain States Snowcats, Torrington, Wyo.
+  url: https://www.mountainstatessnowcats.com/
+  logo_path: /assets/logos/contenders/mountain-states-snowcats.jpg
+- name: Powderhorn Resort, Mesa, Colo.
+  url: https://www.powderhorn.com/
+  logo_path: /assets/logos/contenders/powderhorn.jpg
+- name: Rocky Mountain Underground, Breckenridge, Colo.
+  url: https://www.rmuoutdoors.com/
+  logo_path: /assets/logos/contenders/rmu.png
+- name: SaraBella Fishing, Denver, Colo.
+  url: https://www.sarabellafishing.com/
+  logo_path: /assets/logos/contenders/sarabella-fishing.png
+- name: Western Rise, Telluride, Colo.
+  url: https://www.westernrise.com/
+  logo_path: /assets/logos/contenders/western-rise.png
+- name: Weston Snowboards, Minturn/Denver, Colo.
+  url: https://www.westonsnowboards.com/
+  logo_path: /assets/logos/contenders/weston-snowboards.jpg
+- name: Wood's High Mountain Distillery, Salida, Colo.
+  url: https://www.woodsdistillery.com/
+  logo_path: /assets/logos/contenders/woods-distillery.png
+- name: Yeti Cycles, Golden, Colo.
+  url: https://www.yeticycles.com/
+  logo_path: /assets/logos/contenders/yeti.png
