@@ -1,5 +1,5 @@
 ---
-title: "Direct-To-Consumer: Brands & Retailers Working Together"
+title: "Direct-To-Consumer: brands & retailers working together"
 kind: "session"
 ---
 
