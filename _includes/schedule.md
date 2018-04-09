@@ -8,6 +8,20 @@ Join us each day for an inspiring keynote speaker exploring the theme of bold, p
 ## PANELS
 Oriented around topics of critical importance to entrepreneurs in the outdoor space, the panel discussions will include subject-matter experts and industry veterans providing their insights and expertise.  
 
+{% assign talks_by_day = 
+  site.talks | 
+  where: "kind", "session" | 
+  sort: "date" | 
+  group_by_exp: "talk", "talk.date | 
+  date: '%A, %-m/%-d'" %}
+
+{% for day in talks_by_day %}
+
+{% for talk in day.items -%}
+- [{{ talk.title }}]({{ talk.url }})
+{% endfor -%}
+{%- endfor %}
+
 ## GOLDEN NIGHT
 Explore our new home in Golden with social events and specials hosted by friends new and old. Get to know the members of The Wright community and see what makes them unique. 
 
@@ -17,12 +31,20 @@ Ahead of Award Night, get a first look at the contenders who will be vying for t
 ## AWARD NIGHT
 The culminating event of The Wright, Award Night (Thursday, May 3) features the first-time public screening of 90-second videos produced and submitted by each of the contenders. As part of their selection, each company is charged with conveying through video their vision, their mission and their inspiration. The debut of the contender videos is followed by the announcement of three finalists who take the stage together and face a rapid-fire Q&A session from a panel of judges. The judges, in turn, are tasked with selecting the winner and presenting the $5,000 prize. For 2018, Award Night is being hosted in partnership with Colorado School of Mines at Lockridge Arena. 
 
-{% assign talks_by_day = site.talks | sort: "date" | group_by_exp: "talk", "talk.date | date: '%A, %-m/%-d'" %}
+<span class="disclaimer">
+Please be aware that our session locations are intimate venues with limited seating available for sessions. If you’re planning to attend a session, please arrive early knowing that even arriving early does not guarantee access.
+</span>
 
-{% for day in talks_by_day %}
+### Use Google Calendar, iCal, or Outlook?
+Subscribe to the full schedule and make it easy to look up all of the details on-the-go.
+{% assign webcal_url = "schedule.ics" | absolute_url | replace: "http", "webcal" %}
 
-## {{ day.items.first.date | date: '%A, %-m/%-d'" }}
-{% for talk in day.items -%}
-- [{{ talk.date | date: "%-I:%M %P" }} &mdash; {{ talk.title }}]({{ talk.url }})
-{% endfor -%}
-{%- endfor -%}
+<a class="calendar-button" href="{{ webcal_url }}">
+  <i class="fa fa-calendar" aria-hidden="true"></i>
+  Add to Outlook/iCal
+</a>
+<a class="calendar-button" href="http://www.google.com/calendar/render?cid={{ webcal_url }}" target="_blank">
+  <i class="fa fa-calendar" aria-hidden="true"></i>
+  Add to Google Calendar
+</a>
+
