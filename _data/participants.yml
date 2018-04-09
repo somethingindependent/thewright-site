@@ -30,6 +30,10 @@
   last_name: Watters
   company: Western Rise
   headshot_path: /assets/headshots/kelly-watters.jpg
+- first_name: Will
+  last_name: Watters
+  company: Western Rise
+  headshot_path: /assets/headshots/will-watters.jpg
 - first_name: Luis
   last_name: Benitez
   company: Colorado OREC
@@ -106,3 +110,15 @@
   last_name: Hickenlooper
   company: Governor of Colorado
   headshot_path: /assets/headshots/john-hickenlooper.jpg
+- first_name: Dave
+  last_name: Bacon
+  company: BWBacon Group
+  headshot_path: /assets/headshots/dave-bacon.jpg
+- first_name: Roanne
+  last_name: Houck
+  company: Acli-Mate
+  headshot_path: /assets/headshots/roanne-houck.jpg
+- first_name: Dainella
+  last_name: Nartker
+  company: RhinoFox
+  headshot_path: /assets/headshots/dainella-nartker.jpg
