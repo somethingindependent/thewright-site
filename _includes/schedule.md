@@ -53,17 +53,3 @@ The culminating event of The Wright, Award Night features the first-time public 
 <span class="disclaimer">
 Please be aware that our session locations are intimate venues with limited seating available for sessions. If you’re planning to attend a session, please arrive early knowing that even arriving early does not guarantee access.
 </span>
-
-### Use Google Calendar, iCal, or Outlook?
-Subscribe to the full schedule and make it easy to look up all of the details on-the-go.
-{% assign webcal_url = "schedule.ics" | absolute_url | replace: "http", "webcal" %}
-
-<a class="calendar-button" href="{{ webcal_url }}">
-  <i class="fa fa-calendar" aria-hidden="true"></i>
-  Add to Outlook/iCal
-</a>
-<a class="calendar-button" href="http://www.google.com/calendar/render?cid={{ webcal_url }}" target="_blank">
-  <i class="fa fa-calendar" aria-hidden="true"></i>
-  Add to Google Calendar
-</a>
-
