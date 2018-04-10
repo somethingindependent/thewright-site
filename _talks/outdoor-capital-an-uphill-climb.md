@@ -1,8 +1,8 @@
 ---
 title: "Outdoor Capital: An Uphill Climb"
 kind: "session"
-date: 2018-05-01T15:30:00-08:00
-date_end: 2018-05-01T17:00:00-08:00
+date: 2018-05-01T15:30:00
+date_end: 2018-05-01T17:00:00
 location_name: "Bentgate Mountaineering"
 location_address: "1313 Washington Ave, Golden, CO 80401"
 ---

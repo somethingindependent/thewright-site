@@ -36,4 +36,4 @@ defaults:
       type: talks
     values:
       layout: talk
-timezone: America/Denver
+timezone: '-600'

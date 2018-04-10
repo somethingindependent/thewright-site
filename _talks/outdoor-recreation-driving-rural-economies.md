@@ -1,8 +1,8 @@
 ---
 title: "Outdoor Recreation Driving Rural Economies"
 kind: "session"
-date: 2018-05-02T15:30:00-08:00
-date_end: 2018-05-02T17:00:00-08:00
+date: 2018-05-02T15:30:00
+date_end: 2018-05-02T17:00:00
 location_name: "Bentgate Mountaineering"
 location_address: "1313 Washington Ave, Golden, CO 80401"
 ---
