@@ -12,7 +12,7 @@ exclude_tagline: true
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<h1 class="content-section-header">{{ page.date | date: "%A, %B %d at %-I:%M%P" }}</h1>
+<h1 class="content-section-header">{{ page.date | date: "%A, %B %-d at %-I:%M%P" }}</h1>
 <div class="wrapper">
   <section class="content-section">
     <h2>{{ page.title }}</h2>
@@ -29,4 +29,4 @@ exclude_tagline: true
   </section>
 </div>
 
-{% include location.html description=false %}
+{% include location.html description=false location_for_map=page.location_address %}

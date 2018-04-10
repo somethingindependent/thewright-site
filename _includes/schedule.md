@@ -1,6 +1,6 @@
 For 2018, The Wright expands into three days of keynote speakers, panel discussions, workshops and events intended to foster collaboration, provoke discussion and stoke the fires of outdoor-inspired entrepreneurship.
 
-We’ve worked hard to bring high-level, inspirational talks and tactical workshops with hard-skill takeaways to you at no cost. All afternoon sessions ­ keynote speakers, panel discussions, workshops ­ are FREE and open-to-the-public (though we do ask that you register in advance). This unique opportunity is made possible through the generous support of our partners and, new this year, our patrons. 
+We’ve worked hard to bring high-level, inspirational talks and tactical workshops with hard-skill takeaways to you at no cost. All afternoon sessions ­ keynote speakers, panel discussions, workshops ­ are **FREE and open-to-the-public** (though we do ask that you register in advance). This unique opportunity is made possible through the generous support of our partners and, new this year, our patrons. 
 
 ## KEYNOTES
 ### Tuesday - Thursday, 11:30am to 12:30pm
@@ -8,17 +8,12 @@ Join us each day for an inspiring keynote speaker exploring the theme of bold, p
 
 {% assign keynotes_by_day = 
   site.talks | 
-  where: "kind", "keynotes" | 
-  sort: "date" | 
-  group_by_exp: "talk", "talk.date | 
-  date: '%A, %-m/%-d'" %}
+  where: "kind", "keynote" | 
+  sort: "date" %}
+{% for keynote in keynotes_by_day %}
 
-{% for day in talks_by_day %}
-
-{% for talk in day.items -%}
-- [{{ talk.title }}]({{ talk.url }})
-{% endfor -%}
-{%- endfor %}
+### [{{ keynote.date | date: '%A'" }} &mdash; {{ keynote.title }}]({{ keynote.url }})
+{% endfor %}
 
 ## PANELS
 ### Tuesday through Thursday, 1:30pm to 4:30pm
@@ -33,8 +28,9 @@ Oriented around topics of critical importance to entrepreneurs in the outdoor sp
 
 {% for day in talks_by_day %}
 
+## {{ day.items.first.date | date: '%A, %-m/%-d'" }}
 {% for talk in day.items -%}
-- [{{ talk.title }}]({{ talk.url }})
+- [{{ talk.date | date: "%-I:%M%P" }} &mdash; {{ talk.title }}]({{ talk.url }})
 {% endfor -%}
 {%- endfor %}
 
