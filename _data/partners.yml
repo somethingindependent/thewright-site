@@ -6,7 +6,7 @@
   logo_path: /assets/logos/school-of-mines-bw.png
 - name: City of Golden
   url: https://www.cityofgolden.net/
-  logo_path: /assets/logos/city-of-golden-bw.png
+  logo_path: /assets/logos/city-of-golden.png
 - name: NREL
   url: https://www.nrel.gov/
   logo_path: /assets/logos/nrel.png
@@ -15,7 +15,7 @@
   logo_path: /assets/logos/eo-colorado.png
 - name: Colorado Lending Source
   url: https://www.coloradolendingsource.org/
-  logo_path: /assets/logos/colorado-lending-source-bw.png
+  logo_path: /assets/logos/colorado-lending-source.png
 - name: Centertable
   url: https://www.meetatct.com/
   logo_path: /assets/logos/centertable.png
@@ -37,3 +37,9 @@
 - name: Harmonic Media
   url: https://getharmonic.com/
   logo_path: /assets/logos/harmonic.png
+- name: Battery 621
+  url: http://battery621.com/
+  logo_path: /assets/logos/battery-621.png
+- name: The Public Works
+  url: http://www.thepublicworks.biz/
+  logo_path: /assets/logos/public-works.png
