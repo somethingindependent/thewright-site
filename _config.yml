@@ -3,6 +3,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 future: true
+permalink: pretty
 google_analytics: "UA-111929567-2"
 # SEO / Sitemap
 url: "http://thewright.co"
@@ -24,7 +25,6 @@ logo: assets/the-wright-ig.png
 collections:
   talks:
     output: true
-    permalink: '/:name'
 defaults:
   - scope:
       path: ""
