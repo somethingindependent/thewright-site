@@ -3,7 +3,7 @@ For 2018, The Wright expands into three days of keynote speakers, panel discussi
 We’ve worked hard to bring high-level, inspirational talks and tactical workshops with hard-skill takeaways to you at no cost. All afternoon sessions ­ keynote speakers, panel discussions, workshops ­ are **FREE and open-to-the-public** (though we do ask that you register in advance). This unique opportunity is made possible through the generous support of our partners and, new this year, our patrons. 
 
 ## KEYNOTES
-Join us each day for an inspiring keynote speaker exploring the theme of bold, principled, collaborative leadership.
+Join us each day at 11:30am for an inspiring hourlong keynote exploring the theme of bold, principled, collaborative leadership.
 
 {% assign keynotes_by_day = 
   site.talks | 
@@ -11,11 +11,11 @@ Join us each day for an inspiring keynote speaker exploring the theme of bold, p
   sort: "date" %}
 {% for keynote in keynotes_by_day %}
 
-### [{{ keynote.date | date: '%A at %-I:%M %P'" }} &mdash; {{ keynote.title }}]({{ keynote.url }})
+### [{{ keynote.date | date: '%A'" }} &mdash; {{ keynote.title }}]({{ keynote.url }})
 {% endfor %}
 
 ## PANELS
-Oriented around topics of critical importance to entrepreneurs in the outdoor space, the panel discussions will include subject-matter experts and industry veterans providing their insights and expertise.  
+Oriented around topics of critical importance to entrepreneurs in the outdoor space, the 90-minute panel discussions will include subject-matter experts and industry veterans providing their insights and expertise.  
 
 {% assign talks_by_day = 
   site.talks | 
