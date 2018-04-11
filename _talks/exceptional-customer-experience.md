@@ -7,4 +7,10 @@ location_name: "Table Mountain Inn"
 location_address: "1310 Washington Ave, Golden, CO 80401"
 ---
 
-The intersection of technology, data insight and digital experience. Empower your organization to digitally enrich each customer’s journey, while leaving room to help inform and encourage the development of improved (transformed) business models. Connecting data to value. What data do you have or more importantly what data don’t you have that you should be collecting. How to ensure best practices for clean data and what analytics should you consider monitoring based your goals?
+This workshop focuses on the intersection of technology, data insight and digital experience. Empower your organization to digitally enrich each customer’s journey, while leaving room to help inform and encourage the development of improved (transformed) business models. Connecting data to value. What data do you have or more importantly what data don’t you have that you should be collecting. How to ensure best practices for clean data and what analytics should you consider monitoring based your goals?
+
+## Speakers
+- Scott Buelter, Ascent360
+
+## Moderator
+Johnny Klein, Something Independent
