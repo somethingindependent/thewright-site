@@ -40,3 +40,9 @@ defaults:
 prose:
   siteurl: 'http://thewright.co/'
   media: 'assets'
+  ignore:
+    - .gitignore
+    - Gemfile
+    - Gemfile.lock
+    - CNAME
+    - Rakefile
