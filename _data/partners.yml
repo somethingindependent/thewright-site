@@ -10,9 +10,6 @@
 - name: NREL
   url: https://www.nrel.gov/
   logo_path: /assets/logos/nrel.png
-- name: EO Colorado
-  url: https://www.eonetwork.org/colorado
-  logo_path: /assets/logos/eo-colorado.png
 - name: Colorado Lending Source
   url: https://www.coloradolendingsource.org/
   logo_path: /assets/logos/colorado-lending-source.png
@@ -43,3 +40,15 @@
 - name: The Public Works
   url: http://www.thepublicworks.biz/
   logo_path: /assets/logos/public-works.png
+- name: Messner Reeves LLP
+  url: https://www.messner.com/
+  logo_path: /assets/logos/messner-reeves-llp.png
+- name: LaCome Events
+  url: https://www.lacomeevents.com/
+  logo_path: /assets/logos/lacome-events.png
+- name: The Infinite Monkey Theorem
+  url: https://www.theinfinitemonkeytheorem.com/
+  logo_path: /assets/logos/infinite-monkey-theorem.png
+- name: Colorado Native
+  url: https://www.coloradonative.com/
+  logo_path: /assets/logos/colorado-native.jpg
