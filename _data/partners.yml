@@ -1,15 +1,18 @@
-- name: Colorado Office of Economic Development and International Trade
-  url: https://www.choosecolorado.com/
-  logo_path: /assets/logos/oedit.png
-- name: Colorado School of Mines
-  url: https://www.mines.edu/
-  logo_path: /assets/logos/school-of-mines-bw.png
+- name: Colorado Outdoor Recreation Industry Office
+  url: https://choosecolorado.com/programs-initiatives/outdoor-recreation-industry-office/
+  logo_path: /assets/logos/orec.png
+- name: Harmonic Media
+  url: https://getharmonic.com/
+  logo_path: /assets/logos/harmonic.png
 - name: City of Golden
   url: https://www.cityofgolden.net/
   logo_path: /assets/logos/city-of-golden.png
 - name: NREL
   url: https://www.nrel.gov/
   logo_path: /assets/logos/nrel.png
+- name: The Infinite Monkey Theorem
+  url: https://www.theinfinitemonkeytheorem.com/
+  logo_path: /assets/logos/infinite-monkey-theorem.png
 - name: Colorado Lending Source
   url: https://www.coloradolendingsource.org/
   logo_path: /assets/logos/colorado-lending-source.png
@@ -19,9 +22,9 @@
 - name: Two Parts
   url: https://www.twoparts.com/
   logo_path: /assets/logos/twoparts.png
-- name: Colorado Outdoor Recreation Industry Office
-  url: https://choosecolorado.com/programs-initiatives/outdoor-recreation-industry-office/
-  logo_path: /assets/logos/orec.png
+- name: Startup Colorado
+  url: https://siliconflatirons.org/initiatives/entrepreneurship-initiative/startup-colorado/
+  logo_path: /assets/logos/startup-colorado.png
 - name: Jefferson County Economic Development Corporation
   url: http://jeffcoedc.org/
   logo_path: /assets/logos/jeffco-edc.png
@@ -31,9 +34,9 @@
 - name: Bentgate Mountaineering
   url: http://www.bentgate.com/
   logo_path: /assets/logos/bentgate.png
-- name: Harmonic Media
-  url: https://getharmonic.com/
-  logo_path: /assets/logos/harmonic.png
+- name: Oskar Blues Brewery
+  url: http://www.oskarblues.com/
+  logo_path: /assets/logos/oskar-blues.png
 - name: Battery 621
   url: http://battery621.com/
   logo_path: /assets/logos/battery-621.png
@@ -43,12 +46,12 @@
 - name: Messner Reeves LLP
   url: https://www.messner.com/
   logo_path: /assets/logos/messner-reeves-llp.png
-- name: LaCome Events
-  url: https://www.lacomeevents.com/
-  logo_path: /assets/logos/lacome-events.png
-- name: The Infinite Monkey Theorem
-  url: https://www.theinfinitemonkeytheorem.com/
-  logo_path: /assets/logos/infinite-monkey-theorem.png
 - name: Colorado Native
   url: https://www.coloradonative.com/
   logo_path: /assets/logos/colorado-native.jpg
+- name: LaCome Events
+  url: https://www.lacomeevents.com/
+  logo_path: /assets/logos/lacome-events.png
+- name: Colorado School of Mines
+  url: https://www.mines.edu/
+  logo_path: /assets/logos/school-of-mines-bw.png
