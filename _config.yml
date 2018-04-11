@@ -5,6 +5,7 @@ plugins:
 future: true
 permalink: pretty
 google_analytics: "UA-111929567-2"
+timezone: '-600'
 # SEO / Sitemap
 url: "http://thewright.co"
 baseurl: ""
@@ -36,4 +37,6 @@ defaults:
       type: talks
     values:
       layout: talk
-timezone: '-600'
+prose:
+  siteurl: 'http://thewright.co/'
+  media: 'assets'
