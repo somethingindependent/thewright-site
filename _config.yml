@@ -46,3 +46,6 @@ prose:
     - Gemfile.lock
     - CNAME
     - Rakefile
+    - .travis.yml
+    - _config.yml
+    - _sass/
