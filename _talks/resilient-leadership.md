@@ -1,5 +1,5 @@
 ---
-title: "Resilient Leadership: Thriving Through Instability"
+title: "Resilient Leadership: Tactics for Stability & Momentum"
 kind: "session"
 date: 2018-05-02T13:30:00
 date_end: 2018-05-02T15:00:00

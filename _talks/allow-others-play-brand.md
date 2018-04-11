@@ -1,5 +1,5 @@
 ---
-title: "We Believe in You: Positioning Your Brand for Others"
+title: "Allowing Others to Play in Your Brand"
 kind: "session"
 date: 2018-05-03T13:30:00
 date_end: 2018-05-03T15:00:00
