@@ -153,3 +153,23 @@
   company: RhinoFox
   headshot_path: /assets/headshots/dainella-nartker.jpg
   priority: 3
+- first_name: Dave
+  last_name: Boger
+  company: Jiberish Clothing
+  headshot_path: /assets/headshots/dave-boger.jpg
+  priority: 3
+- first_name: Mike
+  last_name: Arzt
+  company: The Public Works
+  headshot_path: /assets/headshots/mike-arzt.jpg
+  priority: 3
+- first_name: Davis
+  last_name: Smith
+  company: Cotopaxi
+  headshot_path: /assets/headshots/davis-smith.jpg
+  priority: 3
+- first_name: Dan
+  last_name: English
+  company: Voormi
+  headshot_path: /assets/headshots/dan-english.jpg
+  priority: 3
