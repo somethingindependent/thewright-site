@@ -7,7 +7,7 @@ location_name: "S&#124;I OutPost"
 location_address: "1100 Washington Ave, Golden, CO 80401"
 ---
 
-Entrepreneurial stress can take its toll on leaders. Personal wellness is key for realizing business success. So how have founders actually done this, what lessons did they garnish, any do-overs, etc. Lean personal health hacks for building, scaling or pivoting businesses and how four leaders recharged/recovered their physical and emotional selves amidst massive change/growth and why reconnecting with the outdoors needed to be structured into their lives. 
+Entrepreneurial stress can take its toll on leaders: physically, emotionally and mentally. So, how have founders actually become resilient; what lessons did they garnish, and any do-overs in realizing business success? Learn health hacks for, scaling or pivoting businesses from leaders who have intentionally cultivated their personal and organizational well-being, as well as their connection to the outdoors as a strategy to sustainably achieve their business goals.
 
 ## Speakers
 - Roanne Houck, Acli-Mate
