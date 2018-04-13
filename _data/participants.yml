@@ -178,3 +178,18 @@
   company: TrainingPeaks
   headshot_path: /assets/headshots/meghan-newlin.jpg
   priority: 3
+- first_name: Kiki
+  last_name: Grainger
+  company: Wayfinder Co-op
+  headshot_path: /assets/headshots/kiki-grainger.jpg
+  priority: 3
+- first_name: Scott
+  last_name: Buelter
+  company: Ascent360
+  headshot_path: /assets/headshots/scott-buelter.jpg
+  priority: 3
+- first_name: John-Paul
+  last_name: Maxfield
+  company: Waste Farmers
+  headshot_path: /assets/headshots/john-paul-maxfield.jpg
+  priority: 3
