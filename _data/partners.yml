@@ -55,3 +55,6 @@
 - name: Colorado School of Mines
   url: https://www.mines.edu/
   logo_path: /assets/logos/school-of-mines-bw.png
+- name: Ball Corporation
+  url: https://www.ball.com/
+  logo_path: /assets/logos/ball.jpg
