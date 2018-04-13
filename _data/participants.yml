@@ -173,3 +173,8 @@
   company: Voormi
   headshot_path: /assets/headshots/dan-english.jpg
   priority: 3
+- first_name: Meghan
+  last_name: Newlin
+  company: TrainingPeaks
+  headshot_path: /assets/headshots/meghan-newlin.jpg
+  priority: 3
