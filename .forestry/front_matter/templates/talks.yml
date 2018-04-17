@@ -1,0 +1,68 @@
+---
+pages:
+- _talks/mending-fences-connecting-communities-values.md
+- _talks/direct-to-consumer.md
+- _talks/allow-others-play-brand.md
+- _talks/keynote-thursday-tba.md
+- _talks/outdoor-recreation-driving-rural-economies.md
+- _talks/myth-core-brand-career.md
+- _talks/framing-your-operations-stack.md
+- _talks/resilient-leadership.md
+- _talks/digital-content-strategy.md
+- _talks/conversation-justin-reiter.md
+- _talks/keynote-wednesday-tba.md
+- _talks/outdoor-capital-an-uphill-climb.md
+- _talks/exceptional-customer-experience.md
+- _talks/changing-face-faces-media.md
+- _talks/tech-in-the-outdoors.md
+- _talks/how-we-tell-our-story-matters.md
+- _talks/engaging-emerging-leaders.md
+- _talks/keynote-maturing-of-an-industry.md
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: kind
+  label: Kind
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: date_end
+  label: Date end
+  type: datetime
+  hidden: false
+  default: ''
+- name: location_name
+  label: Location name
+  type: text
+  hidden: false
+  default: ''
+- name: location_address
+  label: Location address
+  type: text
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: text
+  hidden: false
+  default: assets/the-wright-ig.png
+- name: last_modified_at
+  label: Last modified at
+  type: text
+  hidden: false
+  default: now
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: talk
