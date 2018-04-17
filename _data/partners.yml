@@ -58,3 +58,6 @@
 - name: Ball Corporation
   url: https://www.ball.com/
   logo_path: /assets/logos/ball.jpg
+- name: Commerce Kitchen
+  url: https://www.commercekitchen.com/
+  logo_path: /assets/logos/commerce-kitchen.png
