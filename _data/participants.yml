@@ -1,7 +1,7 @@
 ---
 - first_name: Katie
   last_name: Payer
-  company: ''
+  company: Something Independent
   headshot_path: "/assets/katie-payer.jpg"
   priority: 3
 - first_name: Cordell
