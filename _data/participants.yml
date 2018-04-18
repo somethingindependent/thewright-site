@@ -2,7 +2,7 @@
 - first_name: Katie
   last_name: Payer
   company: Something Independent
-  headshot_path: "/assets/katie-payer.jpg"
+  headshot_path: "/assets/headshots/katie-payer.jpg"
   priority: 3
 - first_name: Cordell
   last_name: Carter, II
