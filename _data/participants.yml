@@ -7,7 +7,7 @@
 - first_name: Cordell
   last_name: Carter, II
   company: The Aspen Institute
-  headshot_path: "/assets/headshots/cordell-carter.png"
+  headshot_path: "/assets/headshots/cordell-carter.jpg"
   priority: 1
 - first_name: Ian
   last_name: Fohrman
@@ -82,7 +82,7 @@
 - first_name: Johnny
   last_name: Klein
   company: Something Independent
-  headshot_path: "/assets/headshots/johnny-klein.png"
+  headshot_path: "/assets/headshots/johnny-klein.jpg"
   priority: 3
 - first_name: Deanne
   last_name: Buck
@@ -112,12 +112,12 @@
 - first_name: Ally
   last_name: Seeley
   company: Drumbeat
-  headshot_path: "/assets/headshots/ally-seeley.png"
+  headshot_path: "/assets/headshots/ally-seeley.jpg"
   priority: 3
 - first_name: Chuck
   last_name: Sullivan
   company: Something Independent
-  headshot_path: "/assets/headshots/chuck-sullivan.png"
+  headshot_path: "/assets/headshots/chuck-sullivan.jpg"
   priority: 3
 - first_name: Jennifer
   last_name: Thoemke
@@ -132,7 +132,7 @@
 - first_name: Jon
   last_name: Woods
   company: CenterTable
-  headshot_path: "/assets/headshots/jon-woods.png"
+  headshot_path: "/assets/headshots/jon-woods.jpg"
   priority: 3
 - first_name: Jay
   last_name: Zeschin
@@ -208,4 +208,44 @@
   last_name: Jaffe
   company: 303 Software & EO Colorado
   headshot_path: "/assets/headshots/matt-jaffe.jpg"
+  priority: 2
+- first_name: Drew
+  last_name: Fulton
+  company: Rocky Mountain Soda Co. & 303 Boards
+  headshot_path: "/assets/headshots/drew-fulton.jpg"
+  priority: 2
+- first_name: Leo
+  last_name: Tsuo
+  company: Weston Snowboards
+  headshot_path: "/assets/headshots/leo-tsuo.jpg"
+  priority: 2
+- first_name: Sean
+  last_name: Eno
+  company: Weston Snowboards
+  headshot_path: "/assets/headshots/sean-eno.jpg"
+  priority: 2
+- first_name: Mason
+  last_name: Davey
+  company: Weston Snowboards
+  headshot_path: "/assets/headshots/mason-davey.jpg"
+  priority: 2
+- first_name: Jed
+  last_name: Selby
+  company: South Main
+  headshot_path: "/assets/headshots/jed-selby.jpg"
+  priority: 2
+- first_name: Vickie
+  last_name: Hormuth
+  company: American Alpine Club
+  headshot_path: "/assets/headshots/vickie-hormuth.jpg"
+  priority: 2
+- first_name: Meaghan
+  last_name: Lynch
+  company: 5Point Film Festival
+  headshot_path: "/assets/headshots/meaghan-lynch.jpg"
+  priority: 2
+- first_name: P.T.
+  last_name: Wood
+  company: Wood's High Mountain Distillery & City of Salida
+  headshot_path: "/assets/headshots/pt-wood.jpg"
   priority: 2
