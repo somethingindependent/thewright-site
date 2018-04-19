@@ -21,7 +21,7 @@ social:
     - https://twitter.com/somethingindpnt
     - https://www.facebook.com/SomethingIndependent/
     - https://www.instagram.com/somethingindependent/
-logo: assets/the-wright-ig.png
+logo: assets/the-wright-ig.jpg
 # Collections
 collections:
   talks:
@@ -30,7 +30,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: assets/the-wright-ig.png
+      image: assets/the-wright-ig.jpg
       last_modified_at: now
   - scope:
       path: ""
