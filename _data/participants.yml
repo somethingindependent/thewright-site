@@ -13,7 +13,7 @@
   last_name: Fohrman
   company: The Public Works
   headshot_path: "/assets/headshots/ian-fohrman.jpg"
-  priority: 3
+  priority: 2
 - first_name: Marc
   last_name: Gutman
   company: WILDSTORY
@@ -28,7 +28,7 @@
   last_name: Keating
   company: ICELab @ Western
   headshot_path: "/assets/headshots/delaney-keating.jpg"
-  priority: 3
+  priority: 2
 - first_name: Brendan
   last_name: Leonard
   company: Semi-Rad Media
@@ -43,12 +43,12 @@
   last_name: Watters
   company: Western Rise
   headshot_path: "/assets/headshots/kelly-watters.jpg"
-  priority: 3
+  priority: 2
 - first_name: Will
   last_name: Watters
   company: Western Rise
   headshot_path: "/assets/headshots/will-watters.jpg"
-  priority: 3
+  priority: 2
 - first_name: Luis
   last_name: Benitez
   company: Colorado OREC
@@ -78,7 +78,7 @@
   last_name: Peyerl
   company: Alpine Media Technology
   headshot_path: "/assets/headshots/freddie-peyerl.jpg"
-  priority: 3
+  priority: 2
 - first_name: Johnny
   last_name: Klein
   company: Something Independent
@@ -103,7 +103,7 @@
   last_name: Miller
   company: evoTrip
   headshot_path: "/assets/headshots/ashley-miller.jpg"
-  priority: 3
+  priority: 2
 - first_name: Bryce
   last_name: Phillips
   company: evo
@@ -123,7 +123,7 @@
   last_name: Thoemke
   company: Connects Workspace
   headshot_path: "/assets/headshots/jennifer-thoemke.jpg"
-  priority: 3
+  priority: 2
 - first_name: Sam
   last_name: Warren
   company: The Pinecone Project
@@ -148,42 +148,42 @@
   last_name: Bacon
   company: BWBacon Group
   headshot_path: "/assets/headshots/dave-bacon.jpg"
-  priority: 3
+  priority: 2
 - first_name: Roanne
   last_name: Houck
   company: Acli-Mate
   headshot_path: "/assets/headshots/roanne-houck.jpg"
-  priority: 3
+  priority: 2
 - first_name: Dainella
   last_name: Nartker
   company: RhinoFox
   headshot_path: "/assets/headshots/dainella-nartker.jpg"
-  priority: 3
+  priority: 2
 - first_name: Dave
   last_name: Boger
   company: Jiberish Clothing
   headshot_path: "/assets/headshots/dave-boger.jpg"
-  priority: 3
+  priority: 2
 - first_name: Mike
   last_name: Arzt
   company: The Public Works
   headshot_path: "/assets/headshots/mike-arzt.jpg"
-  priority: 3
+  priority: 2
 - first_name: Davis
   last_name: Smith
   company: Cotopaxi
   headshot_path: "/assets/headshots/davis-smith.jpg"
-  priority: 3
+  priority: 2
 - first_name: Dan
   last_name: English
   company: Voormi
   headshot_path: "/assets/headshots/dan-english.jpg"
-  priority: 3
+  priority: 2
 - first_name: Meghan
   last_name: Newlin
   company: TrainingPeaks
   headshot_path: "/assets/headshots/meghan-newlin.jpg"
-  priority: 3
+  priority: 2
 - first_name: Kiki
   last_name: Grainger
   company: Wayfinder Co-op
@@ -193,9 +193,19 @@
   last_name: Buelter
   company: Ascent360
   headshot_path: "/assets/headshots/scott-buelter.jpg"
-  priority: 3
+  priority: 2
 - first_name: John-Paul
   last_name: Maxfield
   company: Waste Farmers
   headshot_path: "/assets/headshots/john-paul-maxfield.jpg"
-  priority: 3
+  priority: 2
+- first_name: Amy
+  last_name: Roberts
+  company: Outdoor Industry Association
+  headshot_path: "/assets/headshots/amy-roberts.jpg"
+  priority: 1
+- first_name: Matt
+  last_name: Jaffe
+  company: 303 Software & EO Colorado
+  headshot_path: "/assets/headshots/matt-jaffe.jpg"
+  priority: 2
