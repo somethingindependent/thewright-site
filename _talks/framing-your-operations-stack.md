@@ -13,7 +13,7 @@ With software leading demands for more transparency, shortened cycles and agile 
 
 ## Speakers
 
-* Nathan Decker, evp
+* Nathan Decker, evo
 * Megan Smith, Symbia Logistics
 * Chris Tamucci, Big Agnes
 * Lee Wandling, Imageseller
