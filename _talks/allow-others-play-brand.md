@@ -11,17 +11,12 @@ layout: talk
 ---
 After you believe in your brand, how do you bring along others to share in the excitement of that vision. We’ll discuss how to best nurture partnerships, sell sponsorships and leverage joint-collaboration without losing control of the brand you worked so hard to build. We’ll also touch on how to make experiences and brand extension relevant in the product world.
 
-### Speakers
+## Speakers
 
-* Deanne Buck, Camber Outdoors
-* Karen Capaldi, DreamMaker Project & Starbucks
-* Molly Cuff, Smartwool
-* Aisha Weinhold, No Man's Land
-
-### Moderator
-
-* Cat Alletto, [Spark4team](https://www.spark4team.com/)
+* Ben Anderson, Icelantic / iWOTR
+* Alex Gobel, JammyPack
+* Jed Selby, South Main / Seven Peaks Music Fest
 
 ## Moderator
 
-Sam Warren, The Pinecone Project
+* Sam Warren, The Pinecone Project
