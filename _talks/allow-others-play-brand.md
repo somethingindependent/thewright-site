@@ -11,12 +11,12 @@ layout: talk
 ---
 After you believe in your brand, how do you bring along others to share in the excitement of that vision. We’ll discuss how to best nurture partnerships, sell sponsorships and leverage joint-collaboration without losing control of the brand you worked so hard to build. We’ll also touch on how to make experiences and brand extension relevant in the product world.
 
-## Speakers
+### Speakers
 
 * Ben Anderson, Icelantic / iWOTR
 * Alex Gobel, JammyPack
 * Jed Selby, South Main / Seven Peaks Music Fest
 
-## Moderator
+### Moderator
 
 * Sam Warren, The Pinecone Project
