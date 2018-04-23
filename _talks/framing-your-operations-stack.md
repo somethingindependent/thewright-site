@@ -15,7 +15,7 @@ With software leading demands for more transparency, shortened cycles and agile 
 
 * Nathan Decker, evo
 * Megan Smith, Symbia Logistics
-* Chris Tamucci, Big Agnes
+* Chris Tamucci, Big Agnes / Honey Stinger
 * Lee Wandling, Imageseller
 
 ## Moderator
