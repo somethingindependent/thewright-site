@@ -20,4 +20,4 @@ With software leading demands for more transparency, shortened cycles and agile 
 
 ## Moderator
 
-Dave Boger, Jiberish Clothing
+* Dave Boger, Jiberish Clothing
