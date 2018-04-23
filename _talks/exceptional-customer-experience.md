@@ -11,10 +11,10 @@ layout: talk
 ---
 This workshop focuses on the intersection of technology, data insight and digital experience. Empower your organization to digitally enrich each customer’s journey, while leaving room to help inform and encourage the development of improved (transformed) business models. We’ll touch on nurturing affinity with a foundation of trust and connecting data to value. What data do you have or more importantly what data don’t you have that you should be collecting. How to ensure best practices for clean data and what analytics to consider monitoring based your goals?
 
-### Speakers
+## Speakers
 
-[Scott Buelter, Ascent360](http://www.ascent360.com/)
+* [Scott Buelter, Ascent360](http://www.ascent360.com/)
 
 ## Moderator
 
-[Johnny Klein, Something Independent](http://www.somethingindependent.com/)
+* [Johnny Klein, Something Independent](http://www.somethingindependent.com/)
