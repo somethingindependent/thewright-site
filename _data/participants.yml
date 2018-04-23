@@ -249,3 +249,8 @@
   company: Wood's High Mountain Distillery & City of Salida
   headshot_path: "/assets/headshots/pt-wood.jpg"
   priority: 2
+- first_name: Michael
+  last_name: Stocker
+  company: Snowvation
+  headshot_path: "/assets/headshots/michael-stocker.jpg"
+  priority: 2
