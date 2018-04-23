@@ -19,4 +19,4 @@ In any industry, entrepreneurship is an uphill climb. There’s no one path in g
 
 ### Moderator
 
-* TBA, TBA
+* TBA
