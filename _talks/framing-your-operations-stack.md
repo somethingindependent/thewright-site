@@ -3,7 +3,7 @@ title: Framing Your Operations Stack (panel)
 kind: session
 date: 2018-05-02 15:30:00 +0000
 date_end: 2018-05-02 17:00:00 +0000
-location_name: Table Mountain Inn
+location_name: Table Mountain Inn &#124; Del Rio Room
 location_address: 1310 Washington Ave, Golden, CO 80401
 image: assets/the-wright-ig.png
 last_modified_at: now
