@@ -14,7 +14,7 @@ From fake news to shuttering publications and layoffs, the challenges facing med
 ## Speakers
 
 * [Kim Beekman, Backbone Media](http://www.backbonemedia.net/) & former editor of Skiing Magazine
-* [Jason Blevins, outdoor business journalist](https://www.linkedin.com/in/jason-blevins-8250918) & former staff  writer for The Denver Post
+* [Jason Blevins, outdoor business journalist ](https://twitter.com/jasonblevins?lang=en)& former staff  writer for The Denver Post
 * [Patrick Crawford, Inkwell Media](https://inkwell.media/) & [Roam](https://roam.media/)
 * [Kristin Rust, Alterra Mountain Company](https://www.alterramtnco.com/)
 
