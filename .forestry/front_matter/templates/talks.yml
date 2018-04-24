@@ -1,5 +1,6 @@
 ---
 pages:
+- _talks/tech-in-the-outdoors.md
 - _talks/outdoor-recreation-driving-rural-economies.md
 - _talks/keynote-thursday-tba.md
 - _talks/framing-your-operations-stack.md
@@ -15,7 +16,6 @@ pages:
 - _talks/keynote-wednesday-tba.md
 - _talks/outdoor-capital-an-uphill-climb.md
 - _talks/changing-face-faces-media.md
-- _talks/tech-in-the-outdoors.md
 - _talks/engaging-emerging-leaders.md
 - _talks/keynote-maturing-of-an-industry.md
 hide_body: false
