@@ -13,11 +13,11 @@ As leaders it is our responsibility to bring developing talent into the fold. Th
 
 ### Speakers
 
-* Deanne Buck, Camber Outdoors
-* Karen Capaldi, DreamMaker Project & Starbucks
-* Molly Cuff, Smartwool
-* Aisha Weinhold, No Man's Land
+* [Deanne Buck, Camber Outdoors](https://camberoutdoors.org/)
+* [Karen Capaldi, DreamMaker Project](http://www.thedreammakerproject.com/) & [Starbucks](https://www.starbucks.com/)
+* [Molly Cuff, Smartwool](https://www.smartwool.com/)
+* [Aisha Weinhold, No Man's Land](http://nomanslandfilmfestival.org/)
 
 ### Moderator
 
-* Cat Alletto, [Spark4team](https://www.spark4team.com/)
+* [Cat Alletto, Spark4team]()
