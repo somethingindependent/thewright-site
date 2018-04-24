@@ -12,7 +12,7 @@ layout: talk
 ## Speakers
 
 * [Luis Benitez, Colorado Office of Outdoor Recreation](https://choosecolorado.com/programs-initiatives/outdoor-recreation-industry-office/)
-* [Jason Blevins, outdoor business journalist](https://twitter.com/jasonblevins?lang=en) & former staff writer for The Denver Post
+* [Jason Blevins, outdoor business journalist](https://twitter.com/jasonblevins?lang=en) & formerly of The Denver Post
 * TBA
 
 ## Introduction
