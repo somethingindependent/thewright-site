@@ -13,9 +13,9 @@ In any industry, entrepreneurship is an uphill climb. There’s no one path in g
 
 ### Speakers
 
-* Mike O'Donnell, Colorado Lending Source
-* John-Paul Maxfield, Waste Farmers
-* Kelly Watters, Western Rise
+* [Mike O'Donnell, Colorado Lending Source](https://www.coloradolendingsource.org/)
+* [John-Paul Maxfield, Waste Farmers](https://www.wastefarmers.com/)
+* [Kelly Watters, Western Rise](https://westernrise.com/)
 
 ### Moderator
 
