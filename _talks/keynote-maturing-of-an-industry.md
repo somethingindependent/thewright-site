@@ -1,5 +1,5 @@
 ---
-title: Maturing of an Industry (keynote)
+title: Maturing of an Industry (KEYNOTE)
 kind: session
 date: 2018-05-01 11:30:00 +0000
 date_end: 2018-05-01 12:30:00 +0000
