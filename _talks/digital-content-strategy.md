@@ -9,8 +9,15 @@ image: assets/the-wright-ig.png
 last_modified_at: now
 layout: talk
 ---
-
 It’s not enough to create high-quality content. If you don’t have a strategy, plan, budget, partners, platforms and know-how, you won’t deliver results. Participate in this interactive conversation that’ll also serve as a how-to guide for distributing digital content as we record and capture the content from this session and discuss how to create the right distribution and utilize the (w)right channels to break through the noise and deliver results.
 
 ## Speakers
-- Jon Woods, CenterTable
+
+* Jonathan Georger, Black Dog Digital
+* Ben Seymour, Postmodern Company
+* Gigi Sukin, ColoradoBiz Magazine
+* Jon Woods, CenterTable
+
+## Moderator
+
+* Luke Beatty, Brandfolder
