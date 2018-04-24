@@ -13,7 +13,7 @@ Justin Reiter is an Olympic Snowboarder, Olympic gold-medal coach and adventurer
 
 ## Speaker
 
-* Justin Reiter, Olympian, coach & adventurer
+* [Justin Reiter, Olympian, coach & adventurer](https://www.denverpost.com/2018/02/24/justin-reiter-steamboat-coach-ester-ledecka-snowboard/)
 
 ## Moderator
 
