@@ -1,10 +1,13 @@
 ---
-title: "Mending Fences: Connecting Communities thru Values"
-kind: "session"
-date: 2018-05-03T13:30:00
-date_end: 2018-05-03T15:00:00
-location_name: "Table Mountain Inn"
-location_address: "1310 Washington Ave, Golden, CO 80401"
+title: 'Mending Fences: Connecting Communities thru Values (panel)'
+kind: session
+date: 2018-05-03 13:30:00 +0000
+date_end: 2018-05-03 15:00:00 +0000
+location_name: Table Mountain Inn
+location_address: 1310 Washington Ave, Golden, CO 80401
+image: assets/the-wright-ig.png
+last_modified_at: now
+layout: talk
 ---
 
 Wrapped up in the Rocky Mountain mindset is a powerful potential to bridge rather than divide through shared experience, open exchange and respectful dialogue. Join us for a participatory conversation about Western values.
