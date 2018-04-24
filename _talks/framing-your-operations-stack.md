@@ -13,11 +13,11 @@ With software leading demands for more transparency, shortened cycles and agile 
 
 ## Speakers
 
-* Nathan Decker, evo
-* Megan Smith, Symbia Logistics
-* Chris Tamucci, Big Agnes / Honey Stinger
-* Lee Wandling, Imageseller
+* [Nathan Decker, evo](https://www.evo.com/)
+* [Megan Smith, Symbia Logistics](https://www.symbia.com/)
+* [Chris Tamucci, Big Agnes](https://www.bigagnes.com/) & [Honey Stinger](https://www.honeystinger.com/)
+* [Lee Wandling, Imageseller](http://www.imageseller.com/)
 
 ## Moderator
 
-* Dave Boger, Jiberish Clothing
+* [Dave Boger, Jiberish Clothing](https://www.jiberish.com/)
