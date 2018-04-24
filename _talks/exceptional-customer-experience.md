@@ -1,5 +1,5 @@
 ---
-title: Tools for Exceptional Customer Experience
+title: Tools for Exceptional Customer Experience (workshop)
 kind: session
 date: 2018-05-01 15:30:00 +0000
 date_end: 2018-05-01 17:00:00 +0000
