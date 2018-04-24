@@ -9,5 +9,14 @@ image: assets/the-wright-ig.png
 last_modified_at: now
 layout: talk
 ---
-
 Expressing narrative across diverse media channels (imagery, written word, video, events, etc) is an ever-evolving art. Even more so is how this is effectively being done in the age of 5-second attention spans and how this arena is opening new windows of expression.
+
+## Speakers
+
+* [Aidan Haley, Filmmaker](http://www.aidanhaley.com/work)
+* [Brendan Leonard, Semi-Rad Media](https://semi-rad.com/)
+* [Mary Anne Potts, Roam Media](https://roam.media/) & formerly of Nat Geo Adventure magazine
+
+## Moderator
+
+* [Ian Fohrman, The Public Works](https://www.thepublicworks.biz/)
