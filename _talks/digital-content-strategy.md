@@ -13,11 +13,11 @@ It’s not enough to create high-quality content. If you don’t have a strategy
 
 ## Speakers
 
-* Jonathan Georger, Black Dog Digital
-* Ben Seymour, Postmodern Company
-* Gigi Sukin, ColoradoBiz Magazine
-* Jon Woods, CenterTable
+* [Jonathan Georger, BLKDG](https://www.blkdg.com/)
+* [Ben Seymour, Postmodern Company](http://postmodernco.com/)
+* [Gigi Sukin, ColoradoBiz Magazine](http://www.cobizmag.com/)
+* [Jon Woods, CenterTable](https://meetatct.com/)
 
 ## Moderator
 
-* Luke Beatty, Brandfolder
+* [Luke Beatty, Brandfolder](https://brandfolder.com/)
