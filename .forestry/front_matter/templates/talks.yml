@@ -1,5 +1,7 @@
 ---
 pages:
+- _talks/changing-face-faces-media.md
+- _talks/outdoor-capital-an-uphill-climb.md
 - _talks/framing-your-operations-stack.md
 - _talks/keynote-thursday-tba.md
 - _talks/outdoor-recreation-driving-rural-economies.md
@@ -14,8 +16,6 @@ pages:
 - _talks/digital-content-strategy.md
 - _talks/conversation-justin-reiter.md
 - _talks/keynote-wednesday-tba.md
-- _talks/outdoor-capital-an-uphill-climb.md
-- _talks/changing-face-faces-media.md
 - _talks/engaging-emerging-leaders.md
 - _talks/keynote-maturing-of-an-industry.md
 hide_body: false
