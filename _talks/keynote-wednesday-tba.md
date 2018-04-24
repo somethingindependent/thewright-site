@@ -10,4 +10,11 @@ last_modified_at: now
 layout: talk
 ---
 
-Details coming soon!
+## Speaker
+
+* Gov. John W. Hickenlooper, State of Colorado
+* TBA
+
+## Introduction
+
+* TBA
