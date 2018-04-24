@@ -1,5 +1,9 @@
 ---
 pages:
+- _talks/engaging-emerging-leaders.md
+- _talks/digital-content-strategy.md
+- _talks/resilient-leadership.md
+- _talks/myth-core-brand-career.md
 - _talks/changing-face-faces-media.md
 - _talks/outdoor-capital-an-uphill-climb.md
 - _talks/framing-your-operations-stack.md
@@ -11,12 +15,8 @@ pages:
 - _talks/mending-fences-connecting-communities-values.md
 - _talks/direct-to-consumer.md
 - _talks/allow-others-play-brand.md
-- _talks/myth-core-brand-career.md
-- _talks/resilient-leadership.md
-- _talks/digital-content-strategy.md
 - _talks/conversation-justin-reiter.md
 - _talks/keynote-wednesday-tba.md
-- _talks/engaging-emerging-leaders.md
 - _talks/keynote-maturing-of-an-industry.md
 hide_body: false
 is_partial: false
