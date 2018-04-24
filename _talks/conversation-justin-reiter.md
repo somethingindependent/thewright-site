@@ -1,5 +1,5 @@
 ---
-title: A Conversation with Justin Reiter
+title: A Conversation with Justin Reiter (discussion)
 kind: session
 date: 2018-05-02 13:30:00 +0000
 date_end: 2018-05-02 15:00:00 +0000
