@@ -9,8 +9,13 @@ image: assets/the-wright-ig.png
 last_modified_at: now
 layout: talk
 ---
-
 Wrapped up in the Rocky Mountain mindset is a powerful potential to bridge rather than divide through shared experience, open exchange and respectful dialogue. Join us for a participatory conversation about Western values.
 
+## Speakers
+
+* Cordell Carter II, The Aspen Institute
+* P.T. Wood, Wood's High Mountain Distillery
+
 ## Moderator
-Cordell Carter II, The Aspen Institute
+
+* TBA
