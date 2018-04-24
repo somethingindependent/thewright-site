@@ -1,5 +1,5 @@
 ---
-title: Allowing Others to Play in Your Brand
+title: Allowing Others to Play in Your Brand (panel)
 kind: session
 date: 2018-05-03 13:30:00 +0000
 date_end: 2018-05-03 15:00:00 +0000
