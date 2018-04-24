@@ -1,6 +1,6 @@
 ---
-title: The Changing Face & Faces of Media (panel)
-kind: session
+title: The Changing Face & Faces of Media
+format: Panel
 date: 2018-05-01 15:30:00 +0000
 date_end: 2018-05-01 17:00:00 +0000
 location_name: S&#124;I OutPost

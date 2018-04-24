@@ -1,6 +1,6 @@
 ---
-title: 'Direct-to-Consumer: Brands & Retailers Working Together (panel)'
-kind: session
+title: "Direct-to-Consumer: Brands & Retailers Working Together"
+format: Panel
 date: 2018-05-03 13:30:00 +0000
 date_end: 2018-05-03 15:00:00 +0000
 location_name: Bent Gate Mountaineering
@@ -18,5 +18,4 @@ When you have a relationship with the customer there is inherent insight into th
 * [Bryce Phillips, evo](https://www.evo.com/)
 
 ## Moderator
-
 * TBA

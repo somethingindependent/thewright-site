@@ -2,6 +2,7 @@
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 future: true
 permalink: pretty
 google_analytics: "UA-111929567-2"

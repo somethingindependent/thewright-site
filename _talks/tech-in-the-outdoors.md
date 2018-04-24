@@ -1,6 +1,6 @@
 ---
-title: Tech in the Outdoors (panel)
-kind: session
+title: Tech in the Outdoors
+format: Panel
 date: 2018-05-01 13:30:00 +0000
 date_end: 2018-05-01 15:00:00 +0000
 location_name: Bent Gate Mountaineering

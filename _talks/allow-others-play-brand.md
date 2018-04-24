@@ -1,6 +1,6 @@
 ---
-title: Allowing Others to Play in Your Brand (panel)
-kind: session
+title: Allowing Others to Play in Your Brand
+format: Panel
 date: 2018-05-03 13:30:00 +0000
 date_end: 2018-05-03 15:00:00 +0000
 location_name: S&#124;I OutPost

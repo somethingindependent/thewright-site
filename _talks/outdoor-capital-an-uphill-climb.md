@@ -1,6 +1,6 @@
 ---
-title: 'Outdoor Capital: An Uphill Climb (panel)'
-kind: session
+title: "Outdoor Capital: An Uphill Climb"
+format: Panel
 date: 2018-05-01 15:30:00 +0000
 date_end: 2018-05-01 17:00:00 +0000
 location_name: Bent Gate Mountaineering

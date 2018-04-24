@@ -1,6 +1,6 @@
 ---
-title: How We Tell Our Story Matters (workshop)
-kind: session
+title: How We Tell Our Story Matters
+format: Workshop
 date: 2018-05-01 13:30:00 +0000
 date_end: 2018-05-01 15:00:00 +0000
 location_name: Table Mountain Inn &#124; Del Rio Room

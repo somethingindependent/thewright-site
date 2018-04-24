@@ -1,6 +1,6 @@
 ---
-title: 'Mending Fences: Connecting Communities thru Values (panel)'
-kind: session
+title: "Mending Fences: Connecting Communities thru Values"
+format: Panel
 date: 2018-05-03 13:30:00 +0000
 date_end: 2018-05-03 15:00:00 +0000
 location_name: Table Mountain Inn &#124; Del Rio Room

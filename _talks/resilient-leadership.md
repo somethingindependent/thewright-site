@@ -1,6 +1,6 @@
 ---
-title: 'Resilient Leadership: Tactics for Stability & Momentum (panel)'
-kind: session
+title: "Resilient Leadership: Tactics for Stability & Momentum"
+format: Panel
 date: 2018-05-02 13:30:00 +0000
 date_end: 2018-05-02 15:00:00 +0000
 location_name: S&#124;I OutPost

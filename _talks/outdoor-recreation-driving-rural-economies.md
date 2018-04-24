@@ -1,6 +1,6 @@
 ---
-title: To Be Announced (panel)
-kind: session
+title: To Be Announced
+kind: Panel
 date: 2018-05-02 15:30:00 +0000
 date_end: 2018-05-02 17:00:00 +0000
 location_name: Bent Gate Mountaineering
