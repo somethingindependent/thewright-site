@@ -7,7 +7,9 @@ location_name: Bent Gate Mountaineering
 location_address: 1313 Washington Ave, Golden, CO 80401
 image: assets/the-wright-ig.png
 last_modified_at: now
-layout: talk
+layout: event
+redirect_from:
+  - /talks/tech-in-the-outdoors/
 ---
 Technology has pervaded nearly every aspect of our lives - from running our businesses to connecting with friends and family, and increasingly even in the ways we recreate. In this discussion, we’ll dive into the ways that tech is reshaping guest/consumer interactions in the outdoor sphere, and how outdoor companies need to think about building their own products, experiences, and campaigns to reach their customers in this technology-forward age. We’ll also attempt to address the elephant in the room - how can we enhance the outdoor experience via technology without destroying what makes it so special in the first place?
 

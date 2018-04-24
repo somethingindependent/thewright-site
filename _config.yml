@@ -25,7 +25,7 @@ social:
 logo: assets/the-wright-ig.jpg
 # Collections
 collections:
-  talks:
+  events:
     output: true
 defaults:
   - scope:
@@ -35,9 +35,9 @@ defaults:
       last_modified_at: now
   - scope:
       path: ""
-      type: talks
+      type: events
     values:
-      layout: talk
+      layout: events
 prose:
   siteurl: 'http://thewright.co/'
   media: 'assets'

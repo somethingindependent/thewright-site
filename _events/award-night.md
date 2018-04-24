@@ -7,7 +7,9 @@ location_name: Lockridge Arena
 location_address: 1651 Elm St, Golden, CO 80401
 image: assets/the-wright-ig.png
 last_modified_at: now
-layout: talk
+layout: event
+redirect_from:
+  - /talks/award-night/
 ---
 Ahead of the main event, join us at the Product Gallery to get a first look at the contenders who are vying for the 2018 prize. Get to know their founders, hear their stories and explore their project with hands-on demos.
 

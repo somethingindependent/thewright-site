@@ -7,8 +7,11 @@ location_name: American Mountaineering Center &#124; Foss Auditorium
 location_address: 710 10th Street, Golden, CO 80401
 image: assets/the-wright-ig.png
 last_modified_at: now
-layout: talk
+layout: event
+redirect_from:
+  - /talks/keynote-maturing-of-an-industry/
 ---
+
 ## Speakers
 
 * [Luis Benitez, Colorado Office of Outdoor Recreation](https://choosecolorado.com/programs-initiatives/outdoor-recreation-industry-office/)

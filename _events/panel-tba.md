@@ -7,6 +7,8 @@ location_name: Bent Gate Mountaineering
 location_address: 1313 Washington Ave, Golden, CO 80401
 image: assets/the-wright-ig.png
 last_modified_at: now
-layout: talk
+layout: event
+redirect_from:
+format: TBA
 ---
 Details coming soon!

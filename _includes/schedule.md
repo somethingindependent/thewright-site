@@ -5,16 +5,16 @@ We’ve worked hard to bring high-level, inspirational talks and tactical worksh
 Be sure to grab a ticket for our culminating event - Award Night - hosted this year in partnership with the Colorado School of Mines at Lockridge Arena.
 
 ## SCHEDULE
-{% assign talks_by_day = 
-  site.talks | 
+{% assign events_by_day = 
+  site.events | 
   sort: "date" | 
-  group_by_exp: "talk", "talk.date | date: '%A, %-m/%-d'" %}
-{% for day in talks_by_day %}
+  group_by_exp: "event", "event.date | date: '%A, %-m/%-d'" %}
+{% for day in events_by_day %}
 
 ## {{ day.items.first.date | date: '%A, %-m/%-d'" }}
 
-{% for talk in day.items -%}
-- [{{ talk.date | date: "%-I:%M %P" }} &mdash; {{ talk.title }} ({{ talk.format }})]({{ talk.url }})
+{% for event in day.items -%}
+- [{{ event.date | date: "%-I:%M %P" }} &mdash; {{ event.title }} ({{ event.format }})]({{ event.url }})
 {% endfor -%}
 {%- endfor %}
 

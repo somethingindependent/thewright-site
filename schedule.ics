@@ -7,17 +7,17 @@ PRODID:{{ site.url }}
 X-WR-CALNAME:The Wright 2018 Schedule of Events
 X-WR-CALDESC:{{ site.description }} | Details at {{ site.url }}
 METHOD:PUBLISH
-{% for talk in site.talks -%}
+{% for event in site.events -%}
 BEGIN:VEVENT
-UID:{{ talk.slug | absolute_url }}
-URL:{{ talk.slug | absolute_url }}
+UID:{{ event.url | absolute_url }}
+URL:{{ event.url | absolute_url }}
 ORGANIZER;CN="Something Independent":MAILTO:hello@somethingindependent.com
 LOCATION:Golden, CO
-SUMMARY:{{ talk.title }}
-DESCRIPTION:View session details at {{ talk.slug | absolute_url }}
+SUMMARY:{{ event.title }}
+DESCRIPTION:View session details at {{ event.url | absolute_url }}
 CLASS:PUBLIC
-DTSTART;{{ talk.date | date: "TZID=America/Denver:%Y%m%dT%H%M%S" }}
-DTEND;{{ talk.date_end | date: "TZID=America/Denver:%Y%m%dT%H%M%S" }}
+DTSTART;{{ event.date | date: "TZID=America/Denver:%Y%m%dT%H%M%S" }}
+DTEND;{{ event.date_end | date: "TZID=America/Denver:%Y%m%dT%H%M%S" }}
 DTSTAMP;{{ "now" | date: "TZID=America/Denver:%Y%m%dT%H%M%S" }}
 TZID:{{ site.timezone }}
 END:VEVENT
