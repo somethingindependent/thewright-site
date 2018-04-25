@@ -1,5 +1,5 @@
 ---
-title: Who are We? Perspectives from the Rocky Mountain West
+title: Who Are We? Perspectives from the Rocky Mountain West
 format: Keynote
 date: 2018-05-02 11:30:00 +0000
 date_end: 2018-05-02 12:30:00 +0000
