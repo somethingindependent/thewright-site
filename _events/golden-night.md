@@ -18,22 +18,22 @@ A night to explore Golden, the new home of The Wright. Social events, specials a
 710 10th Street, Golden, Colorado 80401
 
 * [Jolt](http://www.guerillagarden.com/) (artist)
-* [Golden Moon Distillery](http://goldenmoondistillery.com/) (cocktails)
+* [Golden Moon Distillery](http://goldenmoondistillery.com/) (beverage)
 * TBA (music)
 * [COILSx](https://coilsx2018.splashthat.com/)
 * [Foothills Art Center](http://www.foothillsartcenter.org/)
 * [American Mountaineering Center](http://www.americanmountaineeringcenter.org/)
 
-### Icelantic Skis x Conservation Colorado x TBA
+### Icelantic Skis x Conservation Colorado x Summit County
 
 1300 Washington Avenue, Golden, Colorado 80401
 
 Come check out the first look of the 18-19 line of skis while taking in the cool vibes of of Historic Golden. Partners include:
 
 * [Travis Parr](https://www.parrstudios.net/) (artist)
-* TBA (beverage)
+* [Breckenridge Distillery](http://breckenridgedistillery.com/) (beverage)
 * [DJ Cassidy](http://www.djmattcassidy.com/) (music)
-* TBA
+* [Summit County](http://www.co.summit.co.us/)
 * [Conservation Colorado](https://conservationco.org/)
 * [Icelantic Skis](https://www.icelanticskis.com/)
 
