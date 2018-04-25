@@ -20,6 +20,9 @@ Explore the new home of The Wright with social events and specials hosted by fri
 * Jolt (artist)
 * Golden Moon Distillery (cocktails)
 * TBA (music)
+* COILSx
+* Foothills Art Center
+* American Mountaineering Center
 
 ## Icelantic Skis x Conservation Colorado x TBA
 
@@ -30,16 +33,22 @@ Come check out the first look of the 18-19 line of skis while taking in the cool
 * Travis Parr (artist)
 * TBA (beverage)
 * DU Cassidy (music)
+* TBA
+* Conservation Colorado
+* Icelantic Skis
 
-## S|I OutPost x TBA x Salt Lake City
+## S|I OutPost x Golden Giddyup x Salt Lake City
 
 1100 Washington Avenue, Golden, Colorado 80401
 
-Partners include:
+Partners:
 
 * Oh Heck Yeah (artist)
 * Oskar Blues & A.C. Golden (beverage)
 * Sarah Wirtz (music)
+* Salt Lake City
+* [Golden Giddyup](http://goldengiddyup.com/)
+* Something Independent
 
 ## TBA x TBA x Arkansas Valley
 
@@ -50,3 +59,6 @@ Partners include:
 * TBA (artist)
 * TBA (beverage)
 * TBA (music)
+* Arkansas Valley
+* TBA
+* TBA
