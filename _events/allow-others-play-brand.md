@@ -17,6 +17,7 @@ After you believe in your brand, how do you bring along others to share in the e
 ## Speakers
 
 * [Ben Anderson, Icelantic Skis](https://www.icelanticskis.com/) & [iWOTR](https://www.facebook.com/IcelanticsWinterOnTheRocks/)
+* [Chad Donnelly, SnowBall Music Festival](http://www.westword.com/music/chad-donnellys-snowball-music-festival-is-on-a-roll-5123856)
 * [Alex Gobel, JammyPack](https://www.jammypack.com/)
 * [Jed Selby, South Main](http://www.southmainco.com/) & [Seven Peaks Festival](http://sevenpeaksfestival.com/)
 
