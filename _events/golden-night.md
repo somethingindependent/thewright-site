@@ -11,7 +11,7 @@ layout: event
 redirect_from:
 - "/talks/golden-night/"
 ---
-Explore the new home of The Wright with social events and specials hosted by friends new and old. Get to know the members of The Wright community and see what makes them unique. _\[presented by the businesses of organizations of Golden\]_
+A night to explore Golden, the new home of The Wright. Social events, specials and partnerships hosted by friends new and old. A progressive night that mashes up members of The Wright family with the soulful community that calls Golden home. _\[presented by the businesses of organizations of Golden\]_
 
 ### American Mountaineering Center x Foothills Art Center x COILSx
 
