@@ -1,6 +1,6 @@
 ---
 title: Who are We? Perspectives from the Rocky Mountain West
-format: campfire keynote
+format: Campfire Keynote
 date: 2018-05-02 11:30:00 +0000
 date_end: 2018-05-02 12:30:00 +0000
 location_name: American Mountaineering Center &#124; Foss Auditorium
