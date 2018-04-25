@@ -8,7 +8,7 @@ location_address: 1100 Washington Ave, Golden, CO 80401
 image: assets/the-wright-ig.png
 last_modified_at: now
 layout: event
-format: panel
+format: Panel
 redirect_from:
 - "/talks/allow-others-play-brand/"
 ---
