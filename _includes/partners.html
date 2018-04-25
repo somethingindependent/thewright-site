@@ -1,19 +1,17 @@
 <div class="content-section-header">
-  <a name="partners">Partners</a>
+  <a name="partners">Special thanks to our community partners</a>
 </div>
 <div class="wrapper">
-  <div class="content-section">
-    <p class="centered-copy">
-      Special thanks to our community partners:
-    </p>
-
-    <div class="partner-logos">
-      {%- for partner in site.data.partners -%}
+  <div class="partner-logos">
+    {%- for group in site.data.partners -%}
+      <div class="logos-{{ group.format }}">
+      {% for partner in group.items -%}
         <a href="{{ partner.url }}" target="_blank">
           <img src="{{ partner.logo_path }}" alt="{{ partner.name }}" />
         </a>
       {%- endfor -%}
-    </div>
+      </div>
+    {%- endfor -%}
   </div>
   <div class="content-section centered-copy">
     <h2>Volunteering</h2>

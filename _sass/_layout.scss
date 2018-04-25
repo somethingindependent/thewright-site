@@ -292,29 +292,68 @@
 
 .partner-logos {
   width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
 
-  a {
-    width: -webkit-calc(33% - (#{$spacing-unit}));
-    width:         calc(33% - (#{$spacing-unit}));
-    margin: $spacing-unit / 2 $spacing-unit / 2;
-    text-align: center;
-    vertical-align: middle;
-  }
+  .logos-1up, .logos-2up, .logos-3up {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
 
-  @include media-query($on-palm) {
     a {
-      width: -webkit-calc(60% - (#{$spacing-unit}));
-      width:         calc(60% - (#{$spacing-unit}));
+      margin: $spacing-unit / 2 $spacing-unit / 2;
+      text-align: center;
+      vertical-align: middle;
+    }
+
+    img {
+      filter: grayscale(100%) opacity(75%);
+      max-width: 70%;
+      width: auto;
+      max-height: 250px;
+      height: auto;
     }
   }
 
-  img {
-    filter: grayscale(100%) opacity(75%);
-    width: 70%;
+  .logos-1up {
+    a {
+      width: -webkit-calc(80% - (#{$spacing-unit}));
+      width:         calc(80% - (#{$spacing-unit}));
+    }
+
+    @include media-query($on-palm) {
+      a {
+        width: -webkit-calc(80% - (#{$spacing-unit}));
+        width:         calc(80% - (#{$spacing-unit}));
+      }
+    }
+  }
+
+  .logos-2up {
+    a {
+      width: -webkit-calc(40% - (#{$spacing-unit}));
+      width:         calc(40% - (#{$spacing-unit}));
+    }
+
+    @include media-query($on-palm) {
+      a {
+        width: -webkit-calc(40% - (#{$spacing-unit}));
+        width:         calc(40% - (#{$spacing-unit}));
+      }
+    }
+  }
+
+  .logos-3up {
+    a {
+      width: -webkit-calc(30% - (#{$spacing-unit}));
+      width:         calc(30% - (#{$spacing-unit}));
+    }
+
+    @include media-query($on-palm) {
+      a {
+        width: -webkit-calc(30% - (#{$spacing-unit}));
+        width:         calc(30% - (#{$spacing-unit}));
+      }
+    }
   }
 }
 
@@ -396,6 +435,12 @@
   background-repeat: no-repeat;
   background-size: cover;
   filter: grayscale(100%);
+}
+
+.location-iframe {
+  margin-bottom: $spacing-unit * 2;
+  width: 100%;
+  border: 0;
 }
 
 .contenders-image {
