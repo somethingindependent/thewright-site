@@ -1,5 +1,6 @@
 ---
 pages:
+- _events/keynote-maturing-of-an-industry.md
 - _events/keynote-sense-of-place.md
 - _events/keynote-outdoor-recreation-rural-economies.md
 - _events/allow-others-play-brand.md
@@ -19,7 +20,6 @@ pages:
 - _events/tech-in-the-outdoors.md
 - _events/how-we-tell-our-story-matters.md
 - _events/engaging-emerging-leaders.md
-- _events/keynote-maturing-of-an-industry.md
 hide_body: false
 is_partial: false
 fields:
