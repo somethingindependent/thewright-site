@@ -21,7 +21,7 @@ Explore the new home of The Wright with social events and specials hosted by fri
 * Golden Moon Distillery (cocktails)
 * TBA (music)
 
-  ## Icelantic Skis x Conservation Colorado x TBA
+## Icelantic Skis x Conservation Colorado x TBA
 
 1300 Washington Avenue, Golden, Colorado 80401
 
@@ -31,7 +31,7 @@ Come check out the first look of the 18-19 line of skis while taking in the cool
 * TBA (beverage)
 * DU Cassidy (music)
 
-  ## S|I OutPost x TBA x Salt Lake City
+## S|I OutPost x TBA x Salt Lake City
 
 1100 Washington Avenue, Golden, Colorado 80401
 
