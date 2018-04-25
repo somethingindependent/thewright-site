@@ -1,5 +1,5 @@
 ---
-title: Outdoor Recreation Driving Rural Economies
+title: 'Economies in Transition: Rural Communities and the Outdoor Recreation Industry'
 format: Keynote Panel
 date: 2018-05-03 11:30:00 +0000
 date_end: 2018-05-03 12:30:00 +0000
@@ -12,14 +12,14 @@ redirect_from:
 - "/talks/keynote-outdoor-recreation-rural-economies/"
 - "/talks/outdoor-recreation-driving-rural-economies/"
 ---
-Rural communities have been suffering over the last several decades, and the outdoor recreation economy can be a primary driver for recruitment of new businesses and job creation for these decimated communities. Many of these communities have unsurpassed natural assets from mountains, rivers, and thousands of acres of public lands open for recreation. Rural communities have the opportunity to rebrand their communities to celebrate the outdoor recreation assets to recruit businesses to relocate and provide jobs. Rural communities in the west provide a company’s dream place to live, work, and play without being overcrowded and expensive. Rural America can capitalize on the quality of life it provides.
+A timely discussion with outdoor-inspired leaders from Grand Junction, CO, Idaho Springs, CO and Ogden, UT. Outdoor recreation can be a solid driver for recruitment of new businesses and job creation for these communities. Western rural communities provide a company’s dream place to live, work, and play without being overcrowded and expensive.Many of these communities have unsurpassed natural assets from mountains, rivers, and thousands of acres of public lands open for recreation.
 
 ## Speakers
 
 * [Robin Brown, Grand Junction Economic Partnership](http://www.gjep.org/)
-* [Dan English, Voormi](https://voormi.com/)
 * [Peter Makowski, Salt Lake City Economic Development](http://www.slcgov.com/economic-development) & formerly of [Ogden, Utah](http://ogdenbusiness.com/home.aspx)
 * [Mark Morris, RapidGrass](http://www.rapidgrass.com/)
+* TBA
 
 ## Moderator
 
