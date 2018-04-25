@@ -15,7 +15,7 @@ Explore the new home of The Wright with social events and specials hosted by fri
 
 ## American Mountaineering Center x Foothills Art Center x COILSx
 
-\[710 10th Street, Golden, Colorado 80401\]
+710 10th Street, Golden, Colorado 80401
 
 * Jolt (artist)
 * Golden Moon Distillery (cocktails)
@@ -23,27 +23,27 @@ Explore the new home of The Wright with social events and specials hosted by fri
 
   ## Icelantic Skis x Conservation Colorado x TBA
 
-\[1300 Washington Avenue, Golden, Colorado 80401\]
+1300 Washington Avenue, Golden, Colorado 80401
 
 Come check out the first look of the 18-19 line of skis while taking in the cool vibes of of Historic Golden. Partners include:
 
 * Travis Parr (artist)
-* TBA (beverage
+* TBA (beverage)
 * DU Cassidy (music)
 
-  ## S|I OutPost x Oh Heck Yeah x TBA
+  ## S|I OutPost x TBA x Salt Lake City
 
-\[1100 Washington Avenue, Golden, Colorado 80401\]
+1100 Washington Avenue, Golden, Colorado 80401
 
 Partners include:
 
-* TBA (artist)
+* Oh Heck Yeah (artist)
 * Oskar Blues & A.C. Golden (beverage)
 * Sarah Wirtz (music)
 
 ## TBA x TBA x Arkansas Valley
 
-\[TBA\]
+Golden, Colorado 80401
 
 Partners include:
 
