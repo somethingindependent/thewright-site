@@ -68,7 +68,7 @@
     url: https://www.traverseimage.com/
     logo_path: /assets/logos/traverse-image.png
   - name: milehighhouse
-    url: https://www.milehighhouse.com/
+    url: http://www.milehighhouse.com/
     logo_path: /assets/logos/mile-high-house.png
   - name: Two Parts
     url: https://www.twoparts.com/
@@ -98,10 +98,10 @@
     url: http://www.somethingindependent.com/
     logo_path: /assets/logos/si-outpost.png
   - name: Fishpond
-    url: https://www.fishpondusa.com/
+    url: http://www.fishpondusa.com/
     logo_path: /assets/logos/fishpond.png
   - name: Topo Designs
-    url: https://www.topodesigns.com/
+    url: http://www.topodesigns.com/
     logo_path: /assets/logos/topo-designs.png
   - name: Icelantic Skis
     url: https://www.icelanticskis.com/
