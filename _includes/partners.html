@@ -6,7 +6,7 @@
     {%- for group in site.data.partners -%}
       <div class="logos-{{ group.format }}">
       {% for partner in group.items -%}
-        <a href="{{ partner.url }}" target="_blank">
+        <a href="{{ partner.url }}" title="{{ partner.name }}" target="_blank">
           <img src="{{ partner.logo_path }}" alt="{{ partner.name }}" />
         </a>
       {%- endfor -%}
