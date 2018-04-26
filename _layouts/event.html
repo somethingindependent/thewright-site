@@ -16,7 +16,9 @@ exclude_tagline: true
 <div class="wrapper">
   <section class="content-section">
     <h2>{{ page.title }}</h2>
+    <h3>Located at {{ page.location_name }}</h3>
     {{ page.content }}
+
     <div class="social-buttons">
       <div class="social-button">
         <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-hashtags="tradeschool" data-related="somethindindpt" data-dnt="true" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -29,4 +31,4 @@ exclude_tagline: true
   </section>
 </div>
 
-{% include location.html description=false location_for_map=page.location_address %}
+{% include location.html chrome=false location_for_map=page.location_address %}

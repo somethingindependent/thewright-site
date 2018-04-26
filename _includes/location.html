@@ -1,8 +1,10 @@
-<div class="location-image"></div>
+{% if include.chrome %}
+  <div class="location-image"></div>
+{% endif %}
 <div class="content-section-header">
   <a name="location">Location</a>
 </div>
-{% if include.description %}
+{% if include.chrome %}
   <div class="wrapper">
     <section class="content-section">
       {% capture location %}
