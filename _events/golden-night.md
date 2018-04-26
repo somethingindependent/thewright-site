@@ -3,7 +3,7 @@ title: Golden Night
 format: Social Event
 date: 2018-05-02 19:00:00 +0000
 date_end: 2018-05-02 22:00:00 +0000
-location_name: Downtown Golden
+location_name: Historic Downtown
 location_address: Golden, CO 80401
 image: assets/the-wright-ig.png
 last_modified_at: now
@@ -11,7 +11,7 @@ layout: event
 redirect_from:
 - "/talks/golden-night/"
 ---
-A night to explore Golden, the new home of The Wright. Social events, specials and partnerships hosted by friends new and old. A progressive night that mashes up members of The Wright family with the soulful community that calls Golden home. _\[presented by the businesses of organizations of Golden\]_
+A progressive night that mashes up the community of The Wright with the soulful local businesses/organizations of Golden by encouraging exploration of historic downtown. This year’s events, specials and partnerships are hosted by friends new and old.
 
 ### American Mountaineering Center x Foothills Art Center x COILSx
 
