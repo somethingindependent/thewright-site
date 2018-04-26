@@ -9,9 +9,8 @@ image: assets/the-wright-ig.png
 last_modified_at: now
 layout: event
 redirect_from:
-  - /talks/framing-your-operations-stack/
+- "/talks/framing-your-operations-stack/"
 ---
-
 With software leading demands for more transparency, shortened cycles and agile workflows, how do you know which advancements to utilize in directing business growth and brand stability? And when should you consider implementing these improvement (cost/time)? Gain insight into vetting tools for your operations to realize frictionless connectedness, fulfillment without middlemen and controlling operating expenses while driving sales.
 
 ## Speakers
@@ -19,7 +18,7 @@ With software leading demands for more transparency, shortened cycles and agile 
 * [Nathan Decker, evo](https://www.evo.com/)
 * [Megan Smith, Symbia Logistics](https://www.symbia.com/)
 * [Chris Tamucci, Big Agnes](https://www.bigagnes.com/) & [Honey Stinger](https://www.honeystinger.com/)
-* [Lee Wandling, Imageseller](http://www.imageseller.com/)
+* [Lee Wandling, ImageSeller](http://www.imageseller.com/)
 
 ## Moderator
 
