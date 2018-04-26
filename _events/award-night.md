@@ -1,6 +1,6 @@
 ---
 title: Award Night
-format: Culminating Event
+format: Social Event
 date: 2018-05-03 17:30:00 +0000
 date_end: 2018-05-03 21:00:00 +0000
 location_name: Lockridge Arena
