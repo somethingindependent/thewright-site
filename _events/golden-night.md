@@ -17,6 +17,8 @@ A progressive night that mashes up the community of The Wright with the soulful 
 
 710 10th Street, Golden, Colorado 80401
 
+Live painting occurs outside while inside special extended hours of the American Mountaineering Museum. Come experience the AMC like you've never seen it. Partners include:
+
 * [Jolt](http://www.guerillagarden.com/) (artist)
 * [Golden Moon Distillery](http://goldenmoondistillery.com/) (beverage)
 * TBA (music)
@@ -28,7 +30,7 @@ A progressive night that mashes up the community of The Wright with the soulful 
 
 1300 Washington Avenue, Golden, Colorado 80401
 
-Come check out the first look of the 18-19 line of skis while taking in the cool vibes of of Historic Golden. Partners include:
+Check out the first look of the 18-19 line of skis while taking in the laid-back vibe of their outdoor courtyard. Partners include:
 
 * [Travis Parr](https://www.parrstudios.net/) (artist)
 * [Breckenridge Distillery](http://breckenridgedistillery.com/) (beverage)
@@ -41,12 +43,12 @@ Come check out the first look of the 18-19 line of skis while taking in the cool
 
 1100 Washington Avenue, Golden, Colorado 80401
 
-Partners include:
+Inside listen to a bluegrass/gospel set while outside there's visual interactive game  projections. Partners include:
 
 * [Oh Heck Yeah](http://ohheckyeah.com/) (artist)
 * [Oskar Blues](https://www.oskarblues.com/) & [A.C. Golden](http://www.acgolden.com/) (beverage)
 * [Sister Sarah](http://www.jonwirtzmusic.com/events/2018/4/29/sister-sarah) (music)
-* [Salt Lake City](http://www.slcgov.com/economic-development)
+* [Friends from Utah](http://edcutah.org/industries/outdoor-products-recreation)
 * [Golden Giddyup](http://goldengiddyup.com/)
 * [Something Independent](http://www.somethingindependent.com/)
 
@@ -54,10 +56,10 @@ Partners include:
 
 Golden, Colorado 80401
 
-Partners include:
+Triangulating friends from Telluride, Boulder and Buena Vista was never so much fun. Say hello to the most interesting collab of the night with beards, queens of enterprise and a proverbial frog. Partners include:
 
 * TBA (artist)
-* TBA (beverage)
+* [Deerhammer]() (beverage)
 * TBA (music)
 * [Arkansas Valley](https://chaffeecountyedc.com/business-environment/local-industry/)
 * [Camber Outdoors](https://camberoutdoors.org/)
