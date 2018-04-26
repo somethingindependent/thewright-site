@@ -37,7 +37,7 @@ Come check out the first look of the 18-19 line of skis while taking in the cool
 * [Conservation Colorado](https://conservationco.org/)
 * [Icelantic Skis](https://www.icelanticskis.com/)
 
-### S|I OutPost x Golden Giddyup x Salt Lake City
+### S|I OutPost x Golden Giddyup x Our Friends from Utah
 
 1100 Washington Avenue, Golden, Colorado 80401
 
@@ -50,7 +50,7 @@ Partners include:
 * [Golden Giddyup](http://goldengiddyup.com/)
 * [Something Independent](http://www.somethingindependent.com/)
 
-### TBA x TBA x Arkansas Valley
+### TBA x Camber Outdoors x Arkansas Valley
 
 Golden, Colorado 80401
 
@@ -60,5 +60,5 @@ Partners include:
 * TBA (beverage)
 * TBA (music)
 * [Arkansas Valley](https://chaffeecountyedc.com/business-environment/local-industry/)
-* TBA
+* [Camber Outdoors](https://camberoutdoors.org/)
 * TBA
