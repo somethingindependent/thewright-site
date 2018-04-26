@@ -12,7 +12,7 @@ BEGIN:VEVENT
 UID:{{ event.url | absolute_url }}
 URL:{{ event.url | absolute_url }}
 ORGANIZER;CN="Something Independent":MAILTO:hello@somethingindependent.com
-LOCATION:Golden, CO
+LOCATION:{{ event.location_name}}, {{ event.location_address }}
 SUMMARY:{{ event.title }}
 DESCRIPTION:View session details at {{ event.url | absolute_url }}
 CLASS:PUBLIC
