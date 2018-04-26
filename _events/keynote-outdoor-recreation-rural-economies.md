@@ -1,6 +1,6 @@
 ---
 title: 'Economies in Transition: Rural Communities and the Outdoor Recreation Industry'
-format: Keynote Panel
+format: Keynote
 date: 2018-05-03 11:30:00 +0000
 date_end: 2018-05-03 12:30:00 +0000
 location_name: American Mountaineering Center &#124; Foss Auditorium
@@ -12,7 +12,7 @@ redirect_from:
 - "/talks/keynote-outdoor-recreation-rural-economies/"
 - "/talks/outdoor-recreation-driving-rural-economies/"
 ---
-A timely discussion with outdoor-inspired leaders from Grand Junction, CO, Idaho Springs, CO and Ogden, UT. Outdoor recreation can be a solid driver for recruitment of new businesses and job creation for these communities. Western rural communities provide a company’s dream place to live, work, and play without being overcrowded and expensive.Many of these communities have unsurpassed natural assets from mountains, rivers, and thousands of acres of public lands open for recreation.
+A timely panel discussion with outdoor-inspired leaders from Grand Junction, CO, Idaho Springs, CO and Ogden, UT. Outdoor recreation can be a solid driver for recruitment of new businesses and job creation for these communities. Western rural communities provide a company’s dream place to live, work, and play without being overcrowded and expensive.Many of these communities have unsurpassed natural assets from mountains, rivers, and thousands of acres of public lands open for recreation.
 
 ## Speakers
 
