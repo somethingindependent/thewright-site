@@ -1,5 +1,5 @@
 ---
-title: Tools for Exceptional Customer Experience
+title: Roadmap for Your Data
 kind: session
 date: 2018-05-01 15:30:00 +0000
 date_end: 2018-05-01 17:00:00 +0000
@@ -10,9 +10,9 @@ last_modified_at: now
 layout: event
 format: Workshop
 redirect_from:
-  - /talks/exceptional-customer-experience/
+- "/talks/exceptional-customer-experience/"
 ---
-This workshop focuses on the intersection of technology, data insight and digital experience. Empower your organization to digitally enrich each customer’s journey, while leaving room to help inform and encourage the development of improved (transformed) business models. We’ll touch on nurturing affinity with a foundation of trust and connecting data to value. What data do you have or more importantly what data don’t you have that you should be collecting. How to ensure best practices for clean data and what analytics to consider monitoring based your goals?
+Do you believe/trust the data you have? Do you act on the insights discovered within the data? What do you do if an insight doesn’t jive with your brand narrative? This 90-minute workshop focuses on the intersection of technology, data insight and customer journey visualization. Empower your organization to build an enriching experience for each customer by distilling value with 6 simple metrics to simplify your data’s complexity and to better understand the significance of what your customer is really ‘telling’ you. 
 
 ## Leader
 
