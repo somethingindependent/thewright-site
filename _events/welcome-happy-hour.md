@@ -6,8 +6,8 @@ title: Welcome Happy Hour
 format: Social Event
 date: 2018-05-01 18:30:37 +0000
 date_end: 2018-05-01 20:00:00 +0000
-location_name: ''
-location_address: ''
+location_name: Miners Saloon
+location_address: 1109 Miner's Alley, Golden, Colorado 80401
 redirect_from: []
 ---
-adfafdg
+After a successful opening day, what better way to decompress than to connect with friends, new and old. Come meet The Wright's 2018 contender class from Wyoming, Utah and Colorado. We also plan on toasting Jason Blevins with recognition of his 20+ years of  contributing to Rocky Mountain journalism.
