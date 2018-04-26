@@ -1,5 +1,5 @@
 ---
-title: 'Beyond Big Data’s Hype: A Roadmap for Your Customer Data'
+title: 'Beyond Big Data Hype: a Roadmap for Your Customer Data'
 kind: session
 date: 2018-05-01 15:30:00 +0000
 date_end: 2018-05-01 17:00:00 +0000
