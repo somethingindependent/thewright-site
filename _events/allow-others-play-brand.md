@@ -17,7 +17,7 @@ After you believe in your brand, how do you bring along others to share in the e
 ## Speakers
 
 * [Ben Anderson, Icelantic Skis](https://www.icelanticskis.com/) & [iWOTR](https://www.facebook.com/IcelanticsWinterOnTheRocks/)
-* [Alex Gobel, JammyPack](https://www.jammypack.com/)
+* [Alex Gobel, JammyPack](https://www.jammypack.com/) & [Vesica](https://vesica.com/)
 * [Jed Selby, South Main](http://www.southmainco.com/) & [Seven Peaks Festival](http://sevenpeaksfestival.com/)
 
 ## Moderator
