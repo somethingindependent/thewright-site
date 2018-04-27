@@ -14,10 +14,12 @@ redirect_from:
 It’s not enough to create high-quality content. If you don’t have a strategy, plan, budget, partners, platforms and know-how, you won’t deliver results. Participate in this interactive conversation that’ll also serve as a how-to guide for distributing digital content as we record and capture the content from this session and discuss how to create the right distribution and utilize the (w)right channels to break through the noise and deliver results.
 
 ## Speakers
+
 * [Jonathan Georger, BLKDG](https://www.blkdg.com/)
-* [Ben Seymour, Postmodern Company](http://postmodernco.com/)
+* [Mikey Goldenberg, Postmodern Company](http://postmodernco.com/)
+* [Jim Licko, CenterTable](https://meetatct.com/)
 * [Gigi Sukin, ColoradoBiz Magazine](http://www.cobizmag.com/)
-* [Jon Woods, CenterTable](https://meetatct.com/)
 
 ## Moderator
+
 * [Luke Beatty, Brandfolder](https://brandfolder.com/)
