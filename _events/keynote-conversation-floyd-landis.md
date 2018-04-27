@@ -9,7 +9,6 @@ image: assets/the-wright-ig.png
 last_modified_at: now
 layout: event
 redirect_from:
-- "/talks/keynote-outdoor-recreation-rural-economies/"
-- "/talks/outdoor-recreation-driving-rural-economies/"
+- "/talks/keynote-conversation-floyd-landis/"
 ---
 Details coming soon!
