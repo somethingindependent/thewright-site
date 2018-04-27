@@ -1,5 +1,5 @@
 ---
-title: 'Economies in Transition: Rural Communities and the Outdoor Recreation Industry'
+title: 'Economies in Transition: Rural Communities & Outdoor Recreation'
 kind: Panel
 date: 2018-05-03 13:30:00 +0000
 date_end: 2018-05-03 15:00:00 +0000
