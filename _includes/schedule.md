@@ -14,7 +14,7 @@ Be sure to grab a ticket for our culminating event - Award Night - hosted this y
 ## {{ day.items.first.date | date: '%A, %-m/%-d'" }}
 
 {% for event in day.items -%}
-- [{{ event.date | date: "%-I:%M %P" }} &mdash; {{ event.title }} ({{ event.format }})]({{ event.url }})
+- [{{ event.date | date: "%-I:%M %P" }} &mdash; {{ event.format }}: {{ event.title }} ({{ event.location_name }})]({{ event.url }})
 {% endfor -%}
 {%- endfor %}
 
