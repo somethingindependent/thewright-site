@@ -11,4 +11,12 @@ layout: event
 redirect_from:
 - "/talks/keynote-conversation-floyd-landis/"
 ---
-Details coming soon!
+Description coming soon!
+
+## Speaker
+
+* Floyd Landis
+
+## Moderator
+
+* Jason Blevins
