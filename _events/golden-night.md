@@ -30,7 +30,7 @@ Live painting occurs outside while inside special extended hours of the American
 
 1300 Washington Avenue, Golden, Colorado 80401
 
-Check out the first look of the 18-19 line of skis while taking in the laid-back vibe of their outdoor courtyard. Partners include:
+Check out the first look of the 18-19 line of skis, Icelantic t-shirt tie-dying experience and music provided by DJ Cassidy while taking in the laid-back vibe of their outdoor courtyard. Partners include:
 
 * [Travis Parr](https://www.parrstudios.net/) (artist)
 * [Breckenridge Distillery](http://breckenridgedistillery.com/) (beverage)
