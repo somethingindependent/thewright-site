@@ -19,6 +19,7 @@ When you have a relationship with the customer there is inherent insight into th
 * [Dan English, Voormi](https://voormi.com/)
 * [Annelise Loevlie, Icelantic Skis](https://www.icelanticskis.com/)
 * [Bryce Phillips, evo](https://www.evo.com/)
+* TBA
 
 ## Moderator
 
