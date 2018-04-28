@@ -19,4 +19,4 @@ After what remains possibly the most spectacular single-day ride in cycling hist
 
 ## Moderator
 
-* Jason Blevins, outdoor-business journalist
+* [Jason Blevins, outdoor business journalist](https://twitter.com/jasonblevins?lang=en) & formally of The Denver Post
