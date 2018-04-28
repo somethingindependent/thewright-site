@@ -18,7 +18,9 @@ After you believe in your brand, how do you bring along others to share in the e
 
 * [Ben Anderson, Icelantic Skis](https://www.icelanticskis.com/) & [iWOTR](https://www.facebook.com/IcelanticsWinterOnTheRocks/)
 * [Alex Gobel, JammyPack](https://www.jammypack.com/) & [Vesica](https://vesica.com/)
+* [Darcy Rae Johnson, Madison House Presents](http://www.madisonhousepresents.com/)
 * [Jed Selby, South Main](http://www.southmainco.com/) & [Seven Peaks Festival](http://sevenpeaksfestival.com/)
+* [Emily Speakes, Tito's Handmade Vodka](https://www.titosvodka.com/)
 
 ## Moderator
 
