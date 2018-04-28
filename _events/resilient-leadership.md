@@ -16,6 +16,7 @@ Entrepreneurial stress can take its toll on leaders: physically, emotionally and
 ## Speakers
 
 * [Dave Bacon, BWBacon Group](http://www.bwbacon.com/)
+* [Tom Fox, Optic Nerve Eyewear](https://www.opticnerve.com/)
 * [Roanne Houck, Acli-Mate](https://acli-mate.com/)
 * [Megan Reamer, Jackson's Honest](https://jacksonshonest.com/)
 
