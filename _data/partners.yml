@@ -64,6 +64,9 @@
   - name: LaCome Events
     url: https://www.lacomeevents.com/
     logo_path: /assets/logos/lacome-events.png
+  - name: Domino Strategies
+    url: http://www.dominostrategies.com/
+    logo_path: /assets/logos/domino-strategies.png
   - name: Traverse Image
     url: https://www.traverseimage.com/
     logo_path: /assets/logos/traverse-image.png
@@ -79,6 +82,9 @@
   - name: Battery 621
     url: http://battery621.com/
     logo_path: /assets/logos/battery-621.png
+  - name: The Coloradan
+    url: http://thecoloradan.com/
+    logo_path: /assets/logos/the-coloradan.png
   - name: Bentgate Mountaineering
     url: http://www.bentgate.com/
     logo_path: /assets/logos/bentgate.png
