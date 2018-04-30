@@ -22,4 +22,4 @@ As leaders it is our responsibility to bring developing talent into the fold. Th
 
 ## Moderator
 
-* [Cat Alletto, Spark4team]()
+* [Cat Alletto, Spark4team](https://www.spark4team.com/)
