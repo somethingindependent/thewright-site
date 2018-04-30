@@ -21,7 +21,7 @@ Live painting occurs outside while inside special extended hours of the American
 
 * [Jolt](http://www.guerillagarden.com/) (artist)
 * [Golden Moon Distillery](http://goldenmoondistillery.com/) (beverage)
-* TBA (music)
+* DJ (music)
 * [COILSx](https://coilsx2018.splashthat.com/)
 * [Foothills Art Center](http://www.foothillsartcenter.org/)
 * [American Mountaineering Center](http://www.americanmountaineeringcenter.org/)
@@ -39,28 +39,16 @@ Check out the first look of the 18-19 line of skis, Icelantic t-shirt tie-dying 
 * [Conservation Colorado](https://conservationco.org/)
 * [Icelantic Skis](https://www.icelanticskis.com/)
 
-### S|I OutPost x Golden Giddyup x Our Friends from Utah
+### S|I OutPost x Golden Giddyup x Camber Outdoors x Our Friends from Utah & Arkansas Valley
 
 1100 Washington Avenue, Golden, Colorado 80401
 
-Inside listen to a bluegrass/gospel set while outside there's visual interactive game  projections. Partners include:
+Inside listen to a bluegrass/gospel set while outside there's visual interactive game  projections. Triangulating friends from Utah, Boulder and Buena Vista was never so much fun. Say hello to an interesting collab for the night with beards, ladies of enterprise and a Partners include:
 
 * [Oh Heck Yeah](http://ohheckyeah.com/) (artist)
-* [Oskar Blues](https://www.oskarblues.com/) & [A.C. Golden](http://www.acgolden.com/) (beverage)
+* [Oskar Blues](https://www.oskarblues.com/) + [A.C. Golden](http://www.acgolden.com/) + [Deerhammer]()(beverage)
 * [Sister Sarah](http://www.jonwirtzmusic.com/events/2018/4/29/sister-sarah) (music)
-* [Friends from Utah](http://edcutah.org/industries/outdoor-products-recreation)
+* Friend from [Utah](http://edcutah.org/industries/outdoor-products-recreation) & the [Arkansas Valley](https://chaffeecountyedc.com/business-environment/local-industry/)
 * [Golden Giddyup](http://goldengiddyup.com/)
-* [Something Independent](http://www.somethingindependent.com/)
-
-### TBA x Camber Outdoors x Arkansas Valley
-
-Golden, Colorado 80401
-
-Triangulating friends from Telluride, Boulder and Buena Vista was never so much fun. Say hello to the most interesting collab of the night with beards, queens of enterprise and a proverbial frog. Partners include:
-
-* TBA (artist)
-* [Deerhammer]() (beverage)
-* TBA (music)
-* [Arkansas Valley](https://chaffeecountyedc.com/business-environment/local-industry/)
 * [Camber Outdoors](https://camberoutdoors.org/)
-* TBA
+* [Something Independent](http://www.somethingindependent.com/)
