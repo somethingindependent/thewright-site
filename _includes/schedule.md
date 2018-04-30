@@ -5,6 +5,19 @@ We’ve worked hard to bring high-level, inspirational talks and tactical worksh
 Be sure to grab a ticket for our culminating event - Award Night - hosted this year in partnership with the Colorado School of Mines at Lockridge Arena.
 
 ## SCHEDULE
+### Use Google Calendar, iCal, or Outlook?
+Subscribe to the full schedule and make it easy to look up all of the details on-the-go.
+{% assign webcal_url = "schedule.ics" | absolute_url | replace: "http", "webcal" %}
+
+<a class="calendar-button" href="{{ webcal_url }}">
+  <i class="fa fa-calendar" aria-hidden="true"></i>
+  Add to Outlook/Apple Calendar
+</a>
+<a class="calendar-button" href="http://www.google.com/calendar/render?cid={{ webcal_url }}" target="_blank">
+  <i class="fa fa-calendar" aria-hidden="true"></i>
+  Add to Google Calendar
+</a>
+
 {% assign events_by_day = 
   site.events | 
   sort: "date" | 

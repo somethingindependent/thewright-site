@@ -410,11 +410,15 @@
 
 .calendar-button, .calendar-button:hover, .calendar-button:active, .calendar-button:visited {
   @extend %button;
-  width: 50%;
+
+  width: calc(50% - (#{$spacing-unit} * 2));
+  width: -webkit-calc(50% - (#{$spacing-unit} * 2));
   text-align: center;
+  display: inline-block;
 
   @include media-query($on-palm) {
-    width: 80%;
+    width: calc(80% - (#{$spacing-unit} * 2));
+    width: -webkit-calc(80% - (#{$spacing-unit} * 2));
   }
 
   i {
