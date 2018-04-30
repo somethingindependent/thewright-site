@@ -1,5 +1,6 @@
 ---
 pages:
+- _events/tech-in-the-outdoors.md
 - _events/award-night.md
 - _events/keynote-conversation-floyd-landis.md
 - _events/outdoor-recreation-rural-economies.md
@@ -18,7 +19,6 @@ pages:
 - _events/resilient-leadership.md
 - _events/digital-content-strategy.md
 - _events/changing-face-faces-media.md
-- _events/tech-in-the-outdoors.md
 - _events/how-we-tell-our-story-matters.md
 - _events/engaging-emerging-leaders.md
 hide_body: false
