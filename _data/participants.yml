@@ -254,3 +254,103 @@
   company: Snowvation
   headshot_path: "/assets/headshots/michael-stocker.jpg"
   priority: 2
+- first_name: April
+  last_name: Archer
+  company: SaraBella Fishing
+  headshot_path: "/assets/headshots/april-archer.jpg"
+  priority: 2
+- first_name: JT
+  last_name: Archer
+  company: SaraBella Fishing
+  headshot_path: "/assets/headshots/jt-archer.jpg"
+  priority: 2
+- first_name: Scott
+  last_name: Grieble
+  company: SaraBella Fishing
+  headshot_path: "/assets/headshots/scott-grieble.jpg"
+  priority: 2
+- first_name: Ben
+  last_name: Anderson
+  company: Icelantic Skis
+  headshot_path: "/assets/headshots/ben-anderson.jpg"
+  priority: 2
+- first_name: Chris
+  last_name: Conroy
+  company: Yeti Cycles
+  headshot_path: "/assets/headshots/chris-conroy.jpg"
+  priority: 2
+- first_name: Kim
+  last_name: Beekman
+  company: Backbone Media
+  headshot_path: "/assets/headshots/kim-beekman.jpg"
+  priority: 2
+- first_name: Alex
+  last_name: Gobel
+  company: JammyPack
+  headshot_path: "/assets/headshots/alex-gobel.jpg"
+  priority: 2
+- first_name: Matt
+  last_name: Hupperts
+  company: evo
+  headshot_path: "/assets/headshots/matt-hupperts.jpg"
+  priority: 2
+- first_name: Darcy Rae
+  last_name: Johnson
+  company: Madison House Presents
+  headshot_path: "/assets/headshots/darcy-rae-johnson.jpg"
+  priority: 2
+- first_name: Aidan
+  last_name: Haley
+  company: Filmmaker
+  headshot_path: "/assets/headshots/aidan-haley.jpg"
+  priority: 2
+- first_name: Chris
+  last_name: Tamucci
+  company: Big Agnes & Honey Stinger
+  headshot_path: "/assets/headshots/chris-tamucci.jpg"
+  priority: 2
+- first_name: Anne
+  last_name: Keller
+  company: The Hot Tomato
+  headshot_path: "/assets/headshots/anne-keller.jpg"
+  priority: 2
+- first_name: Jen
+  last_name: Zeuner
+  company: The Hot Tomato
+  headshot_path: "/assets/headshots/jen-zeuner.jpg"
+  priority: 2
+- first_name: Jeremy & Mindy
+  last_name: Straley
+  company: Mountain States Snowcats
+  headshot_path: "/assets/headshots/jeremy-mindy-straley.jpg"
+  priority: 2
+- first_name: Lee
+  last_name: Wandling
+  company: ImageSeller
+  headshot_path: "/assets/headshots/lee-wandling.jpg"
+  priority: 2
+- first_name: Mark
+  last_name: Morris
+  company: Rapidgrass
+  headshot_path: "/assets/headshots/mark-morris.jpg"
+  priority: 2
+- first_name: Mary Anne
+  last_name: Potts
+  company: ROAM Media
+  headshot_path: "/assets/headshots/mary-anne-potts.jpg"
+  priority: 2
+- first_name: Megan
+  last_name: Reamer
+  company: Jackson's Honest
+  headshot_path: "/assets/headshots/megan-reamer.jpg"
+  priority: 2
+- first_name: Mike
+  last_name: Waesche
+  company: RMU
+  headshot_path: "/assets/headshots/mike-waesche.jpg"
+  priority: 2
+- first_name: Mikey
+  last_name: Goldenberg
+  company: Postmodern Company
+  headshot_path: "/assets/headshots/mikey-goldenberg.jpg"
+  priority: 2
