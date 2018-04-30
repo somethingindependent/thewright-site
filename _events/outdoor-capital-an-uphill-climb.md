@@ -13,7 +13,7 @@ redirect_from:
 ---
 In any industry, entrepreneurship is an uphill climb. There’s no one path in going from concept to company, but we know it takes work, lots of it, and the right resources. Tapping into the capital required to build and grow can make or break a business. For the outdoor-founder, the road to the right funding can be rough and lonely. But you’re not alone in the trek. In this discussion, you’ll hear stories from the trenches from outdoor-industry entrepreneurs and glean knowledge from experts in the funding field that will help you navigate your way to the resources right for you.
 
-### Speakers
+### Panel
 
 * [Mike O'Donnell, Colorado Lending Source](https://www.coloradolendingsource.org/)
 * [John-Paul Maxfield, Waste Farmers](https://www.wastefarmers.com/)
