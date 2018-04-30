@@ -13,7 +13,7 @@ redirect_from:
 ---
 With software leading demands for more transparency, shortened cycles and agile workflows, how do you know which advancements to utilize in directing business growth and brand stability? And when should you consider implementing these improvement (cost/time)? Gain insight into vetting tools for your operations to realize frictionless connectedness, fulfillment without middlemen and controlling operating expenses while driving sales.
 
-## Speakers
+## Panel
 
 * [Nathan Decker, evo](https://www.evo.com/)
 * [Megan Smith, Symbia Logistics](https://www.symbia.com/)
