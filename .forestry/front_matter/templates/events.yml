@@ -1,5 +1,6 @@
 ---
 pages:
+- _events/engaging-emerging-leaders.md
 - _events/outdoor-capital-an-uphill-climb.md
 - _events/framing-your-operations-stack.md
 - _events/myth-core-brand-career.md
@@ -20,7 +21,6 @@ pages:
 - _events/resilient-leadership.md
 - _events/changing-face-faces-media.md
 - _events/how-we-tell-our-story-matters.md
-- _events/engaging-emerging-leaders.md
 hide_body: false
 is_partial: false
 fields:
