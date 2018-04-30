@@ -16,7 +16,6 @@ Technology has pervaded nearly every aspect of our lives - from running our busi
 ## Speakers
 
 * [Meghan Newlin, TrainingPeaks](http://trainingpeaks.com/)
-* [Jason Van Peeren, Vail Resorts](http://vailresorts.com/)
 * [Freddie Peyerl, Alpine Media Technology](https://alpinemediatech.com/)
 * [Michael Stocker, Snowvation](http://www.snowvation.com/)
 
