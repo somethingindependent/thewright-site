@@ -1,5 +1,6 @@
 ---
 pages:
+- _events/how-we-tell-our-story-matters.md
 - _events/outdoor-recreation-rural-economies.md
 - _events/changing-face-faces-media.md
 - _events/engaging-emerging-leaders.md
@@ -20,7 +21,6 @@ pages:
 - _events/keynote-maturing-of-an-industry.md
 - _events/mending-fences-connecting-communities-values.md
 - _events/resilient-leadership.md
-- _events/how-we-tell-our-story-matters.md
 hide_body: false
 is_partial: false
 fields:
