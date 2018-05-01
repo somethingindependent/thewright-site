@@ -27,7 +27,11 @@ Subscribe to the full schedule and make it easy to look up all of the details on
 ## {{ day.items.first.date | date: '%A, %-m/%-d'" }}
 
 {% for event in day.items -%}
+{% if event.format %}
 - [{{ event.date | date: "%-I:%M %P" }} &mdash; {{ event.format }}: {{ event.title }} ({{ event.location_name }})]({{ event.url }})
+{% else %}
+- [{{ event.date | date: "%-I:%M %P" }} &mdash; {{ event.title }} ({{ event.location_name }})]({{ event.url }})
+{% endif %}
 {% endfor -%}
 {%- endfor %}
 
