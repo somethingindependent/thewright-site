@@ -21,7 +21,7 @@ A timely panel discussion with outdoor-inspired leaders from Grand Junction, CO,
 * [Robin Brown, Grand Junction Economic Partnership](http://www.gjep.org/)
 * [Peter Makowski, Salt Lake City Economic Development](http://www.slcgov.com/economic-development) & formerly of [Ogden, Utah](http://ogdenbusiness.com/home.aspx)
 * [Mark Morris, RapidGrass](http://www.rapidgrass.com/)
-* TBA
+* [Sam Williams, Powerhorn Mountain Resort](www.powderhorn.com)
 
 ## Moderator
 
