@@ -101,7 +101,7 @@
   priority: 2
 - first_name: Ashley
   last_name: Miller
-  company: evoTrip
+  company: evo
   headshot_path: "/assets/headshots/ashley-miller.jpg"
   priority: 2
 - first_name: Bryce
@@ -353,4 +353,39 @@
   last_name: Goldenberg
   company: Postmodern Company
   headshot_path: "/assets/headshots/mikey-goldenberg.jpg"
+  priority: 2
+- first_name: Holly
+  last_name: Battista-Resignolo
+  company: MTN Town Magazine
+  headshot_path: "/assets/headshots/holly-battista-resignolo.jpg"
+  priority: 2
+- first_name: Emily
+  last_name: Speakes
+  company: Tito's Handmade Vodka
+  headshot_path: "/assets/headshots/emily-speakes.jpg"
+  priority: 2
+- first_name: Sarah
+  last_name: Tingey
+  company: Alpacka Raft
+  headshot_path: "/assets/headshots/sarah-tingey.jpg"
+  priority: 2
+- first_name: Thor
+  last_name: Tingey
+  company: Alpacka Raft
+  headshot_path: "/assets/headshots/thor-tingey.jpg"
+  priority: 2
+- first_name: Molly
+  last_name: Cuffe
+  company: Smartwool
+  headshot_path: "/assets/headshots/molly-cuffe.jpg"
+  priority: 2
+- first_name: Jim
+  last_name: Licko
+  company: CenterTable
+  headshot_path: "/assets/headshots/jim-licko.jpg"
+  priority: 2
+- first_name: Aisha
+  last_name: Weinhold
+  company: No Man's Land Film Festival
+  headshot_path: "/assets/headshots/aisha-weinhold.jpg"
   priority: 2
