@@ -17,7 +17,3 @@ A 'campfire' conversation with trusted industry veterans discussing the outdoor 
 
 * [Luis Benitez, Colorado Office of Outdoor Recreation](https://choosecolorado.com/programs-initiatives/outdoor-recreation-industry-office/)
 * [Jason Blevins, outdoor business journalist](https://twitter.com/jasonblevins?lang=en) & formerly of The Denver Post
-
-## Moderator
-
-* TBA
