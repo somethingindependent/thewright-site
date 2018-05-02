@@ -1,5 +1,6 @@
 ---
 title: GOLDEN NIGHT
+format: 4 Social Events
 date: 2018-05-02 19:00:00 +0000
 date_end: 2018-05-02 22:00:00 +0000
 location_name: Historic Downtown
@@ -19,7 +20,7 @@ A progressive night that mashes up the community of The Wright with the soulful 
 Live painting occurs outside while inside special extended hours of the American Mountaineering Museum. Come experience the AMC like you've never seen it. Partners include:
 
 * [Jolt](http://www.guerillagarden.com/) (artist)
-* DJ (music)
+* [DJ Courtney Hampton](https://www.linkedin.com/in/hamptonentertainment) (music)
 * [Golden Moon Distillery](http://goldenmoondistillery.com/)
 * [COILSx](https://coilsx2018.splashthat.com/)
 * [Foothills Art Center](http://www.foothillsartcenter.org/)
@@ -42,7 +43,7 @@ Check out the first look of the 18-19 line of skis, Icelantic t-shirt tie-dying 
 
 1100 Washington Avenue, Golden, Colorado 80401
 
-Inside listen to a bluegrass/gospel set while outside there's visual interactive game  projections. Triangulating friends from Utah, Boulder and Buena Vista was never so much fun. Say hello to an interesting collab for the night with beards, ladies of enterprise and a Partners include:
+Inside listen to a bluegrass/gospel set while outside there's visual interactive game  projections. Triangulating friends from Utah, Boulder/Golden and Buena Vista was never so much fun. Say hello to an interesting collab for the night with tastings, good friends and laughter. Partners include:
 
 * [Oh Heck Yeah](http://ohheckyeah.com/) (artist)
 * [Sister Sarah](http://www.jonwirtzmusic.com/events/2018/4/29/sister-sarah) (music)
