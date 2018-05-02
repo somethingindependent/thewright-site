@@ -1,5 +1,5 @@
 ---
-title: GOLDEN NIGHT
+title: ") GOLDEN NIGHT"
 format: ''
 date: 2018-05-02 19:00:00 +0000
 date_end: 2018-05-02 22:00:00 +0000
