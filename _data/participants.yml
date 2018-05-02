@@ -407,5 +407,24 @@
 - first_name: Peter
   last_name: Makowski
   company: Salt Lake City
+  # url: https://www.linkedin.com/in/peter-makowski-17b36641/
   headshot_path: "/assets/headshots/peter-makowski.jpg"
+  priority: 2
+- first_name: Tom
+  last_name: Fox
+  company: Optic Nerve
+  # url: https://www.linkedin.com/in/thomas-fox-20956b29
+  headshot_path: "/assets/headshots/tom-fox.jpg"
+  priority: 2
+- first_name: Jonathan
+  last_name: Georger
+  company: BLKDG
+  # url: https://www.linkedin.com/in/jonathangeorger/
+  headshot_path: "/assets/headshots/jonathan-georger.jpg"
+  priority: 2
+- first_name: Robin
+  last_name: Brown
+  company: Grand Junction Economic Partnership
+  # url: https://www.linkedin.com/in/jonathangeorger/
+  headshot_path: "/assets/headshots/robin-brown.jpg"
   priority: 2
