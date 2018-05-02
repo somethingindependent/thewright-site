@@ -389,3 +389,23 @@
   company: No Man's Land Film Festival
   headshot_path: "/assets/headshots/aisha-weinhold.jpg"
   priority: 2
+- first_name: Sam
+  last_name: Williams
+  company: Powderhorn Mountain Resort
+  headshot_path: "/assets/headshots/sam-williams.jpg"
+  priority: 2
+- first_name: Gigi
+  last_name: Sukin
+  company: ColoradoBiz Magazine
+  headshot_path: "/assets/headshots/gigi-sukin.jpg"
+  priority: 2
+- first_name: Kristin
+  last_name: Rust
+  company: Alterra Mountain Company
+  headshot_path: "/assets/headshots/kristin-rust.jpg"
+  priority: 2
+- first_name: Peter
+  last_name: Makowski
+  company: Salt Lake City
+  headshot_path: "/assets/headshots/peter-makowski.jpg"
+  priority: 2
