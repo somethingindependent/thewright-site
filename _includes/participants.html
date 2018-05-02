@@ -3,11 +3,11 @@
   {%- for priority in participants_by_priority -%}
     {% assign participants_by_name = priority.items | sort: "last_name" %}
     {%- for participant in participants_by_name %}
-      <div class="participant-headshot">
+      <a class="participant-headshot" href="{{ participant.url }}" title="{{ participant.first_name }} {{ participant.last_name }} | {{ participant.company }}" target="_blank">
         <img src="{{ participant.headshot_path }}" alt="{{ participant.first_name }} {{ participant.last_name }} | {{ participant.company }}" />
         <div class="participant-name">{{ participant.first_name }} {{ participant.last_name }}</div>
         <div class="participant-company">{{ participant.company }}</div>
-      </div>
+      </a>
     {%- endfor -%}
   {%- endfor -%}
 <div>

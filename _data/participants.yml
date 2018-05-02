@@ -2,211 +2,253 @@
 - first_name: Katie
   last_name: Payer
   company: Something Independent
+  url: https://www.linkedin.com/in/katiepayer/
   headshot_path: "/assets/headshots/katie-payer.jpg"
   priority: 3
 - first_name: Cordell
   last_name: Carter, II
   company: The Aspen Institute
+  url: https://www.linkedin.com/in/cordellcarter/
   headshot_path: "/assets/headshots/cordell-carter.jpg"
   priority: 1
 - first_name: Ian
   last_name: Fohrman
   company: The Public Works
+  url: https://www.linkedin.com/in/ianfohrman/
   headshot_path: "/assets/headshots/ian-fohrman.jpg"
   priority: 2
 - first_name: Marc
   last_name: Gutman
   company: WILDSTORY
+  url: https://www.linkedin.com/in/marcgutman/
   headshot_path: "/assets/headshots/marc-gutman.jpg"
   priority: 2
 - first_name: Karen
   last_name: Capaldi
   company: DreamMaker Project / Starbucks
+  url: https://www.linkedin.com/in/karen-capaldi-16038554/
   headshot_path: "/assets/headshots/karen-capaldi.jpg"
   priority: 2
 - first_name: Delaney
   last_name: Keating
   company: ICELab @ Western
+  url: https://www.linkedin.com/in/delaney-keating-43459b6/
   headshot_path: "/assets/headshots/delaney-keating.jpg"
   priority: 2
 - first_name: Brendan
   last_name: Leonard
   company: Semi-Rad Media
+  url: https://www.linkedin.com/in/brendan-leonard-ba5a753/
   headshot_path: "/assets/headshots/brendan-leonard.jpg"
   priority: 2
 - first_name: Annelise
   last_name: Loevlie
   company: Icelantic
+  url: https://www.linkedin.com/in/annelise-loevlie-3325555/
   headshot_path: "/assets/headshots/annelise-loevlie.jpg"
   priority: 2
 - first_name: Kelly
   last_name: Watters
   company: Western Rise
+  url: https://www.linkedin.com/in/kelly-watters-3b872a5a/
   headshot_path: "/assets/headshots/kelly-watters.jpg"
   priority: 2
 - first_name: Will
   last_name: Watters
   company: Western Rise
+  url: https://www.linkedin.com/in/will-watters-87876614/
   headshot_path: "/assets/headshots/will-watters.jpg"
   priority: 2
 - first_name: Luis
   last_name: Benitez
   company: Colorado OREC
+  url: https://choosecolorado.com/programs-initiatives/outdoor-recreation-industry-office/
   headshot_path: "/assets/headshots/luis-benitez.jpg"
   priority: 1
 - first_name: Tom
   last_name: Adams
   company: Utah OREC
+  url: https://www.linkedin.com/in/thomas-adams-9443b710/
   headshot_path: "/assets/headshots/tom-adams.jpg"
   priority: 1
 - first_name: Amy
   last_name: Kemp
   company: ELEVATE coSPACE
+  url: https://www.linkedin.com/in/amymkemp/
   headshot_path: "/assets/headshots/amy-kemp.jpg"
   priority: 3
 - first_name: Jason
   last_name: Blevins
   company: Journalist
+  url: https://www.linkedin.com/in/jason-blevins-8250918/
   headshot_path: "/assets/headshots/jason-blevins.jpg"
   priority: 1
 - first_name: Sarah
   last_name: Shrader
   company: Bonsai Design
+  url: http://bonsai-design.com/sarah-shrader/
   headshot_path: "/assets/headshots/sarah-shrader.jpg"
   priority: 2
 - first_name: Freddie
   last_name: Peyerl
   company: Alpine Media Technology
+  url: https://www.linkedin.com/in/fred-peyerl-3b5a161/
   headshot_path: "/assets/headshots/freddie-peyerl.jpg"
   priority: 2
 - first_name: Johnny
   last_name: Klein
   company: Something Independent
+  url: http://somethingindependent.com/
   headshot_path: "/assets/headshots/johnny-klein.jpg"
   priority: 3
 - first_name: Deanne
   last_name: Buck
   company: Camber Outdoors
+  url: https://www.linkedin.com/in/deanne-buck-b92b936/
   headshot_path: "/assets/headshots/deanne-buck.jpg"
   priority: 1
 - first_name: Nathan
   last_name: Decker
   company: evo
+  url: https://www.linkedin.com/in/deckernathan/
   headshot_path: "/assets/headshots/nathan-decker.jpg"
   priority: 2
 - first_name: Cat
   last_name: Alletto
   company: Spark4team
+  url: https://www.linkedin.com/in/cat-alletto-a0545221/
   headshot_path: "/assets/headshots/cat-alletto.jpg"
   priority: 2
 - first_name: Ashley
   last_name: Miller
   company: evo
+  url: https://www.linkedin.com/in/theashleymiller/
   headshot_path: "/assets/headshots/ashley-miller.jpg"
   priority: 2
 - first_name: Bryce
   last_name: Phillips
   company: evo
+  url: https://www.linkedin.com/in/bryce-phillips-496256/
   headshot_path: "/assets/headshots/bryce-phillips.jpg"
   priority: 1
 - first_name: Ally
   last_name: Seeley
   company: Drumbeat
+  url: http://drumbeat.us/whoweare/
   headshot_path: "/assets/headshots/ally-seeley.jpg"
   priority: 3
 - first_name: Chuck
   last_name: Sullivan
   company: Something Independent
+  url: http://www.somethingindependent.com/
   headshot_path: "/assets/headshots/chuck-sullivan.jpg"
   priority: 3
 - first_name: Jennifer
   last_name: Thoemke
   company: Connects Workspace
+  url: https://www.linkedin.com/in/jenniferthoemke/
   headshot_path: "/assets/headshots/jennifer-thoemke.jpg"
   priority: 2
 - first_name: Sam
   last_name: Warren
   company: The Pinecone Project
+  url: https://www.linkedin.com/in/sam-warren-11a97938/
   headshot_path: "/assets/headshots/sam-warren.jpg"
   priority: 2
 - first_name: Jon
   last_name: Woods
   company: CenterTable
+  url: https://www.linkedin.com/in/jonwoods/
   headshot_path: "/assets/headshots/jon-woods.jpg"
   priority: 3
 - first_name: Jay
   last_name: Zeschin
   company: Denver Startup Week
+  url: https://www.linkedin.com/in/jay-zeschin-4009055/
   headshot_path: "/assets/headshots/jay-zeschin.jpg"
   priority: 3
 - first_name: John
   last_name: Hickenlooper
   company: Governor of Colorado
+  url: https://www.colorado.gov/governor/
   headshot_path: "/assets/headshots/john-hickenlooper.jpg"
   priority: 0
 - first_name: Dave
   last_name: Bacon
   company: BWBacon Group
+  url: https://www.linkedin.com/in/bacondave/
   headshot_path: "/assets/headshots/dave-bacon.jpg"
   priority: 2
 - first_name: Roanne
   last_name: Houck
   company: Acli-Mate
+  url: https://www.linkedin.com/in/roanne-houck-n-d-0b005a30/
   headshot_path: "/assets/headshots/roanne-houck.jpg"
   priority: 2
 - first_name: Dainella
   last_name: Nartker
   company: RhinoFox
+  url: https://www.linkedin.com/in/dainellanartker/
   headshot_path: "/assets/headshots/dainella-nartker.jpg"
   priority: 2
 - first_name: Dave
   last_name: Boger
   company: Jiberish Clothing
+  url: https://www.linkedin.com/in/david-boger-a08770b/
   headshot_path: "/assets/headshots/dave-boger.jpg"
   priority: 2
 - first_name: Mike
   last_name: Arzt
   company: The Public Works
+  url: https://www.linkedin.com/in/mike-arzt-b387483/
   headshot_path: "/assets/headshots/mike-arzt.jpg"
   priority: 2
 - first_name: Davis
   last_name: Smith
   company: Cotopaxi
+  url: https://www.linkedin.com/in/davismsmith/
   headshot_path: "/assets/headshots/davis-smith.jpg"
   priority: 2
 - first_name: Dan
   last_name: English
   company: Voormi
+  url: https://www.linkedin.com/in/dan-english-17700734/
   headshot_path: "/assets/headshots/dan-english.jpg"
   priority: 2
 - first_name: Meghan
   last_name: Newlin
   company: TrainingPeaks
+  url: https://www.linkedin.com/in/meghannewlin/
   headshot_path: "/assets/headshots/meghan-newlin.jpg"
   priority: 2
 - first_name: Kiki
   last_name: Grainger
   company: Wayfinder Co-op
+  url: https://www.linkedin.com/in/kiki-grainger-a8315632/
   headshot_path: "/assets/headshots/kiki-grainger.jpg"
   priority: 3
 - first_name: Scott
   last_name: Buelter
   company: Ascent360
+  url: https://www.linkedin.com/in/scottbuelter
   headshot_path: "/assets/headshots/scott-buelter.jpg"
   priority: 2
 - first_name: John-Paul
   last_name: Maxfield
   company: Waste Farmers
+  url: https://www.linkedin.com/in/john-paul-maxfield-415b972
   headshot_path: "/assets/headshots/john-paul-maxfield.jpg"
   priority: 2
 - first_name: Amy
   last_name: Roberts
   company: Outdoor Industry Association
+  url: https://www.linkedin.com/in/amy-roberts-4712096/
   headshot_path: "/assets/headshots/amy-roberts.jpg"
   priority: 1
 - first_name: Matt
   last_name: Jaffe
   company: 303 Software & EO Colorado
+  url: https://www.linkedin.com/in/jaffro/
   headshot_path: "/assets/headshots/matt-jaffe.jpg"
   priority: 2
 - first_name: Drew
@@ -217,214 +259,252 @@
 - first_name: Leo
   last_name: Tsuo
   company: Weston Snowboards
+  url: https://www.linkedin.com/in/leotsuo/
   headshot_path: "/assets/headshots/leo-tsuo.jpg"
   priority: 2
 - first_name: Sean
   last_name: Eno
   company: Weston Snowboards
+  url: https://www.linkedin.com/in/seanenosnow/
   headshot_path: "/assets/headshots/sean-eno.jpg"
   priority: 2
 - first_name: Mason
   last_name: Davey
   company: Weston Snowboards
+  url: https://www.linkedin.com/in/mason-davey-43505aa1
   headshot_path: "/assets/headshots/mason-davey.jpg"
   priority: 2
 - first_name: Jed
   last_name: Selby
   company: South Main
+  url: https://www.linkedin.com/in/jed-selby-7b3686a/
   headshot_path: "/assets/headshots/jed-selby.jpg"
   priority: 2
 - first_name: Vickie
   last_name: Hormuth
   company: American Alpine Club
+  url: https://www.linkedin.com/in/vickie-hormuth-a2616469/
   headshot_path: "/assets/headshots/vickie-hormuth.jpg"
   priority: 2
 - first_name: Meaghan
   last_name: Lynch
   company: 5Point Film Festival
+  url: https://www.linkedin.com/in/meaghan-lynch-08992b28/
   headshot_path: "/assets/headshots/meaghan-lynch.jpg"
   priority: 2
 - first_name: P.T.
   last_name: Wood
   company: Wood's High Mountain Distillery & City of Salida
+  url: http://woodsdistillery.com/our-story/
   headshot_path: "/assets/headshots/pt-wood.jpg"
   priority: 2
 - first_name: Michael
   last_name: Stocker
   company: Snowvation
+  url: https://www.linkedin.com/in/michaeljstocker/
   headshot_path: "/assets/headshots/michael-stocker.jpg"
   priority: 2
 - first_name: April
   last_name: Archer
   company: SaraBella Fishing
+  url: https://www.linkedin.com/in/april-archer-8234a8a/
   headshot_path: "/assets/headshots/april-archer.jpg"
   priority: 2
 - first_name: JT
   last_name: Archer
   company: SaraBella Fishing
+  url: https://www.linkedin.com/in/jtarcher/
   headshot_path: "/assets/headshots/jt-archer.jpg"
   priority: 2
 - first_name: Scott
   last_name: Grieble
   company: SaraBella Fishing
+  url: https://www.sarabellafishing.com/team/
   headshot_path: "/assets/headshots/scott-grieble.jpg"
   priority: 2
 - first_name: Ben
   last_name: Anderson
   company: Icelantic Skis
+  url: https://www.linkedin.com/in/ben-anderson-29580678/
   headshot_path: "/assets/headshots/ben-anderson.jpg"
   priority: 2
 - first_name: Chris
   last_name: Conroy
   company: Yeti Cycles
+  url: https://www.linkedin.com/in/chris-conroy-443504/
   headshot_path: "/assets/headshots/chris-conroy.jpg"
   priority: 2
 - first_name: Kim
   last_name: Beekman
   company: Backbone Media
+  url: https://www.linkedin.com/in/kimberly-beekman-b78b504/
   headshot_path: "/assets/headshots/kim-beekman.jpg"
   priority: 2
 - first_name: Alex
   last_name: Gobel
   company: JammyPack
+  url: https://www.linkedin.com/in/alex-gobel-b5bbb329/
   headshot_path: "/assets/headshots/alex-gobel.jpg"
   priority: 2
 - first_name: Matt
   last_name: Hupperts
   company: evo
+  url: https://www.linkedin.com/in/matt-hupperts-7ba83093/
   headshot_path: "/assets/headshots/matt-hupperts.jpg"
   priority: 2
 - first_name: Darcy Rae
   last_name: Johnson
   company: Madison House Presents
+  url: http://www.madisonhousepresents.com/our-team/
   headshot_path: "/assets/headshots/darcy-rae-johnson.jpg"
   priority: 2
 - first_name: Aidan
   last_name: Haley
   company: Filmmaker
+  url: https://www.linkedin.com/in/aidan-haley-3418a7111/
   headshot_path: "/assets/headshots/aidan-haley.jpg"
   priority: 2
 - first_name: Chris
   last_name: Tamucci
   company: Big Agnes & Honey Stinger
+  url: https://www.linkedin.com/in/christamucci/
   headshot_path: "/assets/headshots/chris-tamucci.jpg"
   priority: 2
 - first_name: Anne
   last_name: Keller
   company: The Hot Tomato
+  url: https://www.hottomatopizza.com/about
   headshot_path: "/assets/headshots/anne-keller.jpg"
   priority: 2
 - first_name: Jen
   last_name: Zeuner
   company: The Hot Tomato
+  url: https://www.linkedin.com/in/jen-zeuner-55107817/
   headshot_path: "/assets/headshots/jen-zeuner.jpg"
   priority: 2
 - first_name: Jeremy & Mindy
   last_name: Straley
   company: Mountain States Snowcats
+  url: https://www.linkedin.com/in/jeremy-straley-18ba13a1/
   headshot_path: "/assets/headshots/jeremy-mindy-straley.jpg"
   priority: 2
 - first_name: Lee
   last_name: Wandling
   company: ImageSeller
+  url: https://www.linkedin.com/in/lee-wandling-23619242/
   headshot_path: "/assets/headshots/lee-wandling.jpg"
   priority: 2
 - first_name: Mark
   last_name: Morris
   company: Rapidgrass
+  url: http://www.rapidgrass.com/bio/
   headshot_path: "/assets/headshots/mark-morris.jpg"
   priority: 2
 - first_name: Mary Anne
   last_name: Potts
   company: ROAM Media
+  url: https://www.linkedin.com/in/mary-anne-potts-4a315b7/
   headshot_path: "/assets/headshots/mary-anne-potts.jpg"
   priority: 2
 - first_name: Megan
   last_name: Reamer
   company: Jackson's Honest
+  url: https://www.linkedin.com/in/megan-reamer-229159bb/
   headshot_path: "/assets/headshots/megan-reamer.jpg"
   priority: 2
 - first_name: Mike
   last_name: Waesche
   company: RMU
+  url: https://www.linkedin.com/in/mike-waesche-8232121b/
   headshot_path: "/assets/headshots/mike-waesche.jpg"
   priority: 2
 - first_name: Mikey
   last_name: Goldenberg
   company: Postmodern Company
+  url: https://www.linkedin.com/in/mikey-goldenberg-8754581b/
   headshot_path: "/assets/headshots/mikey-goldenberg.jpg"
   priority: 2
 - first_name: Holly
   last_name: Battista-Resignolo
   company: MTN Town Magazine
+  url: https://www.linkedin.com/in/hollyresignolo/
   headshot_path: "/assets/headshots/holly-battista-resignolo.jpg"
   priority: 2
 - first_name: Emily
   last_name: Speakes
   company: Tito's Handmade Vodka
+  url: https://www.linkedin.com/in/emilyspeakes/
   headshot_path: "/assets/headshots/emily-speakes.jpg"
   priority: 2
 - first_name: Sarah
   last_name: Tingey
   company: Alpacka Raft
+  url: https://www.linkedin.com/in/sarah-tingey-86b0a810/
   headshot_path: "/assets/headshots/sarah-tingey.jpg"
   priority: 2
 - first_name: Thor
   last_name: Tingey
   company: Alpacka Raft
+  url: https://www.linkedin.com/in/thor-tingey-1718034a/
   headshot_path: "/assets/headshots/thor-tingey.jpg"
   priority: 2
 - first_name: Molly
   last_name: Cuffe
   company: Smartwool
+  url: https://www.linkedin.com/in/molly-cuffe-1075785/
   headshot_path: "/assets/headshots/molly-cuffe.jpg"
   priority: 2
 - first_name: Jim
   last_name: Licko
   company: CenterTable
+  url: https://www.linkedin.com/in/jimlicko/
   headshot_path: "/assets/headshots/jim-licko.jpg"
   priority: 2
 - first_name: Aisha
   last_name: Weinhold
   company: No Man's Land Film Festival
+  url: https://www.linkedin.com/in/aisha-weinhold
   headshot_path: "/assets/headshots/aisha-weinhold.jpg"
   priority: 2
 - first_name: Sam
   last_name: Williams
   company: Powderhorn Mountain Resort
+  url: http://powderhorn.com/
   headshot_path: "/assets/headshots/sam-williams.jpg"
   priority: 2
 - first_name: Gigi
   last_name: Sukin
   company: ColoradoBiz Magazine
+  url: https://www.linkedin.com/in/gigi-sukin-10a7a73a/
   headshot_path: "/assets/headshots/gigi-sukin.jpg"
   priority: 2
 - first_name: Kristin
   last_name: Rust
   company: Alterra Mountain Company
+  url: https://www.linkedin.com/in/kristinrust/
   headshot_path: "/assets/headshots/kristin-rust.jpg"
   priority: 2
 - first_name: Peter
   last_name: Makowski
   company: Salt Lake City
-  # url: https://www.linkedin.com/in/peter-makowski-17b36641/
+  url: https://www.linkedin.com/in/peter-makowski-17b36641/
   headshot_path: "/assets/headshots/peter-makowski.jpg"
   priority: 2
 - first_name: Tom
   last_name: Fox
   company: Optic Nerve
-  # url: https://www.linkedin.com/in/thomas-fox-20956b29
+  url: https://www.linkedin.com/in/thomas-fox-20956b29
   headshot_path: "/assets/headshots/tom-fox.jpg"
   priority: 2
 - first_name: Jonathan
   last_name: Georger
   company: BLKDG
-  # url: https://www.linkedin.com/in/jonathangeorger/
+  url: https://www.linkedin.com/in/jonathangeorger/
   headshot_path: "/assets/headshots/jonathan-georger.jpg"
   priority: 2
 - first_name: Robin
   last_name: Brown
   company: Grand Junction Economic Partnership
-  # url: https://www.linkedin.com/in/jonathangeorger/
+  url: https://www.linkedin.com/in/robin-brown-31876912b/
   headshot_path: "/assets/headshots/robin-brown.jpg"
   priority: 2
