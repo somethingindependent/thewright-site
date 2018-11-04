@@ -28,7 +28,7 @@ logo: assets/the-wright-ig.jpg
 collections:
   events:
     output: true
-    permalink: /:collection/:path/:name
+    permalink: /:collection/:path
 defaults:
   - scope:
       path: ""
