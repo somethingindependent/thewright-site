@@ -23,4 +23,4 @@ Entrepreneurial stress can take its toll on leaders: physically, emotionally and
 
 ## Moderator
 
-* [Delaney Keating, ICELab @ Western]()
+* [Delaney Keating, ICELab @ Western](https://icelab.co/)
