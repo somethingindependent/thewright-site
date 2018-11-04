@@ -1,0 +1,54 @@
+---
+- name: The Hot Tomato
+  url: https://www.hottomatopizza.com/
+  logo_path: "/assets/logos/hot-tomato.jpg"
+  facebook_video_url: "https://www.facebook.com/SomethingIndependent/videos/1686515501385811/"
+  year: 2018
+  designation: Winner
+- name: Alpacka Raft
+  url: https://www.alpackaraft.com/
+  logo_path: "/assets/logos/alpacka-raft.jpg"
+  facebook_video_url: "https://www.facebook.com/SomethingIndependent/videos/1686518864718808/"
+  year: 2018
+  designation: Finalist
+- name: Yeti Cycles
+  url: https://www.yeticycles.com/
+  facebook_video_url: "https://www.facebook.com/SomethingIndependent/videos/1686088614761833/"
+  year: 2018
+  designation: Finalist
+- name: Cotopaxi
+  url: https://www.cotopaxi.com/
+  facebook_video_url: "https://www.facebook.com/SomethingIndependent/videos/1686518271385534"
+  year: 2018
+- name: Green Guru Gear
+  url: https://www.greengurugear.com/
+  facebook_video_url: "https://www.facebook.com/SomethingIndependent/videos/1686031301434231"
+  year: 2018
+- name: Mountain States Snowcats
+  url: http://www.mountainstatessnowcats.com/
+  facebook_video_url: "https://www.facebook.com/SomethingIndependent/videos/1686514944719200"
+  year: 2018
+- name: Powderhorn Mountain Resort
+  url: https://www.powderhorn.com/
+  facebook_video_url: "https://www.facebook.com/SomethingIndependent/videos/1686517464718948"
+  year: 2018
+- name: Rocky Mountain Underground
+  url: https://www.rmuoutdoors.com/
+  facebook_video_url: "https://www.facebook.com/SomethingIndependent/videos/1685987948105233"
+  year: 2018
+- name: SaraBella Fishing
+  url: https://www.sarabellafishing.com/
+  facebook_video_url: "https://www.facebook.com/SomethingIndependent/videos/1685990881438273"
+  year: 2018
+- name: Western Rise
+  url: https://www.westernrise.com/
+  facebook_video_url: "https://www.facebook.com/SomethingIndependent/videos/1686530844717610"
+  year: 2018
+- name: Weston Snowboards
+  url: https://www.westonsnowboards.com/
+  facebook_video_url: "https://www.facebook.com/SomethingIndependent/videos/1686529758051052"
+  year: 2018
+- name: Wood's High Mountain Distillery
+  url: https://www.woodsdistillery.com/
+  facebook_video_url: "https://www.facebook.com/SomethingIndependent/videos/1686532514717443"
+  year: 2018
