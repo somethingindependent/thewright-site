@@ -10,6 +10,7 @@ last_modified_at: now
 layout: event
 redirect_from:
 - "/talks/golden-night/"
+- "/events/golden-night/"
 ---
 A progressive night that mashes up the community of The Wright with the soulful local businesses/organizations of Golden by encouraging exploration of historic downtown. This year’s events, specials and partnerships are hosted by friends new and old.
 

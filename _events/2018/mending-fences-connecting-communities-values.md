@@ -10,6 +10,7 @@ last_modified_at: now
 layout: event
 redirect_from:
 - "/talks/mending-fences-connecting-communities-values/"
+- "/events/mending-fences-connecting-communities-values/"
 ---
 Wrapped up in the Rocky Mountain mindset is a powerful potential to bridge rather than divide through shared experience, open exchange and respectful dialogue. Join us for a participatory conversation about Western values.
 

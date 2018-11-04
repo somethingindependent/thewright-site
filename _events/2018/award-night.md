@@ -9,6 +9,7 @@ last_modified_at: now
 layout: event
 redirect_from:
 - "/talks/award-night/"
+- "/events/award-night/"
 ---
 Ahead of the main event, join us at the Product Gallery to get a first look at the contenders vying for the 2018 prize. Get to know their founders, hear their stories and explore their project with hands-on demos.
 

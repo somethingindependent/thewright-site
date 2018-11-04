@@ -10,6 +10,7 @@ last_modified_at: now
 layout: event
 redirect_from:
 - "/talks/keynote-sense-of-place/"
+- "/events/keynote-sense-of-place/"
 ---
 A 'campfire' conversation with Colorado Governor John Hickenlooper and William Matthews, artist of the American west and storyteller, where they’ll attempt to put a finger on a handful of defining western-values that provide a unique foundation for our Rocky Mountain mindset. For what if our ‘sense of place’ were defined less by geographic borders and more by the people, the economics, the history and the unwritten codes we share? We’ll consider what influence physical landscape has on our mental framework of independence, resilience and cooperation and as we’ll explore the bonds that emotionally bridge our past to inform our future narrative.
 

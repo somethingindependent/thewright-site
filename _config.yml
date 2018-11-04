@@ -27,6 +27,7 @@ logo: assets/the-wright-ig.jpg
 collections:
   events:
     output: true
+    permalink: /:collection/:path/:name
 defaults:
   - scope:
       path: ""
@@ -38,6 +39,11 @@ defaults:
       type: events
     values:
       layout: events
+  - scope:
+      path: "_events/2018"
+      type: events
+    values:
+      year: 2018
 prose:
   siteurl: 'http://thewright.co/'
   media: 'assets'
