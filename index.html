@@ -23,18 +23,6 @@ layout: default
 {% comment %} </nav> {% endcomment %}
 
 <div class="content-section-header">
-  <a name="schedule">Schedule</a>
-</div>
-<div class="wrapper">
-  <section class="content-section">
-    {% capture schedule %}
-      {%- include schedule.md %}
-    {% endcapture %}
-    {{ schedule | markdownify }}
-  </section>
-</div>
-
-<div class="content-section-header">
   <a name="tickets">Tickets</a>
 </div>
 <div class="wrapper">
@@ -80,5 +68,21 @@ layout: default
     {%- include participants.html %}
   </section>
 </div>
+{% assign current_year = 'now' | date: "%Y" %}
+{% assign events_for_current_year = site.events | where_exp: "event", "event.year == current_year" %}
+
+{% unless events_for_current_year == empty %}
+  <div class="content-section-header">
+    <a name="schedule">Schedule</a>
+  </div>
+  <div class="wrapper">
+    <section class="content-section">
+      {% capture schedule %}
+        {%- include schedule.md events=events_for_current_year %}
+      {% endcapture %}
+      {{ schedule | markdownify }}
+    </section>
+  </div>
+{% endunless %}
 
 {% include location.html chrome=true %}
