@@ -19,7 +19,7 @@ Subscribe to the full schedule and make it easy to look up all of the details on
 </a>
 
 {% assign events_by_day = 
-  site.events | 
+  events | 
   sort: "date" | 
   group_by_exp: "event", "event.date | date: '%A, %-m/%-d'" %}
 {% for day in events_by_day %}

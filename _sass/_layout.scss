@@ -128,7 +128,7 @@
   &.intro, &.contenders {
     text-align: center;
 
-    iframe {
+    iframe.wright-explainer {
       margin: $spacing-unit auto;
     }
   }
@@ -147,6 +147,7 @@
   a, a:hover {
     color: inherit;
     text-decoration: none;
+    text-transform: uppercase;
   }
 }
 
@@ -448,11 +449,57 @@
   border: 0;
 }
 
+// Contenders section
 .contenders-image {
   width: 100%;
   height: 50vh;
   background-image: url('/assets/thewright-rapidgrass.jpg');
   background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: grayscale(100%);
+}
+
+.contender-grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  clear: both;
+
+  .contender-cell {
+    display: block;
+    margin: $spacing-unit / 2 $spacing-unit / 2;
+    text-align: center;
+    vertical-align: middle;
+    width: calc(50% - (#{$spacing-unit} * 2));
+    width: -webkit-calc(50% - (#{$spacing-unit} * 2));
+    font-size: ms(1);
+    line-height: 1;
+  }
+
+  @include media-query($on-palm) {
+    .contender-video {
+      width: calc(80% - (#{$spacing-unit} * 2));
+      width: -webkit-calc(80% - (#{$spacing-unit} * 2));
+    }
+  }
+
+  // img {
+  //   filter: grayscale(100%);
+  //   border-radius: 50%;
+  //   width: 70%;
+  //   margin-bottom: $spacing-unit / 3;
+  // }
+}
+
+
+// Save the date
+.save-the-date-image {
+  width: 100%;
+  height: 50vh;
+  background-image: url('/assets/wright-2018-panel.jpg');
+  background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
   filter: grayscale(100%);

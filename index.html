@@ -12,53 +12,35 @@ layout: default
   </section>
 </div>
 
-{% comment %} <nav class="site-nav" role="navigation"> {% endcomment %}
-{% comment %}   <div class="wrapper"> {% endcomment %}
-{% comment %}     <ul> {% endcomment %}
-{% comment %}       <li><a href="#art">Art</a></li> {% endcomment %}
-{% comment %}       <li><a href="#schedule">Talks</a></li> {% endcomment %}
-{% comment %}       <li><A href="#location">Get Here</a></li> {% endcomment %}
-{% comment %}     </ul> {% endcomment %}
-{% comment %}   </div> {% endcomment %}
-{% comment %} </nav> {% endcomment %}
-
-<div class="content-section-header">
-  <a name="schedule">Schedule</a>
-</div>
-<div class="wrapper">
-  <section class="content-section">
-    {% capture schedule %}
-      {%- include schedule.md %}
-    {% endcapture %}
-    {{ schedule | markdownify }}
-  </section>
-</div>
-
-<div class="content-section-header">
-  <a name="tickets">Tickets</a>
-</div>
-<div class="wrapper">
-  <section class="content-section">
-    {% capture tickets %}
-      {%- include tickets.md %}
-    {% endcapture %}
-    {{ tickets | markdownify }}
-
-    <script type="text/javascript">
-      (function() {
-        var frame, url = 'https://embed.nightout.com/events/the-wright-a-celebrated-industry-summit-award-program/ticket-form';
-          window.addEventListener('message', function(e) {
-            if (e.data[0] == 'setHeight') frame.style.height = e.data[1] + 'px';
-          }, false);
-          document.addEventListener("DOMContentLoaded", function() {
-            frame = document.getElementById('embed-iframe-43729');
-            frame.setAttribute('src', url);
-          });
-        })();
-    </script>
-    <iframe width="100%" height="680px" frameborder="0" border="0" name="The Wright | A Celebrated Industry Summit & Award Program" id="embed-iframe-43729"></iframe>
-  </section>
-</div>
+{% assign current_year = 'now' | date: "%Y" %}
+{% assign events_for_current_year = site.events | where_exp: "event", "event.year == current_year" %}
+{% unless events_for_current_year == empty %}
+  <div class="content-section-header">
+    <a name="schedule">Schedule</a>
+  </div>
+  <div class="wrapper">
+    <section class="content-section">
+      {% capture schedule %}
+        {%- include schedule.md events=events_for_current_year %}
+      {% endcapture %}
+      {{ schedule | markdownify }}
+    </section>
+  </div>
+{% else %}
+  <div class="save-the-date-image">
+  </div>
+  <div class="content-section-header">
+    <a name="schedule">Save the dates!</a>
+  </div>
+  <div class="wrapper">
+    <section class="content-section">
+      {% capture save_the_date %}
+        {%- include save_the_date.md %}
+      {% endcapture %}
+      {{ save_the_date | markdownify }}
+    </section>
+  </div>
+{% endunless %}
 
 <div class="contenders-image">
 </div>
@@ -67,18 +49,18 @@ layout: default
 </div>
 <div class="wrapper">
   <section class="content-section contenders">
-
     {% include contenders.html %}
   </section>
 </div>
 
-<div class="content-section-header">
-  <a name="participants">Participants</a>
-</div>
-<div class="wrapper">
-  <section class="content-section">
-    {%- include participants.html %}
-  </section>
-</div>
+
+{% comment %} <div class="content-section-header"> {% endcomment %}
+{% comment %}   <a name="participants">Participants</a> {% endcomment %}
+{% comment %} </div> {% endcomment %}
+{% comment %} <div class="wrapper"> {% endcomment %}
+{% comment %}   <section class="content-section"> {% endcomment %}
+{% comment %}     {%- include participants.html %} {% endcomment %}
+{% comment %}   </section> {% endcomment %}
+{% comment %} </div> {% endcomment %}
 
 {% include location.html chrome=true %}
