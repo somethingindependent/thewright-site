@@ -83,6 +83,20 @@ layout: default
       {{ schedule | markdownify }}
     </section>
   </div>
+{% else %}
+  <div class="save-the-date-image">
+  </div>
+  <div class="content-section-header">
+    <a name="schedule">Save the dates!</a>
+  </div>
+  <div class="wrapper">
+    <section class="content-section">
+      {% capture save_the_date %}
+        {%- include save_the_date.md %}
+      {% endcapture %}
+      {{ save_the_date | markdownify }}
+    </section>
+  </div>
 {% endunless %}
 
 {% include location.html chrome=true %}
