@@ -12,8 +12,7 @@ layout: default
   </section>
 </div>
 
-{% assign current_year = 'now' | date: "%Y" %}
-{% assign events_for_current_year = site.events | where_exp: "event", "event.year == current_year" %}
+{% assign events_for_current_year = site.events | where_exp: "event", "event.year == site.current_year" %}
 {% unless events_for_current_year == empty %}
   <div class="content-section-header">
     <a name="schedule">Schedule</a>

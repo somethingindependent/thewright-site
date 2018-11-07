@@ -12,6 +12,7 @@ timezone: '-600'
 url: "http://thewright.co"
 baseurl: ""
 title: "The Wright | April 30 - May 2, 2019 | Golden, CO"
+current_year: 2019
 description: "Three days to recognize, connect, and celebrate all those pursuing a passion, finding a purpose, exploring collaboration, and doing good work"
 twitter:
   username: somethingindpnt

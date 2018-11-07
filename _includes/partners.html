@@ -1,24 +1,20 @@
-<div class="content-section-header">
-  <a name="partners">Special thanks to our community partners</a>
-</div>
-<div class="wrapper">
-  <div class="partner-logos">
-    {%- for group in site.data.partners -%}
-      <div class="logos-{{ group.format }}">
-      {% for partner in group.items -%}
-        <a href="{{ partner.url }}" title="{{ partner.name }}" target="_blank">
-          <img src="{{ partner.logo_path }}" alt="{{ partner.name }}" />
-        </a>
+{% assign partners = site.data.partners[site.current_year] %}
+
+{% unless partners == empty %}
+  <div class="content-section-header">
+    <a name="partners">Special thanks to our community partners</a>
+  </div>
+  <div class="wrapper">
+    <div class="partner-logos">
+      {%- for group in partners -%}
+        <div class="logos-{{ group.format }}">
+        {% for partner in group.items -%}
+          <a href="{{ partner.url }}" title="{{ partner.name }}" target="_blank">
+            <img src="{{ partner.logo_path }}" alt="{{ partner.name }}" />
+          </a>
+        {%- endfor -%}
+        </div>
       {%- endfor -%}
-      </div>
-    {%- endfor -%}
+    </div>
   </div>
-  <div class="content-section centered-copy">
-    <h2>Volunteering</h2>
-    <p>
-      Throughout The Wright, there are many opportunities to plug in and help make the three days of panels, workshops, keynotes, Award Night, and social activities run smoothly.
-      If you're interested in helping us out, we'd love to have you!
-    </p>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfs6kKaHayfEcKqA3khljDMLphxitAlWWAbZCdgVo3X4zACZQ/viewform" class="cta-button">Sign up to volunteer</a>
-  </div>
-</div>
+{% endunless %}

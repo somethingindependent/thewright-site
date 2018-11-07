@@ -1,130 +1,142 @@
-- format: 1up
-  items:
-  - name: Colorado School of Mines
-    url: https://www.mines.edu/
-    logo_path: /assets/logos/school-of-mines-bw.png
-- format: 2up
-  items:
-  - name: Colorado Outdoor Recreation Industry Office
-    url: https://choosecolorado.com/programs-initiatives/outdoor-recreation-industry-office/
-    logo_path: /assets/logos/orec.png
-  - name: Colorado Lending Source
-    url: https://www.coloradolendingsource.org/
-    logo_path: /assets/logos/colorado-lending-source.png
-- format: 3up
-  items:
-  - name: Commerce Kitchen
-    url: https://www.commercekitchen.com/
-    logo_path: /assets/logos/commerce-kitchen.png
-  - name: Startup Colorado
-    url: https://siliconflatirons.org/initiatives/entrepreneurship-initiative/startup-colorado/
-    logo_path: /assets/logos/startup-colorado.png
-  - name: Messner Reeves LLP
-    url: https://www.messner.com/
-    logo_path: /assets/logos/messner-reeves-llp.png
-  - name: Centertable
-    url: https://www.meetatct.com/
-    logo_path: /assets/logos/centertable.png
-  - name: Harmonic Media
-    url: https://getharmonic.com/
-    logo_path: /assets/logos/harmonic.png
-  - name: The Public Works
-    url: http://www.thepublicworks.biz/
-    logo_path: /assets/logos/public-works.png
-  - name: Oskar Blues Brewery
-    url: http://www.oskarblues.com/
-    logo_path: /assets/logos/oskar-blues.png
-  - name: Colorado Native Lagers (AC Golden)
-    url: https://www.coloradonative.com/
-    logo_path: /assets/logos/colorado-native.png
-  - name: The Infinite Monkey Theorem
-    url: https://www.theinfinitemonkeytheorem.com/
-    logo_path: /assets/logos/infinite-monkey-theorem.png
-  - name: Jefferson County Economic Development Corporation
-    url: http://jeffcoedc.org/
-    logo_path: /assets/logos/jeffco-edc.png
-  - name: City of Golden
-    url: https://www.cityofgolden.net/
-    logo_path: /assets/logos/city-of-golden.png
-  - name: Colorado Office of Economic Development
-    url: https://choosecolorado.com/
-    logo_path: /assets/logos/oedit.png
-  - name: Imageseller
-    url: http://www.imageseller.com/
-    logo_path: /assets/logos/imageseller.png
-  - name: Traxion
-    url: http://www.traxion.co/
-    logo_path: /assets/logos/traxion.png
-  - name: Connects Workspace
-    url: http://www.connectsworkspace.com/
-    logo_path: /assets/logos/connects-workspace.png
-  - name: NREL
-    url: https://www.nrel.gov/
-    logo_path: /assets/logos/nrel.png
-  - name: LaCome Events
-    url: https://www.lacomeevents.com/
-    logo_path: /assets/logos/lacome-events.png
-  - name: Domino Strategies
-    url: http://www.dominostrategies.com/
-    logo_path: /assets/logos/domino-strategies.png
-  - name: Traverse Image
-    url: https://www.traverseimage.com/
-    logo_path: /assets/logos/traverse-image.png
-  - name: milehighhouse
-    url: http://www.milehighhouse.com/
-    logo_path: /assets/logos/mile-high-house.png
-  - name: Two Parts
-    url: https://www.twoparts.com/
-    logo_path: /assets/logos/twoparts.png
-  - name: Denver Flea
-    url: https://www.denverflea.com/
-    logo_path: /assets/logos/denver-flea.png
-  - name: Battery 621
-    url: http://battery621.com/
-    logo_path: /assets/logos/battery-621.png
-  - name: The Coloradan
-    url: http://thecoloradan.com/
-    logo_path: /assets/logos/the-coloradan.png
-  - name: Bentgate Mountaineering
-    url: http://www.bentgate.com/
-    logo_path: /assets/logos/bentgate.png
-  - name: American Mountaineering Museum
-    url: http://www.mountaineeringmuseum.org/
-    logo_path: /assets/logos/museum.png
-  - name: American Alpine Club
-    url: http://www.americanalpineclub.org/
-    logo_path: /assets/logos/american-alpine-club.png
-  - name: Colorado Mountain Club
-    url: http://www.cmc.org/
-    logo_path: /assets/logos/colorado-mountain-club.png
-  - name: Toad & Co.
-    url: http://www.toadandco.com/
-    logo_path: /assets/logos/toad-co.png
-  - name: S|I OutPost
-    url: http://www.somethingindependent.com/
-    logo_path: /assets/logos/si-outpost.png
-  - name: Fishpond
-    url: http://www.fishpondusa.com/
-    logo_path: /assets/logos/fishpond.png
-  - name: Topo Designs
-    url: http://www.topodesigns.com/
-    logo_path: /assets/logos/topo-designs.png
-  - name: Icelantic Skis
-    url: https://www.icelanticskis.com/
-    logo_path: /assets/logos/icelantic-skis.png
-  - name: Optic Nerve
-    url: https://www.opticnerve.com/
-    logo_path: /assets/logos/optic-nerve.png
-  - name: Clear Creek RapidGrass Bluegrass Festival
-    url: https://www.rapidgrassfestival.com/
-    logo_path: /assets/logos/rapidgrass.png
-  - name: Big Agnes
-    url: https://www.bigagnes.com/
-    logo_path: /assets/logos/big-agnes.png
-  - name: Boa Technology
-    url: https://www.theboasystem.com/
-    logo_path: /assets/logos/boa.png
-  - name: The Surf Hotel
-    url: https://www.surfchateau.com/
-    logo_path: /assets/logos/surf-hotel.png
-
+2019:
+  - format: 3up
+    items:
+    - name: Colorado Outdoor Recreation Industry Office
+      url: https://choosecolorado.com/programs-initiatives/outdoor-recreation-industry-office/
+      logo_path: /assets/logos/orec.png
+    - name: Colorado School of Mines
+      url: https://www.mines.edu/
+      logo_path: /assets/logos/school-of-mines-bw.png
+    - name: City of Golden
+      url: https://www.cityofgolden.net/
+      logo_path: /assets/logos/city-of-golden.png
+2018:
+  - format: 1up
+    items:
+    - name: Colorado School of Mines
+      url: https://www.mines.edu/
+      logo_path: /assets/logos/school-of-mines-bw.png
+  - format: 2up
+    items:
+    - name: Colorado Outdoor Recreation Industry Office
+      url: https://choosecolorado.com/programs-initiatives/outdoor-recreation-industry-office/
+      logo_path: /assets/logos/orec.png
+    - name: Colorado Lending Source
+      url: https://www.coloradolendingsource.org/
+      logo_path: /assets/logos/colorado-lending-source.png
+  - format: 3up
+    items:
+    - name: Commerce Kitchen
+      url: https://www.commercekitchen.com/
+      logo_path: /assets/logos/commerce-kitchen.png
+    - name: Startup Colorado
+      url: https://siliconflatirons.org/initiatives/entrepreneurship-initiative/startup-colorado/
+      logo_path: /assets/logos/startup-colorado.png
+    - name: Messner Reeves LLP
+      url: https://www.messner.com/
+      logo_path: /assets/logos/messner-reeves-llp.png
+    - name: Centertable
+      url: https://www.meetatct.com/
+      logo_path: /assets/logos/centertable.png
+    - name: Harmonic Media
+      url: https://getharmonic.com/
+      logo_path: /assets/logos/harmonic.png
+    - name: The Public Works
+      url: http://www.thepublicworks.biz/
+      logo_path: /assets/logos/public-works.png
+    - name: Oskar Blues Brewery
+      url: http://www.oskarblues.com/
+      logo_path: /assets/logos/oskar-blues.png
+    - name: Colorado Native Lagers (AC Golden)
+      url: https://www.coloradonative.com/
+      logo_path: /assets/logos/colorado-native.png
+    - name: The Infinite Monkey Theorem
+      url: https://www.theinfinitemonkeytheorem.com/
+      logo_path: /assets/logos/infinite-monkey-theorem.png
+    - name: Jefferson County Economic Development Corporation
+      url: http://jeffcoedc.org/
+      logo_path: /assets/logos/jeffco-edc.png
+    - name: City of Golden
+      url: https://www.cityofgolden.net/
+      logo_path: /assets/logos/city-of-golden.png
+    - name: Colorado Office of Economic Development
+      url: https://choosecolorado.com/
+      logo_path: /assets/logos/oedit.png
+    - name: Imageseller
+      url: http://www.imageseller.com/
+      logo_path: /assets/logos/imageseller.png
+    - name: Traxion
+      url: http://www.traxion.co/
+      logo_path: /assets/logos/traxion.png
+    - name: Connects Workspace
+      url: http://www.connectsworkspace.com/
+      logo_path: /assets/logos/connects-workspace.png
+    - name: NREL
+      url: https://www.nrel.gov/
+      logo_path: /assets/logos/nrel.png
+    - name: LaCome Events
+      url: https://www.lacomeevents.com/
+      logo_path: /assets/logos/lacome-events.png
+    - name: Domino Strategies
+      url: http://www.dominostrategies.com/
+      logo_path: /assets/logos/domino-strategies.png
+    - name: Traverse Image
+      url: https://www.traverseimage.com/
+      logo_path: /assets/logos/traverse-image.png
+    - name: milehighhouse
+      url: http://www.milehighhouse.com/
+      logo_path: /assets/logos/mile-high-house.png
+    - name: Two Parts
+      url: https://www.twoparts.com/
+      logo_path: /assets/logos/twoparts.png
+    - name: Denver Flea
+      url: https://www.denverflea.com/
+      logo_path: /assets/logos/denver-flea.png
+    - name: Battery 621
+      url: http://battery621.com/
+      logo_path: /assets/logos/battery-621.png
+    - name: The Coloradan
+      url: http://thecoloradan.com/
+      logo_path: /assets/logos/the-coloradan.png
+    - name: Bentgate Mountaineering
+      url: http://www.bentgate.com/
+      logo_path: /assets/logos/bentgate.png
+    - name: American Mountaineering Museum
+      url: http://www.mountaineeringmuseum.org/
+      logo_path: /assets/logos/museum.png
+    - name: American Alpine Club
+      url: http://www.americanalpineclub.org/
+      logo_path: /assets/logos/american-alpine-club.png
+    - name: Colorado Mountain Club
+      url: http://www.cmc.org/
+      logo_path: /assets/logos/colorado-mountain-club.png
+    - name: Toad & Co.
+      url: http://www.toadandco.com/
+      logo_path: /assets/logos/toad-co.png
+    - name: S|I OutPost
+      url: http://www.somethingindependent.com/
+      logo_path: /assets/logos/si-outpost.png
+    - name: Fishpond
+      url: http://www.fishpondusa.com/
+      logo_path: /assets/logos/fishpond.png
+    - name: Topo Designs
+      url: http://www.topodesigns.com/
+      logo_path: /assets/logos/topo-designs.png
+    - name: Icelantic Skis
+      url: https://www.icelanticskis.com/
+      logo_path: /assets/logos/icelantic-skis.png
+    - name: Optic Nerve
+      url: https://www.opticnerve.com/
+      logo_path: /assets/logos/optic-nerve.png
+    - name: Clear Creek RapidGrass Bluegrass Festival
+      url: https://www.rapidgrassfestival.com/
+      logo_path: /assets/logos/rapidgrass.png
+    - name: Big Agnes
+      url: https://www.bigagnes.com/
+      logo_path: /assets/logos/big-agnes.png
+    - name: Boa Technology
+      url: https://www.theboasystem.com/
+      logo_path: /assets/logos/boa.png
+    - name: The Surf Hotel
+      url: https://www.surfchateau.com/
+      logo_path: /assets/logos/surf-hotel.png
