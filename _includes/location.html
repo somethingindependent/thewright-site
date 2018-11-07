@@ -14,5 +14,5 @@
     </section>
   </div>
 {% endif %}
-{% assign location_or_default = include.location_for_map | default: "Downtown Golden, CO" %}
-<iframe width="100%" class="location-iframe" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q={{ location_or_default | url_encode }}&key=AIzaSyAlRyNJifvgv8T2QFhiHG9ZgwQ1P7So8AM&maptype=satellite" allowfullscreen></iframe>
+{% comment %} {% assign location_or_default = include.location_for_map | default: "Downtown Golden, CO" %} {% endcomment %}
+{% comment %} <iframe width="100%" class="location-iframe" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q={{ location_or_default | url_encode }}&key=AIzaSyAlRyNJifvgv8T2QFhiHG9ZgwQ1P7So8AM&maptype=satellite" allowfullscreen></iframe> {% endcomment %}
