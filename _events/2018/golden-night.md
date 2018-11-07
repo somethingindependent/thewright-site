@@ -47,7 +47,7 @@ Check out the first look of the 18-19 line of skis, Icelantic t-shirt tie-dying 
 Inside listen to a bluegrass/gospel set while outside there's visual interactive game  projections. Triangulating friends from Utah, Boulder/Golden and Buena Vista was never so much fun. Say hello to an interesting collab with tastings, good friends and laughter. Partners include:
 
 * [Oh Heck Yeah](http://ohheckyeah.com/) (artist)
-* [Sister Sarah](http://www.jonwirtzmusic.com/events/2018/4/29/sister-sarah) (music)
+* Sister Sarah (music)
 * [Oskar Blues](https://www.oskarblues.com/) + [A.C. Golden](http://www.acgolden.com/) + [Deerhammer]()
 * Friend from [Utah](http://edcutah.org/industries/outdoor-products-recreation) & the [Arkansas Valley](https://chaffeecountyedc.com/business-environment/local-industry/)
 * [Golden Giddyup](http://goldengiddyup.com/) & [Camber Outdoors](https://camberoutdoors.org/)
