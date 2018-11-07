@@ -1,1 +1,0 @@
-Inspired by hard working, independent-minded men and women of the Rocky Mountain Region, The Wright brings 3 days of discussions, workshops, keynotes and events all culminating in the high-energy, much-anticipated Award Night program to Golden, Colorado – "Where the West Lives" &mdash; April 30-May 3, 2019.

@@ -28,7 +28,7 @@
   opacity : 0.8;
 
   background-image: url("/assets/thewright-panel.jpg");
-  background-position: center center;
+  background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 5;
@@ -133,7 +133,7 @@
   &.intro, &.contenders {
     text-align: center;
 
-    iframe.wright-explainer {
+    .wright-explainer {
       margin: $spacing-unit auto;
     }
   }
@@ -437,11 +437,12 @@
   @extend %button;
   margin: $spacing-unit;
   padding: $spacing-unit / 2 $spacing-unit * 2;
+  text-transform: uppercase;
 }
 
 .location-image {
   width: 100%;
-  height: 50vh;
+  height: 40vh;
   background-image: url('/assets/golden-arch-large.jpg');
   background-position: center center;
   background-repeat: no-repeat;
@@ -458,8 +459,8 @@
 // Contenders section
 .contenders-image {
   width: 100%;
-  height: 50vh;
-  background-image: url('/assets/wright-2018-jen-anne.jpg');
+  height: 40vh;
+  background-image: url('/assets/jen-anne-tomato-booth.jpg');
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -503,9 +504,9 @@
 // Save the date
 .save-the-date-image {
   width: 100%;
-  height: 50vh;
+  height: 40vh;
   background-image: url('/assets/wright-2018-panel.jpg');
-  background-position: top center;
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   filter: grayscale(100%);

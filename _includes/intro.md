@@ -2,8 +2,11 @@ The Wright recognizes the doers. Outdoor-inspired founders. Their companies are 
 
 ***Nominations will be open through December 15, 2018.***
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSerC87m_DdyfAY0jZBn_Pj-7ObtWNcm-ualhXQrg5KcYDd3jQ/viewform" class="cta-button" target="_blank">Nominate</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSerC87m_DdyfAY0jZBn_Pj-7ObtWNcm-ualhXQrg5KcYDd3jQ/viewform" class="cta-button" target="_blank">Nominate today</a>
 
-<iframe class="wright-explainer" src="https://player.vimeo.com/video/299118214?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Inspired by hard working, independent-minded men and women of the Rocky Mountain Region, The Wright brings 3 days of discussions, workshops, keynotes and events all culminating in the high-energy, much-anticipated Award Night program to Golden, Colorado &mdash; "Where the West Lives" &mdash; April 30 - May 3, 2019.
+<div class="fb-video wright-explainer" data-href="https://www.facebook.com/SomethingIndependent/videos/261196837833319/" data-show-text="false"></div>
+
+Inspired by hard working, independent-minded men and women of the Rocky Mountain Region, The Wright brings ***3 days of discussions, workshops, keynotes and events*** all culminating in the high-energy, much-anticipated Award Night program.
+
+## APRIL 30 - MAY 3, 2019 | GOLDEN, COLORADO
