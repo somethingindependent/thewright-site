@@ -436,6 +436,7 @@
 .cta-button, .cta-button:hover, .cta-button:visited {
   @extend %button;
   margin: $spacing-unit;
+  padding: $spacing-unit / 2 $spacing-unit * 2;
 }
 
 .location-image {
