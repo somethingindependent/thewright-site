@@ -4,7 +4,6 @@ date: 2018-05-03 17:30:00 +0000
 date_end: 2018-05-03 21:00:00 +0000
 location_name: Lockridge Arena
 location_address: 1651 Elm Street, Golden, Colorado 80401
-image: assets/the-wright-ig.png
 last_modified_at: now
 layout: event
 redirect_from:

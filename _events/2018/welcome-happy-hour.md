@@ -1,5 +1,4 @@
 ---
-image: assets/the-wright-ig.jpg
 last_modified_at: now
 layout: event
 title: Welcome Happy Hour

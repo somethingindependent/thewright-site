@@ -34,7 +34,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: assets/the-wright-ig.jpg
+      image: assets/wright19-now-accepting-nominations.jpg
       last_modified_at: now
   - scope:
       path: ""
