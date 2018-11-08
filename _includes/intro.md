@@ -9,4 +9,6 @@ The Wright recognizes the doers. Outdoor-inspired founders. Their companies are 
 
 Inspired by hard working, independent-minded men and women of the Rocky Mountain Region, The Wright brings ***3 days of discussions, workshops, keynotes and events*** all culminating in the high-energy, much-anticipated Award Night program.
 
+<img class="wright-tshirt-logo" src="assets/wright-tshirt-logo.png" />
+
 ## APRIL 30 - MAY 3, 2019 | GOLDEN, COLORADO
