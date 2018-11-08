@@ -141,7 +141,11 @@
 
     .wright-tshirt-logo {
       margin: $spacing-unit auto;
-      width: 50%;
+      width: 30%;
+      @include media-query($on-palm) {
+        margin: auto 0;
+        width: 50%;
+      }
     }
   }
 }
