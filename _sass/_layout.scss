@@ -15,6 +15,7 @@
   position: relative;
   z-index: 1;
   text-align: center;
+  min-height: 40vh;
 }
 
 .site-header:before {
@@ -35,18 +36,19 @@
 }
 
 .site-title  {
-  display: inline-block;
-  position: relative;
-  width: 50%;
-  margin: $spacing-unit * 2 auto;
-  padding: $spacing-unit;
-  background-color: $background-color;
-  z-index: 10;
+  display: none;
+  // display: inline-block;
+  // position: relative;
+  // width: 50%;
+  // margin: $spacing-unit * 2 auto;
+  // padding: $spacing-unit;
+  // background-color: $background-color;
+  // z-index: 10;
 
-  @include media-query($on-palm) {
-    width: calc(80% - (#{$spacing-unit} * 2));
-    width: -webkit-calc(80% - (#{$spacing-unit} * 2));
-  }
+  // @include media-query($on-palm) {
+  //   width: calc(80% - (#{$spacing-unit} * 2));
+  //   width: -webkit-calc(80% - (#{$spacing-unit} * 2));
+  // }
 }
 
 .site-social {
