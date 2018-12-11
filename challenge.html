@@ -1,0 +1,40 @@
+---
+layout: default
+subheader_copy: Innovation Challenge | Starts January 12, 2019
+---
+
+<div class="wrapper">
+  <section class="content-section intro">
+    {% capture intro %}
+      {%- include challenge/intro.md %}
+    {% endcapture %}
+    {{ intro | markdownify }}
+    {% include mailchimp-tw.html %}
+  </section>
+</div>
+
+<div class="contenders-image">
+</div>
+<div class="content-section-header">
+  <a name="areas-of-focus">Challenge Areas of Focus</a>
+</div>
+<div class="wrapper">
+  <section class="content-section areas-of-focus">
+    {% capture areas_of_focus %}
+      {%- include challenge/areas_of_focus.md %}
+    {% endcapture %}
+    {{ areas_of_focus | markdownify }}
+  </section>
+</div>
+
+<div class="content-section-header">
+  <a name="timeline">Timeline</a>
+</div>
+<div class="wrapper">
+  <section class="content-section timeline">
+    {% capture timeline %}
+      {%- include challenge/timeline.md %}
+    {% endcapture %}
+    {{ timeline | markdownify }}
+  </section>
+</div>

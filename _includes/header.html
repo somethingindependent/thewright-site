@@ -19,7 +19,11 @@ height="0" width="0" ></iframe></noscript>
       <a href="https://twitter.com/somethingindpnt" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
     </div>
     <div class="wrapper">
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSerC87m_DdyfAY0jZBn_Pj-7ObtWNcm-ualhXQrg5KcYDd3jQ/viewform" target="_blank">Now accepting 2019 contender nominations</a>
+      {% if page.subhead_href == blank %}
+        {{ page.subheader_copy }}
+      {% else %}
+        <a href="{{ page.subheader_href }}" target="_blank">{{ page.subheader_copy }}</a>
+      {% endif %}
     </div>
   </section>
 {% endunless %}
