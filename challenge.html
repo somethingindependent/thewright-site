@@ -1,6 +1,6 @@
 ---
 layout: default
-subheader_copy: Innovation Challenge | Starts January 12, 2019
+subheader_copy: Outdoor Industry Innovation Challenge  |  Starts January 12
 redirect_from:
 - "/challenge"
 ---
@@ -17,14 +17,14 @@ redirect_from:
 
 <div class="trade-school-image"></div>
 <div class="content-section-header">
-  <a name="areas-of-focus">Challenge Areas of Focus</a>
+  <a name="about">About</a>
 </div>
 <div class="wrapper">
-  <section class="content-section areas-of-focus">
-    {% capture areas_of_focus %}
-      {%- include challenge/areas_of_focus.md %}
+  <section class="content-section about">
+    {% capture about %}
+      {%- include challenge/about.md %}
     {% endcapture %}
-    {{ areas_of_focus | markdownify }}
+    {{ about | markdownify }}
   </section>
 </div>
 
@@ -38,5 +38,17 @@ redirect_from:
       {%- include challenge/timeline.md %}
     {% endcapture %}
     {{ timeline | markdownify }}
+  </section>
+</div>
+
+<div class="content-section-header">
+  <a name="faq">Frequently Asked Questions</a>
+</div>
+<div class="wrapper">
+  <section class="content-section faq">
+    {% capture faq %}
+      {%- include challenge/faq.md %}
+    {% endcapture %}
+    {{ faq | markdownify }}
   </section>
 </div>

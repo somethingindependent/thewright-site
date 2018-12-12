@@ -1,5 +1,17 @@
-New for 2019, The Wright Outdoor Innovation Challenge is a non-traditional collegiate innovation competition designed to bring together problem-solving minds from a variety of backgrounds (from engineering and hard sciences to economics, business, and policy) to address pressing needs within the outdoor recreation industry. Student teams will have the opportunity to learn about the unique challenges facing the industry in seven areas of focus, engage with mentors with deep industry experience, and pitch their ideas in a tournament format for a shot at cash and prizes.
+## A non-traditional collegiate innovation competition bring together entrepreneurial problem-solvers from a variety of backgrounds to address pressing challenges within the outdoor recreation industry.
 
-The goal of the Challenge is to catalyze innovative and entrepreneurial thinking in participating students, encouraging them to apply a problem-solving mindset beyond traditional disciplines. More broadly, we hope to establish foundational and authentic connections between Colorado higher-education institutions and the outdoor industry, creating inroads for future collaboration and career opportunities.
+Collaborate and compete with fellow students from Colorado’s higher-education community.
 
-The Challenge is not your typical award program or pitch competition. We’re looking for students who are passionate about real work in the outdoor industry, and committed to developing practical, innovative solutions to real-world problems with an entrepreneur’s eye.
+Connect with outdoor enthusiasts, aspiring entrepreneurs and industry innovators.
+
+Be considered for cash prizes and special recognitions.
+
+## Join us at one of our kickoff events in January:
+
+### KICK-OFF #1
+Saturday, January 12, 2019 from 10am-2pm
+Colorado School of Mines - Golden, CO
+
+### KICK-OFF #2
+Jan 30 - Feb 1, 2019, time TBA
+Outdoor Retailer + SnowShow - Denver, CO
