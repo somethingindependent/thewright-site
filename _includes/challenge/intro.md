@@ -8,10 +8,12 @@ Be considered for cash prizes and special recognitions.
 
 ## Join us at one of our kickoff events in January:
 
-### KICK-OFF #1
-Saturday, January 12, 2019 from 10am-2pm
-Colorado School of Mines - Golden, CO
+<a class="cta-button"
+href="https://innovation.mines.edu/innovationchallenges/">
+Saturday 1/12, 10am-2pm, Colorado School of Mines
+</a>
 
-### KICK-OFF #2
-Jan 30 - Feb 1, 2019, time TBA
-Outdoor Retailer + SnowShow - Denver, CO
+<a class="cta-button"
+href="https://www.eventbrite.com/e/the-wright-outdoor-innovation-challenge-january-30-kickoff-2-tickets-4512791882">
+Wednesday 1/30, 4-7pm, The Commons on Champa
+</a>
