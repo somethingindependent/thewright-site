@@ -16,7 +16,7 @@ Expressing narrative across diverse media channels (imagery, written word, video
 
 ## Panel
 
-* [Aidan Haley, Filmmaker](http://www.aidanhaley.com/work)
+* [Aidan Haley, Filmmaker](http://www.aidanhaley.com/)
 * [Brendan Leonard, Semi-Rad Media](https://semi-rad.com/)
 * [Mary Anne Potts, Roam](https://roam.media/) & formerly of National Geographic Adventure magazine
 

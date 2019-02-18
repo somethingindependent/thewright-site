@@ -42,6 +42,31 @@ redirect_from:
 </div>
 
 <div class="content-section-header">
+  <a name="pitches">Pitches</a>
+</div>
+<div class="wrapper">
+  <section class="content-section pitches">
+    {% capture pitches %}
+      {%- include challenge/pitches.md %}
+    {% endcapture %}
+    {{ pitches | markdownify }}
+    <div class="pitches">
+      {% for pitch in site.challenge_pitches %}
+        <div class="pitch-container">
+          <h3 class="pitch-company"><a href="{{ pitch.company_url }}" target="_blank">{{ pitch.company }}</a></h3>
+          <h4 class="pitch-presenter">Presented by {{ pitch.presenter }}</h4>
+          <iframe class="pitch-video" src="{{ pitch.vimeo_embed_url }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          <div class="pitch-description">
+            {{ pitch.content }}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+</div>
+
+
+<div class="content-section-header">
   <a name="faq">Frequently Asked Questions</a>
 </div>
 <div class="wrapper">

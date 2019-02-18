@@ -541,3 +541,59 @@
   background-size: cover;
   filter: grayscale(100%);
 }
+
+// Pitch competition
+
+.pitches {
+  padding: $spacing-unit 0;
+  margin: auto;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+
+  @include media-query($on-palm) {
+    margin: auto 0;
+    width: 100%;
+  }
+}
+
+.pitch-container {
+  margin-bottom: $spacing-unit;
+  width: 50%;
+  margin: 0;
+  padding: 0;
+
+  @include media-query($on-palm) {
+    width: 100%;
+  }
+}
+
+.pitch-company {
+  font-size: ms(1);
+  margin-bottom: 0;
+}
+
+.pitch-presenter {
+  font-size: ms(0);
+}
+
+.pitch-video {
+  width: 100%;
+  margin: auto;
+  padding: 0
+}
+
+.pitch-description {
+  margin: 0;
+  padding: $spacing-unit / 2;
+  font-size: ms(-1);
+}
+
+// .artist-tagline {
+//   font-style: italic;
+//   font-size: ms(0);
+//   margin-bottom: $spacing-unit / 2;
+// }
+
