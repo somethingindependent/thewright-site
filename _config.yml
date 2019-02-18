@@ -30,6 +30,8 @@ collections:
   events:
     output: true
     permalink: /:collection/:path
+  challenge_pitches:
+    output: false
 defaults:
   - scope:
       path: ""
