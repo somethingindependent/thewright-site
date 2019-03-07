@@ -2,6 +2,7 @@ A 3-DAY SUMMIT AND AWARD PROGRAM ILLUMINATING THE INDUSTRY AND CULTURE OF THE OU
 
 <a href="https://www.facebook.com/SomethingIndependent/videos/261196837833319/" class="wright-explainer">
   <img alt="Keynote Talks, Panel Discussions, Golden Night, Award Night" src="{{ "/assets/wright-4square.jpg" | relative_url }}" />
+  <em>(click for video)</em>
 </a>
 
 Inspired by hard working, independent-minded men and women of the Rocky Mountain Region, The Wright brings ***3 days of discussions, workshops, keynotes and events*** all culminating in the high-energy, much-anticipated Award Night program.
