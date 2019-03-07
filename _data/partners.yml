@@ -1,15 +1,20 @@
 2019:
-  - format: 3up
+  - format: 2up
     items:
-    - name: Colorado Outdoor Recreation Industry Office
-      url: https://choosecolorado.com/programs-initiatives/outdoor-recreation-industry-office/
-      logo_path: /assets/logos/orec.png
     - name: Colorado School of Mines
       url: https://www.mines.edu/
       logo_path: /assets/logos/school-of-mines-bw.png
+    - name: Colorado Outdoor Recreation Industry Office
+      url: https://choosecolorado.com/programs-initiatives/outdoor-recreation-industry-office/
+      logo_path: /assets/logos/orec.png
+  - format: 2up
+    items:
     - name: City of Golden
       url: https://www.cityofgolden.net/
       logo_path: /assets/logos/city-of-golden.png
+    - name: Colorado Lending Source
+      url: https://www.coloradolendingsource.org/
+      logo_path: /assets/logos/colorado-lending-source.png
 2018:
   - format: 1up
     items:
